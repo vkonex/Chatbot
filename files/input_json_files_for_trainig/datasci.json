@@ -1,0 +1,389 @@
+[
+	{"tag": "ds_q1",
+		"patterns": ["What is Data Science?","Data science"],
+		"response": ["Data Science is a combination of algorithms, tools, and machine learning technique which helps you to find common hidden patterns from the given raw data."]
+    },
+
+	{"tag": "ds_q2",
+		"patterns": ["What is supervised machine learning?","supervised machine learning"],
+		"response": ["A case when we have both features (the matrix X) and the labels (the vector y)"]
+    },
+
+	{"tag": "ds_q3",
+		"patterns": ["What is logistic regression in Data Science?","logistic regression","What is logistic regression"],
+		"response": ["Logistic Regression is also called as the logit model. It is a method to forecast the binary outcome from a linear combination of predictor variables."]
+    },
+
+	{"tag": "ds_q4",
+		"patterns": ["Discuss Decision Tree algorithm","Decision Tree algorithm","What is Decision Tree algorithm"],
+		"response": ["A decision tree is a popular supervised machine learning algorithm. It is mainly used for Regression and Classification. It allows breaks down a dataset into smaller subsets. The decision tree can able to handle both categorical and numerical data."]
+    },
+
+	{"tag": "ds_q4",
+		"patterns": ["What is Prior probability and likelihood?"],
+		"response": ["Prior probability is the proportion of the dependent variable in the data set while the likelihood is the probability of classifying a given observant in the presence of some other variable."] 
+	},
+	
+	{"tag": "ds_q5",
+		"patterns": ["Explain Recommender Systems?","what is Recommender Systems?"],
+		"response": ["It is a subclass of information filtering techniques. It helps you to predict the preferences or ratings which users likely to give to a product."] 
+	},
+
+	{"tag": "ds_q6",
+		"patterns": ["Name three disadvantages of using a linear model","disadvantages of using a linear model","disadvantages of linear model"],
+		"response": ["Three disadvantages of the linear model are: \nThe assumption of linearity of the errors.\nYou can’t use this model for binary or count outcomes.\nThere are plenty of overfitting problems that it can’t solve."] 
+	},
+
+	{"tag": "ds_q7",
+		"patterns": ["Explain bias?","What is bias?"],
+		"response": ["Bias is an error introduced in your model because of the oversimplification of a machine learning algorithm.” It can lead to underfitting."] 
+	},
+
+	{"tag": "ds_q8",
+		"patterns": ["Discuss ‘Naive’ in a Naive Bayes algorithm?","What is Naive Bayes algorithm?","Naive Bayes algorithm"],
+		"response": ["The Naive Bayes Algorithm model is based on the Bayes Theorem. It describes the probability of an event. It is based on prior knowledge of conditions which might be related to that specific event."] 
+	},
+
+	{"tag": "ds_q9",
+		"patterns": ["State the difference between the expected value and mean value?","difference between the expected value and mean value"],
+		"response": ["They are not many differences, but both of these terms are used in different contexts. Mean value is generally referred to when you are discussing a probability distribution whereas expected value is referred to in the context of a random variable."] 
+	},
+
+	{"tag": "ds_q10",
+		"patterns": ["What is Ensemble Learning?","Ensemble Learning?","Explain Ensemble Learning?"],
+		"response": ["The ensemble is a method of combining a diverse set of learners together to improvise on the stability and predictive power of the model. Two types of Ensemble learning methods are:\nBagging\nBagging method helps you to implement similar learners on small sample populations. It helps you to make nearer predictions.\nBoosting\nBoosting is an iterative method which allows you to adjust the weight of an observation depends upon the last classification. Boosting decreases the bias error and helps you to build strong predictive models."] 
+	},
+
+	{"tag": "ds_q11",
+		"patterns": ["Explain Eigenvalues and Eigenvectors?","Eigenvalues and Eigenvectors?","What are Eigenvalues and Eigenvectors?"],
+		"response": ["Eigenvectors are for understanding linear transformations. Data scientist need to calculate the eigenvectors for a covariance matrix or correlation. Eigenvalues are the directions along using specific linear transformation acts by compressing, flipping, or stretching."]
+	},
+
+	{"tag": "ds_q12",
+		"patterns": ["Define the term cross-validation?","cross-validation?","What is cross-validation?"],
+		"response": ["Cross-validation is a validation technique for evaluating how the outcomes of statistical analysis will generalize for an Independent dataset. This method is used in backgrounds where the objective is forecast, and one needs to estimate how accurately a model will accomplish."]
+	},
+
+	{"tag": "ds_q13",
+		"patterns": ["Discuss Artificial Neural Networks?","Artificial Neural Networks","What is Artificial Neural Networks?"],
+		"response": ["Artificial Neural networks (ANN) are a special set of algorithms that have revolutionized machine learning. It helps you to adapt according to changing input. So the network generates the best possible result without redesigning the output criteria."]
+	},
+
+	{"tag": "ds_q14",
+		"patterns": ["What is Back Propagation?","Back Propagation?"],
+		"response": ["Back-propagation is the essence of neural net training. It is the method of tuning the weights of a neural net depend upon the error rate obtained in the previous epoch. Proper tuning of the helps you to reduce error rates and to make the model reliable by increasing its generalization."]
+	},
+
+	{"tag": "ds_q15",
+		"patterns": ["What is a Random Forest?","Random Forest?","What do you mean by Random Forest?"],
+		"response": ["Random forest is a machine learning method which helps you to perform all types of regression and classification tasks. It is also used for treating missing values and outlier values."]
+	},
+
+	
+	{"tag": "ds_q16",
+		"patterns": ["What is the K-means clustering method?","K-means clustering method?","What do you mean by K-means clustering method?"],
+		"response": ["K-means clustering is an important unsupervised learning method. It is the technique of classifying data using a certain set of clusters which is called K clusters. It is deployed for grouping to find out the similarity in the data."]
+	},
+	
+	{"tag": "ds_q17",
+		"patterns": ["Explain p-value?","p-value?","What do you mean by p-value?"],
+		"response": ["When you conduct a hypothesis test in statistics, a p-value allows you to determine the strength of your results. It is a numerical number between 0 and 1. Based on the value it will help you to denote the strength of the specific result."]
+	},
+
+	{"tag": "ds_q18",
+		"patterns": ["Define the term deep learning?","deep learning?","What do you mean by deep learning?"],
+		"response": ["Deep Learning is a subtype of machine learning. It is concerned with algorithms inspired by the structure called artificial neural networks (ANN)."]
+	},
+
+	{"tag": "ds_q19",
+		"patterns": ["What is Normal Distribution?","Normal Distribution?","What do you mean by Normal Distribution?"],
+		"response": ["A normal distribution is a set of a continuous variable spread across a normal curve or in the shape of a bell curve. You can consider it as a continuous probability distribution which is useful in statistics. It is useful to analyze the variables and their relationships when we are using the normal distribution curve."]
+	},
+
+	{"tag": "ds_q20",
+		"patterns": ["Name various types of Deep Learning Frameworks?","various types of Deep Learning Frameworks","What are various types of Deep Learning Frameworks?"],
+		"response": ["Pytorch\nMicrosoft Cognitive Toolkit\nTensorFlow\nCaffe\nChainer\nKeras\n"]
+	},
+
+	{"tag": "ds_q21",
+		"patterns": ["How is KNN different from k-means clustering?","difference between KNN and K means clustering?"],
+		"response": ["The critical difference here is that KNN needs labeled points and is thus supervised learning,while k-means doesn’t — and is thus unsupervised learning"]
+	},
+
+	{"tag": "ds_q23",
+		"patterns": ["What do you understand by Imbalanced Data?","Imbalanced Data?","explain Imbalanced Data?"],
+		"response": ["Data is said to be highly imbalanced if it is distributed unequally across different categories. These datasets result in an error in model performance and result in inaccuracy."]
+	},
+
+	{"tag": "ds_24",
+		"patterns": ["Why data cleaning plays a vital role in the analysis?"],
+		"response": [" Cleaning data from multiple sources to transform it into a format that data analysts or data scientists can work with is a cumbersome process because - as the number of data sources increases, the time take to clean the data increases exponentially due to the number of sources and the volume of data generated in these sources."]
+    },
+
+	{"tag": "ds_q25",
+		"patterns": ["Differentiate between univariate, bivariate, and multivariate analysis."],
+		"response": ["These are descriptive statistical analysis techniques that can be differentiated based on the number of variables involved at a given point in time."] 
+	},
+	
+	{"tag": "ds_q26",
+		"patterns": ["What do you understand by the term Normal Distribution?","Normal Distribution"],
+		"response": ["Data is usually distributed in different ways with a bias to the left or to the right or it can all be jumbled up. However, there are chances that data is distributed around a central value without any bias to the left or right and reaches normal distribution in the form of a bell-shaped curve."] 
+	},
+
+	{"tag": "ds_q27",
+		"patterns": ["What is Linear Regression?","Linear Regression"],
+		"response": ["Linear regression is a statistical technique where the score of a variable Y is predicted from the score of a second variable X. X is referred to as the predictor variable and Y as the criterion variable."] 
+	},
+
+	{"tag": "ds_q28",
+		"patterns": ["What are Interpolation and Extrapolation?"],
+		"response": ["Estimating a value from 2 known values from a list of values is Interpolation. Extrapolation is approximating a value by extending a known set of values or facts."] 
+	},
+    {"tag": "ds_q29",
+		"patterns": ["What is power analysis?"],
+		"response": ["An experimental design technique for determining the effect of a given sample size."]
+    },
+
+	{"tag": "ds_q30",
+		"patterns": ["What is Collaborative filtering?"],
+		"response": ["The process of filtering used by most of the recommender systems to find patterns or information by collaborating viewpoints, various data sources, and multiple agents."] 
+	},
+	
+	{"tag": "ds_q31",
+		"patterns": ["What is the difference between Cluster and Systematic Sampling?"],
+		"response": ["Cluster sampling is a technique used when it becomes difficult to study the target population spread across a wide area and simple random sampling cannot be applied. "] 
+	},
+
+	{"tag": "ds_q32",
+		"patterns": ["Are expected value and mean value different?"],
+		"response": ["They are not different but the terms are used in different contexts. Mean is generally referred to when talking about a probability distribution or sample population whereas expected value is generally referred in a random variable context."] 
+	},
+
+	{"tag": "ds_q33",
+		"patterns": ["What does P-value signify about the statistical data?"],
+		"response": ["P-value is used to determine the significance of results after a hypothesis test in statistics. P-value helps the readers to draw conclusions and is always between 0 and 1."] 
+	},
+    {"tag": "ds_q34",
+		"patterns": ["Do gradient descent methods always converge to the same point?"],
+		"response": ["No, they do not because in some cases it reaches a local minima or a local optima point. You don’t reach the global optima point. It depends on the data and starting conditions"]
+    },
+
+	{"tag": "ds_q35",
+		"patterns": [" What is Machine Learning?","Machine learning"],
+		"response": ["The simplest way to answer this question is – we give the data and equation to the machine. Ask the machine to look at the data and identify the coefficient values in an equation."]
+    },
+
+	{"tag": "ds_q36",
+		"patterns": [" What is Clustering?","Clustering"],
+		"response": ["Clustering involves grouping sets of similar data (based on defined criteria). It’s useful for segmenting data into several groups and performing analysis on each data set to find patterns."]
+    },
+
+	{"tag": "ds_q37",
+		"patterns": [" What is Dimension reduction?","Dimension reduction"],
+		"response": ["Dimension reduction reduces the number of variables being considered to find the exact information required."]
+	},
+
+	{"tag": "ds_q38",
+		"patterns": [" What is Reinforcement learning?","Reinforcement learning"],
+		"response": ["Reinforcement learning focuses on regimented learning processes, where a machine learning algorithm \nis provided with a set of actions, parameters and end values. By defining the rules, \nthe machine learning algorithm then tries to explore different options and possibilities, monitoring and evaluating each result to determine which one is optimal.\n Reinforcement learning teaches the machine trial and error. It learns from past experiences and begins to adapt its approach in response to the \nsituation to achieve the best possible result."]
+	},
+
+	{"tag": "ds_q39",
+		"patterns": [" What is Naive Bayes Classifier Algorithm?","Naive Bayes Classifier Algorithm"],
+		"response": ["The Naïve Bayes classifier is based on Bayes’ theorem and classifies every value as independent of any other value. It allows us to predict a class/category, based on a given set of features, using probability.\n\nDespite its simplicity, the classifier does surprisingly well and is often used due to the fact it outperforms more sophisticated classification methods."]
+	},
+
+	{"tag": "ds_q40",
+		"patterns": [" What is K Means Clustering Algorithm?","K Means Clustering Algorithm"],
+		"response": ["The K Means Clustering algorithm is a type of unsupervised learning, which is used to categorise unlabelled data, i.e. data without defined categories or groups. The algorithm works by finding groups within the data, with the number of groups represented by the variable K. It then works iteratively to assign each data point to one of K groups based on the features provided."]
+	},
+	
+	{"tag": "ds_q41",
+		"patterns": [" What is Support Vector Machine Algorithm?","Support Vector Machine Algorithm"],
+		"response": ["Support Vector Machine algorithms are supervised learning models that analyse data used for classification and regression analysis. They essentially filter data into categories, which is achieved by providing a set of training examples, each set marked as belonging to one or the other of the two categories. The algorithm then works to build a model that assigns new values to one category or the other."]
+	},
+
+	{"tag": "ds_q43",
+		"patterns": [" What is Linear Regression?","Linear Regression"],
+		"response": ["Linear regression is the most basic type of regression. Simple linear regression allows us to understand the relationships between two continuous variables. "]
+	},
+
+	{"tag": "ds_q44",
+		"patterns": [" What is Logistic Regression?","Logistic Regression"],
+		"response": ["Logistic regression focuses on estimating the probability of an event occurring based on the previous data provided. It is used to cover a binary dependent variable, that is where only two values, 0 and 1, represent outcomes."]
+	},
+	
+	{"tag": "ds_q45",
+		"patterns": [" What is Logistic Regression?","Logistic Regression"],
+		"response": ["Logistic regression focuses on estimating the probability of an event occurring based on the previous data provided. It is used to cover a binary dependent variable, that is where only two values, 0 and 1, represent outcomes."]
+	},
+	
+	{"tag": "ds_q46",
+		"patterns": ["Artificial Neural Networks?","what is Artificial Neural Networks","What do you mean by Artificial Neural Networks?","ANN?","what is ANN","What do you mean by ANN?"],
+		"response": ["An artificial neural network (ANN) comprises ‘units’ arranged in a series of layers, each of which connects to layers on either side. ANNs are inspired by biological systems, such as the brain, and how they process information. ANNs are essentially a large number of interconnected processing elements, working in unison to solve specific problems.\nANNs also learn by example and through experience, and they are extremely useful for modelling non-linear relationships in high-dimensional data or where the relationship amongst the input variables is difficult to understand."]
+	},
+	
+	{"tag": "ds_q47",
+		"patterns": ["Decision Trees?","what is Decision Trees","What do you mean by Decision Trees?"],
+		"response": ["A decision tree is a flow-chart-like tree structure that uses a branching method to illustrate every possible outcome of a decision. Each node within the tree represents a test on a specific variable – and each branch is the outcome of that test."]
+	},
+
+	{"tag": "ds_q48",
+		"patterns": ["Random Forests ?","what is Random Forests ","What do you mean by Random Forests?"],
+		"response": ["Random forests or ‘random decision forests’ is an ensemble learning method, combining multiple algorithms to generate better results for classification, regression and other tasks. Each individual classifier is weak, but when combined with others, can produce excellent results. The algorithm starts with a ‘decision tree’ (a tree-like graph or model of decisions) and an input is entered at the top. It then travels down the tree, with data being segmented into smaller and smaller sets, based on specific variables."]
+	},
+
+	{"tag": "ds_q49",
+		"patterns": ["Decision Trees?","what is Decision Trees","What do you mean by Decision Trees?"],
+		"response": ["A decision tree is a flow-chart-like tree structure that uses a branching method to illustrate every possible outcome of a decision. Each node within the tree represents a test on a specific variable – and each branch is the outcome of that test."]
+	},
+
+	{"tag": "ds_q50",
+		"patterns": ["confusion matrix?","what is a confusion matrix?","What do you mean by confusion matrix?"],
+		"response": ["The confusion matrix is a 2X2 table that contains 4 outputs provided by the binary classifier. Various measures, such as error-rate, accuracy, specificity, sensitivity, precision and recall are derived from it. Confusion Matrix"]
+	},
+
+	{"tag": "ds_q51",
+		"patterns": ["confusion matrix?","what is a confusion matrix?","What do you mean by confusion matrix?"],
+		"response": ["The confusion matrix is a 2X2 table that contains 4 outputs provided by the binary classifier. Various measures, such as error-rate, accuracy, specificity, sensitivity, precision and recall are derived from it."]
+	},
+
+	{"tag": "ds_q52",
+		"patterns": ["Describe Markov chains?","Markov chains?","What do you mean by Markov chains?"],
+		"response": ["Markov chain is a type of stochastic process. In Markov chains, the future probability of any state depends only on the current state."]
+	},
+
+	{"tag": "ds_q53",
+		"patterns": ["Describe Markov chains?","Markov chains?","What do you mean by Markov chains?"],
+		"response": ["Markov chain is a type of stochastic process. In Markov chains, the future probability of any state depends only on the current state."]
+	},
+
+	{"tag": "ds_q54",
+		"patterns": ["What do you understand by true positive rate?","true positive rate?","What do you mean by true positive rate?"],
+		"response": ["True Positive rate(TPR) is the ratio of True Positives to True Positives and False Negatives. It is the probability that an actual positive will test as positive.\nTPR=TP/TP+FN"]
+	},
+
+	{"tag": "ds_q55",
+		"patterns": ["What do you understand by false positive rate?","false positive rate?","What do you mean by false positive rate?"],
+		"response": ["The False Positive Rate(FPR) is the ratio of the False Positives to all the positives(True positives and false positives). It is the probability of a false alarm, i.e., a positive result will be given when it is actually negative.\nFPR=FP/TP+FP"]
+	},
+
+	{"tag": "ds_q56",
+		"patterns": ["What does NLP stand for?","NLP","Natural language processing","What do you mean by Natural language processing","what is Natural language processing","what is NLP"],
+		"response": ["NLP stands for Natural language processing. It is the study of programming computers to learn large amounts of textual data. Examples of NLP include tokenization, stop words removal, stemming, sentiment analysis, etc."]
+	},
+
+	{"tag": "ds_q57",
+		"patterns": ["What does Precision for?","Precision","What do you mean by Precision","what is Precision"],
+		"response": ["Precision = True Positives / (True Positives + False Positives)\n\nPrecision is defined as the number of correct positive predictions made out of all positive predictions that could have been made. Recall is calculated as the number of true positives divided by the total number of true positives and false negatives."]
+	},
+
+	{"tag": "ds_q58",
+		"patterns": ["What does Recall for?","Recall","What do you mean by Recall","what is Recall"],
+		"response": ["Recall = True Positives / (True Positives + False Negatives)"]
+	},
+
+	{"tag": "ds_q59",
+		"patterns": ["What does error for?","error","What do you mean by error","what is error"],
+		"response": ["An error refers to the difference between the predicted value and the actual value.\nThe most popular means for calculating errors in data science are Mean Absolute Error(MAE), Mean Squared Error(MSE),\nand Root Mean Squared Error(RMSE)."]
+	},
+
+	{"tag": "ds_q60",
+		"patterns": ["What does residual error for?","residual error","What do you mean by residual error","what is residual error"],
+		"response": ["Residual is the difference between a group of values observed and their arithmetical mean. An error is generally unobservable while a residual error can be visualized on a graph. Error represents how observed data differs from the actual population. While a residual represents the way observed data differs from the sample population data."]
+	},
+
+
+	{"tag": "ds_q61",
+		"patterns": ["What does Correlation for?","Correlation","What do you mean by Correlation","what is Correlation"],
+		"response": ["Correlation is considered or described as the best technique for measuring and also for estimating the quantitative relationship between two variables. Correlation measures how strongly two variables are related."]
+	},
+
+	{"tag": "ds_q62",
+		"patterns": ["Covariance","What do you mean by Covariance","what is Covariance"],
+		"response": ["In covariance two items vary together and it’s a measure that indicates the extent to which two random variables change in cycle. It is a statistical term; it explains the systematic relation between a pair of random variables, wherein changes in one variable reciprocal by a corresponding change in another variable."]
+	},
+
+	{"tag": "ds_q63",
+		"patterns": ["Underfitting","What do you mean by Underfitting","what is Underfitting"],
+		"response": ["Underfitting occurs when a statistical model or machine learning algorithm cannot capture the underlying trend of the data. Underfitting would occur, for example, when fitting a linear model to non-linear data. Such a model too would have poor predictive performance."]
+	},
+
+	{"tag": "ds_q64",
+		"patterns": ["overfitting","What do you mean by overfitting","what is overfitting"],
+		"response": ["overfitting , a  statistical model describes random error or noise instead of the underlying relationship. Overfitting occurs when a model is excessively complex, such as having too many parameters relative to the number of observations. A model that has been overfitted, has poor predictive performance, as it overreacts to minor fluctuations in the training data."]
+	},
+
+	{"tag": "ds_q65",
+		"patterns": ["What Are the Types of Biases That Can Occur During Sampling?"],
+		"response": ["Selection bias\nUnder coverage bias\nSurvivorship bias"]
+	},
+
+	{"tag": "ds_q66",
+		"patterns": ["What is Survivorship Bias?"],
+		"response": ["It is the logical error of focusing aspects that support surviving some process and casually overlooking those that did not work because of their lack of prominence. This can lead to wrong conclusions in numerous different means."]
+	},
+
+	
+	{"tag": "ds_q67",
+		"patterns": ["What is selection Bias?"],
+		"response": ["Selection bias occurs when the sample obtained is not representative of the population intended to be analysed."]	
+	},
+
+	{"tag": "ds_q68",
+		"patterns": ["What is TF/IDF vectorization?","TF/IDF","TFIDF"],
+		"response": ["TF–IDF is short for term frequency-inverse document frequency, is a numerical statistic that is intended to reflect how important a word is to a document in a collection or corpus. It is often used as a weighting factor in information retrieval and text mining.\nThe TF–IDF value increases proportionally to the number of times a word appears in the document but is offset by the frequency of the word in the corpus, which helps to adjust for the fact that some words appear more frequently in general."]
+	},
+
+	{"tag": "ds_q69",
+		"patterns": ["How do you build a random forest model?"],
+		"response": ["A random forest model combines many decision tree models together. The decision trees chosen have high bias and low variance. These decision trees are placed parallelly. Each decision tree takes a sample subset of rows and columns with replacement. The result of each decision tree is noted and the majority, which is mode in case of classification problem, or mean and median in case of a regression problem is taken as the answer."]	
+	},
+
+	{"tag": "ds_q70",
+		"patterns": ["What is SVM algorithm?","Explain SVM algorithm in detail.","support vector machine","SVM","Explain support vector machine algorithm in detail","What is support vector machine algorithm"],
+		"response": ["SVM stands for support vector machine, it is a supervised machine learning algorithm which can be used for both Regression and Classification. If you have n features in your training data set, SVM tries to plot it in n-dimensional space with the value of each feature being the value of a particular coordinate. SVM uses hyperplanes to separate out different classes based on the provided kernel function."]
+	},
+
+	{"tag": "ds_q71",
+		"patterns": ["What are the different kernels in SVM?","What are the different kernels in support vector machine"],
+		"response": ["There are four types of kernels in SVM.\nLinear Kernel\nPolynomial kernel\nRadial basis kernel\nSigmoid kernel"]
+	},
+
+	{"tag": "ds_q72",
+		"patterns": ["What is Ensemble Learning?","Ensemble Learning?"],
+		"response": ["Ensemble Learning is basically combining a diverse set of learners(Individual models) together to improvise on the stability and predictive power of the model."]
+	},
+
+	{"tag": "ds_q73",
+		"patterns": ["What is Ensemble Learning?","Ensemble Learning?"],
+		"response": ["Ensemble Learning is basically combining a diverse set of learners(Individual models) together to improvise on the stability and predictive power of the model."]
+	},
+
+	{"tag": "ds_q74",
+		"patterns": ["What is Bagging?","Bagging?","what do you mean by Bagging"],
+		"response": ["Bagging tries to implement similar learners on small sample populations and then takes a mean of all the predictions. In generalised bagging, you can use different learners on different population. As you expect this helps us to reduce the variance error."]
+	}
+
+]
+
+	
+
+
+
+
+	
+
+
+	
+
+	
+	
+
+	
+	
+	
+
+
+	
+	

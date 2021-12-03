@@ -1,0 +1,1161 @@
+[
+	{"tag": "evsc3_q1",
+		"patterns": ["Can you name the plant on which Didi was sitting?"],
+		"response": ["Yes, she was sitting on the grass."]
+    },
+
+    {"tag": "evsc3_q2",
+		"patterns": ["Have you seen a tree with a trunk as thick as the one shown in the picture?"],
+		"response": ["Yes, the Banyan Tree near my house has a trunk as thick as the one given in the picture."]
+    },
+
+    {"tag": "evsc3_q3",
+		"patterns": ["Do all the leaves have similar colours, shapes and margins?"],
+		"response": ["No, all the leaves have different colours, shapes and margins."]
+    },
+
+    {"tag": "evsc3_q4",
+		"patterns": ["Collect a few leaves of plants like lemon, mango, neem, basil (tulsi ), mint (pudina)\nand coriander (dhaniya). Crush the leaves and smell them.\nDo they all smell alike? Can you identify the leaves just by their smell?"],
+		"response": ["No, they don’t smell alike. Yes, some of the leaves can be identified by their smell."]
+    },
+	
+	{"tag": "evsc3_q5",
+		"patterns": ["Look at the rubbings made by the others. Are the rubbings of different plants similar?"],
+		"response": ["No, the rubbings are different."]
+    },
+
+    {"tag": "evsc3_q6",
+		"patterns": ["Which leaf gave a good rubbing?"],
+		"response": ["The leaves which are rough in texture, gave a good rubbing."]
+    },
+
+    {"tag": "evsc3_q7",
+		"patterns": ["In case of which tree was the rubbing of the trunk difficult? Why?"],
+		"response": ["Rubbing is difficult of the trees with soft-textured trunks (for e.g. ashoka, mango tree).\nThis is because the hard textured surfaces are easier to be imprinted by rubbing."]
+    },
+
+    {"tag": "evsc3_q8",
+		"patterns": ["You must have seen many plants and trees. How many of them can you name? Write their names."],
+		"response": ["Mango tree, Ashoka tree, Banyan Tree, Peepal Tree, Neem Tree, Guava Tree, Pomegranate Tree, Basil plant, Aloe Vera, etc."]
+    },
+
+    {"tag": "evsc3_q9",
+		"patterns": ["Are there any plants that you have heard of, but never seen? Which ones."],
+		"response": ["Yes, plants like: pineapple, apple, cashew, almond, cactus, etc."]
+    },
+
+    {"tag": "evsc3_q10",
+		"patterns": ["What tree is it? Ask some elders if you don’t know."],
+		"response": ["It is a Neem Tree."]
+    },
+
+    {"tag": "evsc3_q11",
+		"patterns": ["Will you like to give your friend a special name? What will you name it?"],
+		"response": ["Yes, I will name it as “Green Saviour”."]
+    },
+
+    {"tag": "evsc3_q12",
+		"patterns": ["Does the tree bear flowers or fruits? Which ones?"],
+		"response": ["Yes, the tree bears both fruits and flowers."]
+    },
+
+    {"tag": "evsc3_q13",
+		"patterns": ["How do the leaves of the tree look?"],
+		"response": ["The leaves are thin and pointed."]
+    },
+
+    {"tag": "evsc3_q14",
+		"patterns": ["Do animals live in the tree? Which ones?"],
+		"response": ["Yes, for instance, squirrel, sparrows, etc."]
+    },
+
+	
+	
+	{"tag": "evs1c3_q5",
+		"patterns": ["Do you know any poem or song on water? Recite it in the class."],
+		"response": ["Yes, I know a poem on water.\nWater for the flowers,\nWater for the tree.\nWater for the bird,\nWater for the bee.\nWater for the rivers,\nAnd Water for the sea.\nWater for the world,\nAnd Water for me!"]
+    },
+	
+	{"tag": "evs1c3_q6",
+		"patterns": ["Which are the places mentioned in the poem where we find water?"],
+		"response": ["River, Waterfall, Springs and Lakes."]
+    },
+	
+	{"tag": "evs1c3_q7",
+		"patterns": ["Tick the activities for which water is needed."],
+		"response": ["to play to sing to row a boat\nto write to make tea to knead dough\nto run a fan to paint pictures to grow plants"]
+    },
+	
+	{"tag": "evs1c3_q8",
+		"patterns": ["Name any four activities which\n1. you can do without water\n2. you cannot do without water"],
+		"response": ["1. Dancing, jogging, walking, speaking, running, watching TV, listening to music, etc.\n2. Preparing tea, coffee, rice, dal; washing vegetables and fruits; bathing; washing clothes; etc."]
+    },
+	
+	{"tag": "evs1c3_q9",
+		"patterns": ["Arrange the following on the basis of the amount of water that is needed for each of the activities.\nBegin with the activity that needs the most water.\nActivities: to bathe, to drink, to clean the house, to water the fields, to knead the dough."],
+		"response": ["1. To water the fields 2. To clean the house 3. To bathe\n4. To drink 5. To knead the dough"]
+    },
+	
+	{"tag": "evs1c3_q10",
+		"patterns": ["In the poem you read about rivers, waterfalls, lakes and springs. We get water from all these places.\nFrom where do you get water?\nPut a circle around those places that are either in your house or around it."],
+		"response": ["lake, well, tubewell, pond, waterfall, hand pump, river, stream, tap, tank (tanka), sea, hot water spring."]
+    },
+
+    {"tag": "evs1c3_q11",
+		"patterns": ["Have you seen hot water coming out of the ground? Where?"],
+		"response": ["No."]
+    },
+
+	{"tag": "evs1c3_q12",
+		"patterns": ["Does any river flow through your village or city? If yes, write its name."],
+		"response": ["Yes, Kaveri flows through my city."]
+    },
+
+    {"tag": "evs1c3_q13",
+		"patterns": ["Do you know the names of any rivers? Write their names."],
+		"response": ["Yes, I do know the names of some rivers: Yamuna, Ganga, Krishna, and Kaveri."]
+    },
+
+    {"tag": "evs1c3_q14",
+		"patterns": ["At home, where do you get drinking water from?"],
+		"response": ["In taps through the pipelines."]
+    },
+
+    {"tag": "evs1c3_q15",
+		"patterns": ["Do you have to go far to get water? How much time does it take to bring the water?"],
+		"response": ["No, we don’t have to go far to get water. It comes in the taps through the pipelines."]
+    },
+
+    {"tag": "evs1c3_q16",
+		"patterns": ["Do your neighbours bring water from the same place?"],
+		"response": ["Yes, my neighbours also get water from the pipelines."]
+    },
+
+    {"tag": "evs1c3_q17",
+		"patterns": ["Why do we need to store water?"],
+		"response": ["Water needs to be stored because water might not be supplied throughout the day."]
+    },
+
+    {"tag": "evs1c3_q18",
+		"patterns": ["Who fetches and stores water in your house?"],
+		"response": ["My parents store water in my house."]
+    },
+
+    {"tag": "evs1c3_q19",
+		"patterns": ["Are there certain people who are not allowed to take water from there?"],
+		"response": ["No, there is no such case."]
+    },
+
+    
+
+    {"tag": "evs1c3_q20",
+		"patterns": ["What do your family members call you lovingly?\nDo you have a pet name? How do you call your family members?"],
+		"response": ["My family member call me Khushi. Yes, I have a pet name i.e. Koli.\nI call my father as Daddy and mother as Mumma. I call my brothers as Sanu and Bhanu."]
+    },
+
+    {"tag": "evs1c3_q21",
+		"patterns": ["Two persons in the picture look a lot like each other. How do you think they are related?"],
+		"response": ["The two ladies look a lot like each other. They must be mother-daughter."]
+    },
+
+    {"tag": "evs1c3_q22",
+		"patterns": ["Is there any similarity between you and any other member of your family –\nin the way you talk, walk, smile or even in your looks…? With whom and how?"],
+		"response": ["Yes, I am quite similar to my father in looks."]
+    },
+
+    {"tag": "evs1c3_q23",
+		"patterns": ["Is your family involved in any particular work? If yes, what?"],
+		"response": ["Yes, most of the people in my family are Engineers."]
+    },
+
+    {"tag": "evs1c3_q24",
+		"patterns": ["Do you help the family with the work?"],
+		"response": ["Not much as I am very young now."]
+    },
+
+    {"tag": "evs1c3_q25",
+		"patterns": ["You also learnt many things from your family.\nWhat and from whom? Has anyone learnt anything from you?"],
+		"response": ["I have learnt punctuality from my mother; etiquettes from my father; and manners from my mother,\nfather and grandparents.\nMy brothers have learnt sharing from me. I always share my chocolates,\nsweets, etc. with them."]
+    },
+
+    {"tag": "evs1c3_q26",
+		"patterns": ["Are there any particular practices followed by your family? What are those?"],
+		"response": ["1. We always put our shoes outside the door of the home.\n2. We take bath and worship God in the morning."]
+    },
+
+    {"tag": "evs1c3_q27",
+		"patterns": ["Which practices you and your family do to keep your house and the surroundings clean?"],
+		"response": ["We always keep our home and the surroundings clean by dusting and brooming."]
+    },
+
+    {"tag": "evs1c3_q28",
+		"patterns": ["Does any member of your family have any particular habit like laughing loudly or singing when they are happy? Imitate them."],
+		"response": ["Yes, one of my uncles laughs very loudly."]
+    },
+
+    {"tag": "evs1c3_q29",
+		"patterns": ["How do you show respect to elders in your family? Look around to see how others show respect."],
+		"response": ["I show respect to my elders by touching their feet and following what they say."]
+    },
+
+    
+
+    {"tag": "evs1c3_q30",
+		"patterns": ["What did Chhotu think when he looked at the pipe?"],
+		"response": ["Chhotu thought that he can take shelter in the pipe, as it would save him from the dust, wind, rain and cold."]
+    },
+
+    {"tag": "evs1c3_q31",
+		"patterns": ["How did Chhotu use the pipe?"],
+		"response": ["Chhotu took shelter in the pipe."]
+    },
+
+    {"tag": "evs1c3_q32",
+		"patterns": ["Into which parts did Chhotu divide the pipe and its surrounding area?"],
+		"response": ["He divided it into:\n1. Sleeping area\n2. Cooking area\n3. Cloth-Drying area\n4. Water-Storage area\n5. Guest-Sitting area"]
+    },
+
+
+    {"tag": "evs1c3_q33",
+		"patterns": ["In which part of this house will Chhotu like to spend most of his time?"],
+		"response": ["He would like to spend most of his time around the guest-sitting area."]
+    },
+
+    {"tag": "evs1c3_q34",
+		"patterns": ["Why do you think Chhotu invited Monu to live with him in the pipe?"],
+		"response": ["He invited Monu to live with him in the pipe because he saw Monu searching for a shelter.\nAlso, Chhotu would feel better if he has a company at home."]
+    },
+
+    {"tag": "evs1c3_q35",
+		"patterns": ["Who all live with you in your house?"],
+		"response": ["In my house, I live with my mother, father, two brothers, grandfather and grandmother."]
+    },
+
+    {"tag": "evs1c3_q36",
+		"patterns": ["Chhotu divided the pipe into different parts. Write the names of the different parts of your house."],
+		"response": ["Drawing Room, Dining Room, Kitchen, Study Room, Bed Room, Toilet and Bathroom."]
+    },
+
+    {"tag": "evs1c3_q37",
+		"patterns": ["How much time in a day do you spend in each part of your house?"],
+		"response": ["Drawing Room = 2 hours\nDining Room = 2 hours\nKitchen = ½ hour\nStudy Room = 4 hours\nBed Room = 8 hours\nToilet = ½ hour\nBathroom = ½ hour"]
+    },
+
+    {"tag": "evs1c3_q38",
+		"patterns": ["Is there any part of your house where a particular member of your family spends more time?"],
+		"response": ["My mother spends more time in the kitchen."]
+    },
+
+    {"tag": "evs1c3_q38",
+		"patterns": ["Is there any part of your house where a particular family member never goes or goes for a short time?"],
+		"response": ["My father goes to the kitchen for a very short time."]
+    },
+
+    {"tag": "evs1c3_q38",
+		"patterns": ["Do you keep your house clean? How?"],
+		"response": ["Yes, I do keep my house clean. We clean it using broomstick and mopper."]
+    },
+
+    {"tag": "evs1c3_q38",
+		"patterns": ["Who all help to keep your house clean?"],
+		"response": ["Maid, my mother and my father."]
+    },
+
+    {"tag": "evs1c3_q38",
+		"patterns": ["Where do you go to freshen up in the morning?"],
+		"response": ["I go to the toilet."]
+    },
+
+    {"tag": "evs1c3_q38",
+		"patterns": ["Where do you throw the garbage of your house?"],
+		"response": ["We throw it in the garbage bin."]
+    },
+
+    {"tag": "evs1c3_q38",
+		"patterns": ["Is the area around your house clean?"],
+		"response": ["Yes, it is."]
+    },
+
+    {"tag": "evs1c3_q38",
+		"patterns": ["Do you use a toilet in or around your house?"],
+		"response": ["In the house."]
+    },
+
+    {"tag": "evs1c3_q38",
+		"patterns": ["Who cleans it?"],
+		"response": ["Maid cleans it."]
+    },
+
+    {"tag": "evs1c3_q38",
+		"patterns": ["How do you help in keeping it clean?"],
+		"response": ["By making sure that it is clean after I use it."]
+    },
+
+    {"tag": "evs1c3_q38",
+		"patterns": ["Is there any special way in which you decorate your house? When and how?"],
+		"response": ["Yes, on the occasion of Diwali, we decorate our house with beautiful Rangolis, Diyas and colourful lights."]
+    },
+
+    {"tag": "evs1c3_q38",
+		"patterns": ["Name the things with which you decorate your house."],
+		"response": ["We decorate our house with flowers, lanterns, diyas, lights, sceneries, wall-hangings, etc."]
+    },
+
+    
+
+    {"tag": "evs1c3_q39",
+		"patterns": ["Did all the children in the class eat the same food items yesterday? Why?"],
+		"response": ["No, all of them ate different food items. It is because they belong to different families and possibly from different regions."]
+    },
+
+    {"tag": "evs1c3_q40",
+		"patterns": ["You must have noticed that in the picture (Page 36)\nthere is one child in whose house no food was cooked. What could be the reason?"],
+		"response": ["There could be many reasons behind this.\nMay be the child’s mother (or whosoever cooks food at home) was not keeping well the previous day.\nOr, may be the family is poor and could not afford meals at all the times."]
+    },
+
+    {"tag": "evs1c3_q41",
+		"patterns": ["Has it ever happened to you that on some day you were very hungry\nbut there was nothing to eat? If yes, why?"],
+		"response": ["Yes, this happened when we ran out of the gas cylinder."]
+    },
+
+    {"tag": "evs1c3_q42",
+		"patterns": ["How do you know that you are hungry?"],
+		"response": ["We can feel the urge to eat something in our stomach when we are hungry."]
+    },
+
+    {"tag": "evs1c3_q43",
+		"patterns": ["How do you feel when you are hungry?"],
+		"response": ["When we are hungry, we feel very restless until we eat something."]
+    },
+
+    {"tag": "evs1c3_q44",
+		"patterns": ["Why was Dadi not able to climb the stairs quickly?"],
+		"response": ["Because she is old."]
+    },
+
+    {"tag": "evs1c3_q45",
+		"patterns": ["How does Dadi like to have her dal?"],
+		"response": ["Dadi likes to have a little bit sugar in her dal."]
+    },
+
+    {"tag": "evs1c3_q46",
+		"patterns": ["How many persons in the story can eat bhutta easily and why?"],
+		"response": ["Vipul, his mother and mami can eat bhutta easily as they are young and have strong teeth."]
+    },
+
+    {"tag": "evs1c3_q47",
+		"patterns": ["Can all old people eat bhutta? Why?"],
+		"response": ["No, not all the old people eat bhutta. In old age, the teeth and gums become weak."]
+    },
+
+    {"tag": "evs1c3_q48",
+		"patterns": ["For four months Chhutki will have only her mother’s milk. That is her only food. Why?"],
+		"response": ["As four months old children do not have teeth, they need to take only fluids. Mother’s milk is the best fluid for kids."]
+    },
+
+    {"tag": "evs1c3_q49",
+		"patterns": ["What are the reasons that decide what we eat? Put a tick on them. Add to the list."],
+		"response": ["What is easily available.\nWhat we can buy.\nCustoms and traditions.\nWhether we like it or not.\nThe freshness and presentation of the food."]
+    },
+
+
+    {"tag": "evs1c3_q50",
+		"patterns": ["How did you like this game?"],
+		"response": ["I liked the game. It is interesting."]
+    },
+
+    {"tag": "evs1c3_q51",
+		"patterns": ["Did you find it difficult to act without speaking?"],
+		"response": ["Yes, I found it difficult to act without speaking."]
+    },
+
+    {"tag": "evs1c3_q52",
+		"patterns": ["Have you ever seen anyone talking through actions?"],
+		"response": ["Yes, dumb people talk through actions."]
+    },
+
+    {"tag": "evs1c3_q53",
+		"patterns": ["When do people need to talk like this?"],
+		"response": ["People who cannot speak need to talk like this."]
+    },
+
+    {"tag": "evs1c3_q54",
+		"patterns": ["Observe children of about six to eight months in your area. How do they express themselves?"],
+		"response": ["They express themselves by facial expressions and hand gestures."]
+    },
+
+    {"tag": "evs1c3_q55",
+		"patterns": ["Has it ever happened that you had done some mischief and your mother found out just by looking at your face?"],
+		"response": ["Yes, this happens many times with me."]
+    },
+
+    
+
+    {"tag": "c3_q56",
+		"patterns": ["On my head I have a crest,\nAll say I dance the best,\nOf my feathers I am proud,\nBefore the rain I cry aloud\n_________."],
+		"response": ["Peacock."]
+    },
+
+    {"tag": "c3_q57",
+		"patterns": ["Long and grooved is my tail,\nHigh up in the sky I sail,\nI pick and eat all the mice.\nThe ________ is what you\ncall me."],
+		"response": ["Eagle"]
+    },
+
+    {"tag": "c3_q58",
+		"patterns": ["My feathers are green,\nMy beak’s red,\nGuava and green chilli\nI’m fed,\nI love to imitate people’s voice,\nAnd keep making a lot of\nnoise ____________________."],
+		"response": ["Parrot"]
+    },
+
+    {"tag": "c3_q59",
+		"patterns": ["Black are my feathers and\nblack is my _____________.\nkau-kau I do all day long\n_________________________."],
+		"response": ["Koel (Cuckoo)"]
+    },
+
+    {"tag": "c3_q60",
+		"patterns": ["Dead animals I do eat,\nMaking places clean and neat,\nHigh up in the _______ I fly,\nVulture is what I’m called by."],
+		"response": ["Sky"]
+    },
+
+    {"tag": "c3_q61",
+		"patterns": ["My beak is pink, feathers grey,\nGuter Ghoo I go on all day,\nIn houses I make my home,\nA _______ is how I’m known."],
+		"response": ["Pigeon"]
+    },
+
+    {"tag": "c3_q62",
+		"patterns": ["My beak is very special,\nI use it like a needle,\nStitching leaves I make my home,\nThe _______ bird is how\nI’m known."],
+		"response": ["Sparrow"]
+    },
+
+    {"tag": "c3_q63",
+		"patterns": ["Which of the birds mentioned in the lesson have you seen? Write their names."],
+		"response": ["I have seen the following birds- sparrow, eagle, parrot, pigeon and crow."]
+    },
+
+    {"tag": "c3_q64",
+		"patterns": ["Can you move your neck like the owl?"],
+		"response": ["No, I cannot move my neck like the owl."]
+    },
+
+    {"tag": "c3_q65",
+		"patterns": ["There are some birds which can imitate our voice.\nDo you know the name of any such bird?\nDraw its picture in your notebook,\ncolour it and write its name."],
+		"response": ["Parrot can imitate our voice."]
+    },
+
+    {"tag": "c3_q66",
+		"patterns": ["Other than birds, which are the other animals that can fly?"],
+		"response": ["Mosquitoes, houseflies, honeybees, butterflies, etc."]
+    },
+
+    {"tag": "c3_q67",
+		"patterns": ["If you could fly like a bird where would you like to go? What else would you do?"],
+		"response": ["I would like to go high up in the sky and see how everything looks from such a height."]
+    },
+
+    {"tag": "c3_q68",
+		"patterns": ["What would happen if birds could not fly but only walk on their feet?"],
+		"response": ["They would not be able to enjoy the flight in the sky. They will be just like all other land-animals."]
+    },
+
+    
+
+    {"tag": "c3_q69",
+		"patterns": ["How did Appu know that the banana trees needed water?"],
+		"response": ["As the banana trees were dropping, and once watered,\nthe trees became alive; Appu understood that the banana trees needed water."]
+    },
+
+    {"tag": "c3_q70",
+		"patterns": ["From where do the plants growing around your house get water?"],
+		"response": ["Most of the plants get water from rain. We also water them."]
+    },
+
+    {"tag": "c3_q71",
+		"patterns": ["Appu drank water from the river till he was happy.\nHave you seen animals drinking water? Where?"],
+		"response": ["Yes, I have seen cats, dogs and cows drinking water around my house."]
+    },
+
+    {"tag": "c3_q72",
+		"patterns": ["Have you ever given water to any animal? If yes, which animal?"],
+		"response": ["Yes, I have given water to a cow."]
+    },
+
+    {"tag": "c3_q73",
+		"patterns": ["Some animals are not given water by anyone. From where do they drink water?"],
+		"response": ["Such animals drink water from ponds, lakes and rivers."]
+    },
+
+    {"tag": "c3_q74",
+		"patterns": ["The poet saw many things in the clouds. Have you ever seen anything in the clouds? What?"],
+		"response": ["Yes, I have seen dragon, horse, and bird shapes in the clouds."]
+    },
+
+    {"tag": "c3_q75",
+		"patterns": ["What all do the clouds do?"],
+		"response": ["Clouds are formed through evaporated water.\nOn condensation, clouds release water and bring rains."]
+    },
+
+    {"tag": "c3_q76",
+		"patterns": ["Have you ever seen a rainbow? When can you see a rainbow?"],
+		"response": ["Yes, I have seen rainbows twice.\nRainbows can be seen when sun rays from behind fall on rain drops."]
+    },
+
+    {"tag": "c3_q77",
+		"patterns": ["How do you feel when it rains?"],
+		"response": ["I feel extremely happy when it rains."]
+    },
+
+    {"tag": "c3_q78",
+		"patterns": ["Apart from clouds, what do you see when it rains?"],
+		"response": ["When it rains, it usually is accompanied with thunder, lightning and strong winds."]
+    },
+
+    {"tag": "c3_q79",
+		"patterns": ["What happens when it rains?"],
+		"response": ["When it rains, the weather becomes very cold.\nThe sky gets dark. Earth releases a soothing fragrance."]
+    },
+
+    {"tag": "c3_q80",
+		"patterns": ["When it rains, making paper boats and floating them on water is really fun. Isn’t it?"],
+		"response": ["Yes, it is so much fun!"]
+    },
+
+    
+
+    {"tag": "c3_q81",
+		"patterns": ["What are utensils made of?"],
+		"response": ["Utensils are made of steel, copper, aluminium, iron, glass, etc."]
+    },
+
+    {"tag": "c3_q82",
+		"patterns": ["Ask some elderly people what kind of utensils were used earlier. What were they made of?"],
+		"response": ["Earlier, the utensils used to be bigger in size. They used to be made of copper, soil (earth), brass, etc."]
+    },
+
+    {"tag": "c3_q83",
+		"patterns": ["Soak whole moong seeds overnight in water. In the morning wrap the soaked moong in a wet cloth and cover it.\nTake it out after a day. Do you find any difference?"],
+		"response": ["Yes, the moong seeds get sprouted/germinated."]
+    },
+
+    {"tag": "c3_q84",
+		"patterns": ["Which are the other things you can prepare without cooking? Write their names and the method of preparing them."],
+		"response": ["Butter milk– Take half a glass of curd –\npour a glass of water into it –\nsprinkle salt and masala onto it –\nmix everything well –\nButter Milk is ready.\nSalad– Chop onions, tomatoes, carrots, radishes and coriander leaves –\nsprinkle salt and chat masala onto it –\nmix everything well –\nSalad is ready."]
+    },
+
+    
+    {"tag": "c3_q85",
+		"patterns": ["How did you like the poem?"],
+		"response": ["I loved the poem."]
+    },
+
+    {"tag": "c3_q86",
+		"patterns": ["Have you ever travelled in a train? When?"],
+		"response": ["Yes, I travel in a train every time we go to my grandma’s place in summer holidays."]
+    },
+
+    {"tag": "c3_q87",
+		"patterns": ["Can a train move anywhere? Why?"],
+		"response": ["No, a train cannot move anywhere. It can move only on the rails."]
+    },
+
+    {"tag": "c3_q88",
+		"patterns": ["What is meant by ‘roads of iron’?"],
+		"response": ["Roads of iron means iron rails on which the train moves."]
+    },
+
+    {"tag": "c3_q89",
+		"patterns": ["What places did the train pass by? Make a list."],
+		"response": ["The train passed by meadows, over the hills, farmers, temples, mills, village wells and a lush green field and a potato field."]
+    },
+
+    {"tag": "c3_q90",
+		"patterns": ["Which vehicles have you travelled in? Write their names in your notebook."],
+		"response": ["I have travelled in bicycle, bike, auto, car, bus, train and aeroplane."]
+    },
+
+    {"tag": "c3_q91",
+		"patterns": ["Which all vehicles did the children travel in?"],
+		"response": ["Children travelled in:\n1. Bus 2. Train 3. Car\n4. Flight 5. Taxi 6. Cycle\n7. Boat 8. Horse 9. Rickshaw"]
+    },
+
+    {"tag": "c3_q92",
+		"patterns": ["Where have you heard the maximum noise?"],
+		"response": ["At the traffic signals."]
+    },
+
+    {"tag": "c3_q93",
+		"patterns": ["Do you like so much noise? Why?"],
+		"response": ["No, I don’t like so much noise because it is very disturbing."]
+    },
+
+    
+    {"tag": "c3_q94",
+		"patterns": ["What work does Deepali do in her own house?"],
+		"response": ["Deepali cleans house, washes utensils, cooks food for her brothers and sisters,\ntakes her sisters to school, listens to radio and takes her brother to their father."]
+    },
+
+    {"tag": "c3_q95",
+		"patterns": ["Do you also do household work? If yes, what?"],
+		"response": ["The question needs to be answered by the student."]
+    },
+
+    {"tag": "c3_q96",
+		"patterns": ["Besides household work do you do any other work at home? If yes, what?"],
+		"response": ["The question needs to be answered by the student."]
+    },
+
+    
+    {"tag": "c3_q97",
+		"patterns": ["Seema’s father reads the newspaper aloud to her nani. How do you help old people?"],
+		"response": ["I help my grandmother in remembering to take her medicines."]
+    },
+
+    {"tag": "c3_q98",
+		"patterns": ["What kind of problems do people have in old age?"],
+		"response": ["They sometimes face pain in their bones.\nThey face issues in hearing.\nThey lack good eyesight."]
+    },
+
+    {"tag": "c3_q99",
+		"patterns": ["How does Ravi bhaiya come to know so many things without seeing?"],
+		"response": ["Ravi bhaiya comes to know so many things without seeing because he (in general, the blind people) has good hearing skills."]
+    },
+
+    {"tag": "c3_q100",
+		"patterns": ["Have you ever needed a stick? When?"],
+		"response": ["Yes, to pluck fruits from the tree in my garden."]
+    },
+
+    {"tag": "c3_q101",
+		"patterns": ["Can you think when you may need a stick?"],
+		"response": ["To climb a tree, rock or mountain, we might need a stick."]
+    },
+
+    {"tag": "c3_q102",
+		"patterns": ["How do we help those people who cannot see?"],
+		"response": ["By helping them cross the roads and climbing stairs."]
+    },
+
+    {"tag": "c3_q103",
+		"patterns": ["Is there any member in your family who cannot see, speak or hear?\nDo you know any such person? How do people help them with their work?"],
+		"response": ["No, there is no such person in my family."]
+    },
+
+    {"tag": "c3_q104",
+		"patterns": ["Blindfold any one child in the group. One by one, the other children come to him or her quietly.\nThe child who is blindfolded has to guess who the other child is, by touching him or her.\nTake care not to make any sound. Do you know why?"],
+		"response": ["Sounds help people to locate things. That’s why we should not make any sound while playing this game."]
+    },
+
+    {"tag": "c3_q105",
+		"patterns": ["How many children could recognise the others by touching?"],
+		"response": ["Three of the children could recognise the others by touching."]
+    },
+
+    {"tag": "c3_q1006",
+		"patterns": ["How many children could recognise the other children by only hearing them?"],
+		"response": ["Five of the children could recognise the other children by only hearing them."]
+    },
+
+    {"tag": "c3_q107",
+		"patterns": ["Which was easier of the two?"],
+		"response": ["Recognising by hearing is easier."]
+    },
+
+    {"tag": "c3_q108",
+		"patterns": ["How many things can you recognise by only touching?"],
+		"response": ["Many things such as fruits, vegetables, wood, water, cloth, soil, sand, etc."]
+    },
+
+    {"tag": "c3_q109",
+		"patterns": ["By just smelling can you guess if it is someone close to you?"],
+		"response": ["Yes, sometimes I can guess if someone is close to me."]
+    },
+
+    
+    {"tag": "c3_q110",
+		"patterns": ["What kind of work are people doing in both the families?"],
+		"response": ["Venu’s Family: Mother is preparing food, father is cleaning the floor. All the people of the family are eating food together.\nMother and father are reading newspapers and Venu is cycling.\nRani’s Family: Mother is cooking food. Males of the family are having food and Rani is serving the food.\nRani and her mother are fetching water, and Rani’s father is reading newspaper."]
+    },
+
+    {"tag": "c3_q111",
+		"patterns": ["Is your family like any one of these families? If yes, like which one? How is your family like their’s?"],
+		"response": ["Yes, my family is similar to Venu’s. All of us eat meals together."]
+    },
+
+    {"tag": "c3_q112",
+		"patterns": ["Do all the people in your family eat together? If not, why?"],
+		"response": ["Yes, they do."]
+    },
+
+    {"tag": "c3_q113",
+		"patterns": ["Who eats last in the family?"],
+		"response": ["No one, because we eat the food together."]
+    },
+
+    {"tag": "c3_q114",
+		"patterns": ["Who does not help in cooking food in the family and why?"],
+		"response": ["My father does not help much in cooking because he does not know how to cook."]
+    },
+
+    {"tag": "c3_q115",
+		"patterns": ["Who does more work?"],
+		"response": ["In your house- Mother\nIn your friend’s house- Mother"]
+    },
+
+    
+    {"tag": "c3_q116",
+		"patterns": ["Why did the crow need a pot?"],
+		"response": ["Crow needed the pot so that he can fill it with water, and then use that water to wash his beak."]
+    },
+
+    {"tag": "c3_q117",
+		"patterns": ["Who all helped the crow to make the pot?"],
+		"response": ["The black-smith, trowel, clay-pit and the potter helped the crow to make the pot."]
+    },
+
+    {"tag": "c3_q118",
+		"patterns": ["What things did the potter need?"],
+		"response": ["Potter needed clay."]
+    },
+
+    {"tag": "c3_q119",
+		"patterns": ["Are there utensils made of clay in your house? Which are these?"],
+		"response": ["Yes, a flower vase and a Buddha idol is made of clay at my house."]
+    },
+
+    {"tag": "c3_q120",
+		"patterns": ["If someone gives you clay, will you be able make some utensils from it?"],
+		"response": ["No, I don’t think that I will be able to make some utensils from the clay."]
+    },
+
+    {"tag": "c3_q121",
+		"patterns": ["What will happen if you store water in these pots overnight?"],
+		"response": ["If we store water in the clay pots overnight, the pot will break."]
+    },
+
+    {"tag": "c3_q122",
+		"patterns": ["We often keep water in a clay pot at home or in the school. Why do these pots not get spoilt by the water?"],
+		"response": ["This is because these pots are baked in a kiln which makes the pots stronger."]
+    },
+
+    {"tag": "c3_q123",
+		"patterns": ["Have you ever seen bricks or pots being baked in a kiln?"],
+		"response": ["No, I have not seen bricks or pots being baked in a kiln."]
+    },
+
+    {"tag": "c3_q124",
+		"patterns": ["Long, long ago, when people did not have any pots, what did those people do?"],
+		"response": ["They used to store things in banana and pumpkin leaves; and also in pumpkin and watermelon shells."]
+    },
+
+    {"tag": "c3_q125",
+		"patterns": ["Why would people have made pots?"],
+		"response": ["To store liquids, people would have made pots."]
+    },
+
+    {"tag": "c3_q126",
+		"patterns": ["Imagine – one day all the pots disappear from the world. What will happen in your house?"],
+		"response": ["We might face trouble in storing food and liquids."]
+    },
+
+    
+    {"tag": "c3_q127",
+		"patterns": ["Do you know the name of any famous sports person in your area? If yes, write her or\nhis name and the game with which she or he is associated."],
+		"response": ["Yes, M.S.Dhoni. He is associated with Cricket."]
+    },
+
+    {"tag": "c3_q128",
+		"patterns": ["How many games do you know which we play with a ball? Write their names in the ball."],
+		"response": ["Following are some of the games played with a ball-\nBasketball\nFootball\nCricket\nTable Tennis\nHockey"]
+    },
+
+    {"tag": "c3_q129",
+		"patterns": ["Have you heard of Sania Mirza? She also plays a ball-game. Find out which one and write its name."],
+		"response": ["Yes, I have heard of Sania Mirza. She is a tennis player."]
+    },
+
+    {"tag": "c3_q130",
+		"patterns": ["Which game do you like the most?"],
+		"response": ["I like badminton the most."]
+    },
+
+    {"tag": "c3_q131",
+		"patterns": ["Find out from the elders in your family or in the neighbourhood –\nWhich games did they play when they were children?"],
+		"response": ["They used to play cricket, marbles, gilli-danda, hide and seek, etc."]
+    },
+
+    {"tag": "c3_q132",
+		"patterns": ["1. Small and coloured are these glass balls,\nTo win the game you have to aim with them all.\n2. If you land on a snake, do not frown\nIn this game you go up and down.\n3. It has no wings but it can fly,\nHigh, high up in the sky.\n4. On the board are squares black and white,\nThere’s the king, the queen and the knight.\n5. King, queen, ace and jack,\nFifty two of them make a pack.\n6. Fours and sixes if you can get,\nA century is sure, I can bet."],
+		"response": ["1. Marbles\n2. Snakes and Ladders\n3. Kites\n4. Chess\n5. Cards\n6. Cricket"]
+    },
+
+    {"tag": "c3_q133",
+		"patterns": ["Besides playing, what else do you do?"],
+		"response": ["I listen to music; read comic books and fairy tales; solve\nSudoku; watch T.V., do cycling, etc. besides playing."]
+    },
+
+    
+    {"tag": "c3_q134",
+		"patterns": ["What difference do you see in these letters?"],
+		"response": ["Some letters are postcards, some are envelopes, etc."]
+    },
+
+    {"tag": "c3_q135",
+		"patterns": ["Which letters have stamps on them?"],
+		"response": ["All the letters have stamps on them."]
+    },
+
+    {"tag": "c3_q136",
+		"patterns": ["Are all the stamps similar? What are the differences?"],
+		"response": ["No, all the stamps are not similar. They have different pictures as well as different prices mentioned on them."]
+    },
+
+    {"tag": "c3_q137",
+		"patterns": ["Have you seen the stamp of the post office on these letters?"],
+		"response": ["Yes, I have."]
+    },
+
+    {"tag": "c3_q138",
+		"patterns": ["Reena’s letter reached Delhi by train. How do you think letters\nreached distant places when there were no trains?"],
+		"response": ["When there were no trains, letters used to be carried to distant places by people, pigeons and horses."]
+    },
+
+    {"tag": "c3_q139",
+		"patterns": ["Where all have you seen telephones?"],
+		"response": ["I have seen telephones at the offices, houses, schools, colleges, telephone-booths, etc."]
+    },
+
+    {"tag": "c3_q140",
+		"patterns": ["With whom do you talk on the telephone?"],
+		"response": ["I talk to my friends on the telephones."]
+    },
+
+    {"tag": "c3_q141",
+		"patterns": ["Which of the two do you like more – writing a letter or making a phone call? Why?"],
+		"response": ["I like to make phone call more than writing a letter. That is because through phone call, we get instant response from the other side\nwhereas we have to wait for days to receive a response of a letter."]
+    },
+
+    {"tag": "c3_q142",
+		"patterns": ["We wrote a letter. We also made a phone call. What are the similarities and differences between a letter and a phone call?"],
+		"response": ["The similarities between a letter and a phone call are as follows:\n1. Both of these are a means of communication.\n2. Both of these can be sent anywhere in the world.\nThe differences between a letter and a phone call are as follows:\n1. Phone call is a faster means of communication whereas letter is a slow means of communication.\n2. On phone, we can listen to each-other’s voices whereas in letters, we cannot.\n3. The phone calls are more expensive than the letters."]
+    },
+
+    {"tag": "c3_q143",
+		"patterns": ["Why are houses made on bamboo pillars where Bhupen lives?"],
+		"response": ["Bhupen hails from Assam. Assam receives heavy rainfalls. So, the houses there are made at a height of 10-12 feet.\nThat’s why houses are made on strong bamboo pillars."]
+    },
+
+    {"tag": "c3_q144",
+		"patterns": ["What kind of roofs do these houses have? Why are they made like this?"],
+		"response": ["These houses have slant roofs. They are made like this so that the water does not stay at the roof and create leaks."]
+    },
+
+    {"tag": "c3_q145",
+		"patterns": ["How does one enter these houses?"],
+		"response": ["One enters these houses by wooden ladders."]
+    },
+
+    {"tag": "c3_q146",
+		"patterns": ["At night the ladder is removed from these houses. Can you tell why?"],
+		"response": ["This is done in order to prevent any unwanted animal entering the house."]
+    },
+
+    {"tag": "c3_q147",
+		"patterns": ["In which area is Chameli’s house?"],
+		"response": ["Chameli’s house is in a hilly area (Manali)."]
+    },
+
+    {"tag": "c3_q148",
+		"patterns": ["What is the similarity in the roofs of Chameli’s and Bhupen’s houses?"],
+		"response": ["The similarity in the roofs of Chameli’s and Bhupen’s house is that they are slant."]
+    },
+
+    {"tag": "c3_q149",
+		"patterns": ["How do roofs help in their areas?"],
+		"response": ["The slanting roofs do not let the water/snow get accumulated on them."]
+    },
+
+    {"tag": "c3_q150",
+		"patterns": ["How do people go up in multi-storeyed buildings?"],
+		"response": ["People go up in multi-storeyed buildings through stairs or lifts."]
+    },
+
+    {"tag": "c3_q151",
+		"patterns": ["How is a houseboat different from other houses?"],
+		"response": ["Houseboats are different from other houses because houseboats don’t stay at one place,\nthey keep moving unlike other houses."]
+    },
+
+    {"tag": "c3_q152",
+		"patterns": ["Would you like to live in such a house? Why?"],
+		"response": ["Yes, I would like to live in such a house. Then I can take my house to different beautiful places."]
+    },
+
+    {"tag": "c3_q153",
+		"patterns": ["Look at the houses in your neighbourhood. What are they made of? Make a list."],
+		"response": ["The houses in my neighbourhood are made up of cement, brick, stones, sand and stones."]
+    },
+
+    
+    {"tag": "c3_q154",
+		"patterns": ["Put the sentences in the correct order:\nPeter lovingly patted the bird.\nThe children saw a bird circling in their classroom.\nNavjyot and Ali quickly brought water in a bowl.\nThe bird flew away.\nThe bird hurt itself with the fan."],
+		"response": ["Here is the correct order of sentences:\n1. The children saw a bird circling in their classroom.\n2. The bird hurt itself with the fan.\n3. Navjyot and Ali quickly brought water in a bowl.\n4. Peter lovingly patted the bird.\n5. The bird flew away."]
+    },
+
+    {"tag": "c3_q155",
+		"patterns": ["What do you think Malini would have done?"],
+		"response": ["Malini would have taken the kitten to its mother."]
+    },
+
+    {"tag": "c3_q156",
+		"patterns": ["What will people in Meenu’s family do?"],
+		"response": ["Meenu’s family would wash Bholi’s wound with water and put medicine on the wound."]
+    },
+
+    {"tag": "c3_q157",
+		"patterns": ["What name have you given to your pet? What do you do when your pet is –\n1. Hungry\n2. Feeling hot or cold\n3. Teased by someone\n4. Hurt"],
+		"response": ["My parrot’s name is Joe.\n1. When she is hungry, I give her grains to eat.\n2. I take her inside my room.\n3. I stop that person from doing so.\n4. I apply medicine on the wounded area."]
+    },
+
+    {"tag": "c3_q158",
+		"patterns": ["Like us, animals also need water to live. There are many other things which are required by both –\nanimals and humans. Write the names of three such things."],
+		"response": ["Three such things are:\nWater\nAir\nSunlight"]
+    },
+
+    {"tag": "c3_q159",
+		"patterns": ["Why do you feed these animals?"],
+		"response": ["We feed animals because they too feel hungry."]
+    },
+
+    {"tag": "c3_q160",
+		"patterns": ["Which animal did most children feed?"],
+		"response": ["Most of the children fed dogs."]
+    },
+
+    {"tag": "c3_q161",
+		"patterns": ["What did they feed?"],
+		"response": ["They fed pedigree, meat and biscuits."]
+    },
+
+    
+    {"tag": "c3_q162",
+		"patterns": ["From where do the people in Madho’s village fetch water for drinking?"],
+		"response": ["People in Madho’s village usually fetch water from a nearby pond. As the nearby\npond has also dried up, his mother and sister have to walk a longer distance to fetch water.\nSometimes a train carrying water comes and Madho’s father goes to fetch water in his camel-cart.\nSome people collect rain water through a special method – by making tanks (tanka).\nThey filter the rain water through a special procedure and use the water for drinking after it is cleaned."]
+    },
+
+    {"tag": "c3_q163",
+		"patterns": ["Who fetches water in Madho’s house?"],
+		"response": ["Madho’s mother and sister go to the nearby\npond to fetch water. His father goes to fetch water in his camel-cart. Sometimes,\nMadho is permitted to take water from one of the tankas of the village."]
+    },
+
+    {"tag": "c3_q164",
+		"patterns": ["Water collected in the tanka is mostly used for drinking. Why?"],
+		"response": ["Rain water is collected by some people through a special method by making tanks (tanka).\nThe tanka is kept covered with a lid always and the water collected is filtered properly and is used for drinking after it is cleaned."]
+    },
+
+    {"tag": "c3_q165",
+		"patterns": ["Is rain water collected in your house as well? If yes, how?"],
+		"response": ["No, rain water is not collected in my house."]
+    },
+
+    {"tag": "c3_q166",
+		"patterns": ["Can there be any other method of collecting water?"],
+		"response": ["Yes, water can be collected in tanks, drums, buckets, etc.\nIt can also be stored by setting up water collection units or plastic water tanks at the house rooftop."]
+    },
+
+    {"tag": "c3_q167",
+		"patterns": ["Can you think of ways of saving water? Write your suggestions below."],
+		"response": ["Here are some of the useful tips to save water:\n1.Never leave a water tap open\n2.While brushing your teeth or taking bath, do not leave the tap or shower running.\n3.Fill a bucket of water, instead of shower while taking bath.\n4.Any waste water left after washing clothes can be reused to clean your washroom after use.\n5.Any unused water can also be used to water plants in the garden.\n6.In case of any water leakage, get it repaired at the earliest.\n7.Recycle water whenever possible."]
+    },
+
+    {"tag": "c3_q168",
+		"patterns": ["Have you seen water flowing unnecessarily in your home, school or any other place? Where?"],
+		"response": ["Yes, there was a tap in my garden which was leaking water drop by drop. My father got it repaired as soon as possible to avoid unnecessarily leakage of water."]
+    },
+
+    
+    {"tag": "c3_q169",
+		"patterns": ["How did you feel when you could join a group of the required number? Why?"],
+		"response": ["It feels great to join a group and become its member. It assures me that\nI’m still part of the game that is being played."]
+    },
+
+    {"tag": "c3_q170",
+		"patterns": ["How did you feel if you could not join any group? Why?"],
+		"response": ["I would feel bad and alone if I miss joining any group as I have to leave the game."]
+    },
+
+    {"tag": "c3_q171",
+		"patterns": ["Do you like to be with people?"],
+		"response": ["Yes, I like to be with people and make new friends every now and then."]
+    },
+
+    {"tag": "c3_q172",
+		"patterns": ["With whom do you like to be more?"],
+		"response": ["I like to spend time with my sister and friends."]
+    },
+
+    {"tag": "c3_q173",
+		"patterns": ["How would you feel if you always had to be alone?"],
+		"response": ["I would feel lonely and sad if I always need to be alone."]
+    },
+
+    {"tag": "c3_q174",
+		"patterns": ["How are these people related to each other?"],
+		"response": ["Gurleen and Nagarajan are parents of Tanya and Samar. Tanya and Samar are siblings."]
+    },
+
+    {"tag": "c3_q175",
+		"patterns": ["Who all are there in Sitamma’s family?"],
+		"response": ["Sitamma’s family has the following members: Sitamma, her father, mother and younger sister Gitamma,\ndada, dadi, elder chacha and chachi, younger chacha, bua, tauji and his three children."]
+    },
+
+    {"tag": "c3_q176",
+		"patterns": ["How is the relationship between the different people in the family?"],
+		"response": ["Sitamma’s father, tauji, elder chacha and younger chacha are four brothers and have one sister, Bua.\nTauji is the eldest brother among all five siblings. He is elder to Sitamma’s father, elder chacha is younger to her father and elder to younger chacha.\nDada and dadi are their parents and grandparents to Sitamma, Gitamma and tauji’s three children. Sitamma’s mother and elder chachi are co-sisters."]
+    },
+
+    {"tag": "c3_q177",
+		"patterns": ["In the last one year what are the changes that happened in the family?"],
+		"response": ["In the past one year, taiji passed away and elder chacha recently got married."]
+    },
+
+    {"tag": "c3_q178",
+		"patterns": ["Who takes care of Tara? How?"],
+		"response": ["When Tara returns from school, her nana takes care of her. He is the one who feeds her,\nhelps her to do homework and also plays with her."]
+    },
+
+    {"tag": "c3_q179",
+		"patterns": ["What are the things the family members do together?"],
+		"response": ["During vacations Tara, her amma and nana go to far off places and enjoy themselves."]
+    },
+
+    {"tag": "c3_q180",
+		"patterns": ["Who all are there in this family?"],
+		"response": ["There are three members in the family: Sara, Habib and Habib’s abbu."]
+    },
+
+    {"tag": "c3_q181",
+		"patterns": ["Abbu enjoys watching television with the others. Why?"],
+		"response": ["Watching tv alone can be boring. This is the reason why Abbu enjoys watching television with others.\nMeanwhile, he enjoys having a discussion with them as well."]
+    },
+
+    {"tag": "c3_q182",
+		"patterns": ["How do the family members enjoy?"],
+		"response": ["On holidays, the neighbour’s children come to their house and create a lot of fun. Everybody enjoys together.\nThey play games, go out and at times go for plays and movies."]
+    },
+
+    {"tag": "c3_q183",
+		"patterns": ["How do Totaram’s family members keep contact with each other?"],
+		"response": ["Totaram misses his mother very much. He writes long letters to her. Once a year, Totaram goes to his village\nto visit his family. This is the way the family members keep in touch with each other."]
+    },
+
+    {"tag": "c3_q184",
+		"patterns": ["Which members of Totaram’s family live in the city and which live in the village? Why?"],
+		"response": ["Totaram lives with his father, uncle and cousin brothers in a colony in Mumbai. Totaram and his brothers have come here to study. His father and uncle work in Mumbai.\nTotaram’s mother, dada, dadi, chachi and younger brothers and sisters live in their parental house in the village."]
+    },
+
+    {"tag": "c3_q185",
+		"patterns": ["How does Krishna take care of his sister?"],
+		"response": ["Krishna leaves Kaveri at school just before he goes to college. On returning from college, Krishna and Kaveri eat their food together."]
+    },
+
+    {"tag": "c3_q186",
+		"patterns": ["What activities are done together in the family?"],
+		"response": ["Krishna, Kaveri and their father live together. In the morning, all of them leave home together.\nWhen their father returns home in the evening, they cook and eat food together."]
+    },
+
+    {"tag": "c3_q187",
+		"patterns": ["What are the things that happen in a family?"],
+		"response": ["Given below are the list of things that happen in a family:\nPeople stay together in a family.\nThe family members love and take care of each other.nThey cook and eat together.\nThe entire family watches TV, plays games and goes out together.\nThe elders of the family work hard to earn money.\nAn elder in the family cooks delicious food for other members.\nSometimes, a new member comes into the family.\nSometimes, a family member dies or passes away.\nThe children go to school and study regularly."]
+    },
+
+    
+
+    {"tag": "c3_q188",
+		"patterns": ["What is there on your left?"],
+		"response": ["There is the classroom wall on my left side."]
+    },
+
+    {"tag": "c3_q189",
+		"patterns": ["What things are there behind you?"],
+		"response": ["My classmates and desks are there just behind me."]
+    },
+
+    {"tag": "c3_q190",
+		"patterns": ["On whose left side are you sitting?"],
+		"response": ["I am sitting on the left side of Anuj."]
+    },
+
+    {"tag": "c3_q191",
+		"patterns": ["What is there on your right?"],
+		"response": ["There is a window on my right."]
+    },
+
+    {"tag": "c3_q192",
+		"patterns": ["Who is sitting on your right?"],
+		"response": ["Anuj is sitting on my right."]
+    },
+
+    {"tag": "c3_q193",
+		"patterns": ["What is in front of you?"],
+		"response": ["There is a blackboard hanging on the wall in front of me."]
+    },
+
+    {"tag": "c3_q194",
+		"patterns": ["On whose right are you sitting?"],
+		"response": ["I am sitting on the right side of Tanya."]
+    },
+
+    {"tag": "c3_q195",
+		"patterns": ["Which places and things will Ruchira find on her way from home to school? Write their names."],
+		"response": ["Ruchira’s house→ House→ Handpump →Tree →Well→ Bus stop→ Post Office→ Hospital→ Shop→ Park →Tree→ School"]
+    },
+
+    {"tag": "c3_q196",
+		"patterns": ["Write same symbols here that you have learnt in mathematics."],
+		"response": ["The symbols that we learn in Mathematics are listed below:\nAddition (+)\nSubtraction (-)\nMultiplication (x)\nDivision (÷)"]
+    },
+
+    
+    {"tag": "c3_q197",
+		"patterns": ["How do you think Sajida’s dupatta was made?"],
+		"response": ["Sajida’s dupatta is made of cloth which is woven either by weavers or by a machine."]
+    },
+
+    {"tag": "c3_q198",
+		"patterns": ["Take a dupatta or a long piece of unstitched cloth. Drape it in different ways. In how many ways, could you wear it?"],
+		"response": ["The dupatta can be worn along with the Indian traditional wear like salwar kameez or lehenga by women. It can also be worn over a Western wear either as a scarf or a stole.\nHowever, men can also wear it in the form of a turban, dhoti or as a wrap-around attire."]
+    },
+
+    {"tag": "c3_q199",
+		"patterns": ["Did anyone wear it like a lungi or use it as a turban? In what other ways was the cloth worn?"],
+		"response": ["Yes, men can wear it like a lungi or dhoti and like a turban too. Women can wear it like\na sari with small pleats and wear it over a salwar kameez or lehenga too."]
+    },
+
+    {"tag": "c3_q200",
+		"patterns": ["Look at any six garments at home. What differences do you find in their texture, their colour and design?"],
+		"response": ["These are the differences that I’ve observed among the six different garments at home:\nSome garments are bright in colour, whereas there are garments which have dull colours.\nSome garments have a rough texture, while some others have a smooth texture and finish.\nSome garments have an elaborate complex design, whereas others have a simple design on them."]
+    },
+
+    {"tag": "c3_q201",
+		"patterns": ["Look at a thick cloth or a sack carefully.\nCan you see threads running along its length and breadth? You will find a similar pattern if you see any piece of cloth closely."],
+		"response": ["Yes, I can see the threads running along the length and breadth of the cloth. I also noticed a similar pattern when I checked another piece of cloth closely."]
+    },
+
+    
+    {"tag": "c3_q202",
+		"patterns": ["By now, you must have read almost the complete book. You have read about trees, water, houses, animals, vehicles and many other things. You must have thought about them as well.\nCan you tell, why did we try to know and think about all these things?"],
+		"response": ["Our survival is dependent on all the things of environment like trees, water, houses, animals, vehicles, etc. Hence, it is important that we should know and think of all these things surrounding us."]
+    },
+
+    {"tag": "c3_q203",
+		"patterns": ["Have you joined your picture to the house?"],
+		"response": ["Yes."]
+    },
+
+    {"tag": "c3_q204",
+		"patterns": ["What can you understand from this web?"],
+		"response": ["The web shows us that everything is important for us.\nWe’re all inter-dependent on each other for our survival."]
+    },
+
+    {"tag": "c3_q205",
+		"patterns": ["Share your web with your friends. Also, have a look at the web made by your friends. Are they all alike? Discuss with your friends."],
+		"response": ["Yes, all the webs look similar."]
+    }
+]

@@ -1,0 +1,109 @@
+for(let i=0;i<ibuttons.length;i++){
+    ibuttons[i].addEventListener('click',async()=>{
+     
+      let me = document.createElement('div')
+      let result = document.createElement('div')
+      me.classList.add("chat-bubble","me")
+      me.textContent = ibuttons[i].innerHTML
+      chat_body.appendChild(me)
+      var topPos = me.offsetTop;
+    chat_body.scrollTop = topPos
+    result.innerHTML = 'Loading'
+    result.classList.add('chat-bubble','you')
+   chat_body.appendChild(result)
+   chat_body.scrollTop = result.offsetTop
+      let formData = new FormData()
+      formData.append('question',ibuttons[i].innerHTML)
+      let data = await fetch(`/api/chatbot`,{
+        method:'POST',
+        body:formData
+      }).then(res => res.json());
+      result.innerHTML = data.response
+    })
+  }
+
+
+
+
+
+
+  let chat_body = document.getElementById('chat-body')
+  let ds = document.getElementById('ds')
+  ds.addEventListener('click',()=>{
+    console.log("testing")
+    let a=`How many years of Experience you have ?`
+    let b=`<button  onclick="expclick('Data Science','Fresher')" class="btn btn-outline-primary btn-sm mt-2 exp">Fresher</button> 
+
+           <button   onclick="expclick('Data Science','0-1 yr')" class="btn btn-outline-primary btn-sm mt-2 exp">0-1 yr</button>
+    <button  onclick="expclick('Data Science','1-2 yrs')" class="btn btn-outline-primary btn-sm mt-2 exp">1-2 yrs</button>
+    <button  onclick="expclick('Data Science','2+ yrs')" class="btn btn-outline-primary btn-sm mt-2 exp">2+ yrs</button>`
+    let me = document.createElement('div')
+    let me2 = document.createElement('div')
+    me.classList.add("chat-bubble","you")
+    me.innerHTML = a
+    me2.innerHTML = b
+    chat_body.appendChild(me)
+    chat_body.appendChild(me2)
+  })
+  function expclick(name,exp){
+  console.log(name,exp)  
+
+      let me = document.createElement('div')
+      let result = document.createElement('div')
+      me.classList.add("chat-bubble","me")
+      me.textContent = ibuttons[i].innerHTML
+      chat_body.appendChild(me)
+      var topPos = me.offsetTop;
+    chat_body.scrollTop = topPos
+    result.innerHTML = 'Loading'
+    result.classList.add('chat-bubble','you')
+   chat_body.appendChild(result)
+   chat_body.scrollTop = result.offsetTop
+      let formData = new FormData()
+      formData.append('exp',ibuttons[i].innerHTML)
+      formData.append('cat',ibuttons[i].id)
+      console.log(ibuttons[i].id,ibuttons[i].innerHTML)
+      let data = await fetch(`/api/chatbot`,{
+        method:'POST',
+        body:formData
+      }).then(res => res.json());
+      result.innerHTML = data.response
+    
+  }
+  const Edata = document.getElementById("Edata");
+  const btnE = document.getElementById("btnE");
+  btnE.onclick = function () {
+    if (Edata.style.display !== "none") {
+      Edata.style.display = "none";
+    } else {
+      Edata.style.display = "block";
+      Sdata.style.display = "none";
+      Idata.style.display = "none";
+    }
+  };
+
+  const Sdata = document.getElementById("Sdata");
+  const btnS = document.getElementById("btnS");
+  btnS.onclick = function () {
+    if (Sdata.style.display !== "none") {
+      Sdata.style.display = "none";
+    } else {
+      Sdata.style.display = "block";
+      Edata.style.display = "none";
+      Idata.style.display = "none";
+    }
+  };
+
+  const Idata = document.getElementById("Idata");
+  const btnI = document.getElementById("btnI");
+  btnI.onclick = function () {
+    console.log('testing')
+    let chat_body = document.getElementById('chat-body')
+    let div = document.createElement('div')
+     let html = `
+
+`
+    div.innerHTML=html
+    chat_body.appendChild(div)
+
+  };

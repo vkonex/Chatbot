@@ -1,0 +1,509 @@
+[
+		{"tag": "c5engeng_q1",
+			"patterns": ["In which season is ice cream popular?"],
+			"response": ["In the Summer season, ice cream is popular."]
+		},
+
+		{"tag": "c5engeng_q2",
+			"patterns": ["Who feels joyful on seeing the Ice-cream Man?"],
+			"response": ["On seeing the ice cream Man, children feel joyful."]
+		},
+
+		{"tag": "c5eng_q3",
+			"patterns": ["Name the different flavours of ice cream the Ice-cream Man has in his cart"],
+			"response": ["Vanilla, chocolate and strawberry are the flavours of ice cream, the ice cream Man has in his cart."]
+		},
+
+		{"tag": "c5eng_q4",
+			"patterns": ["What are the two things that the Ice-cream Man is selling?"],
+			"response": ["The two things the ice cream Man is selling are ice cream and chilled drinks from the bottles of frosty – fizz."]
+		},
+
+		{"tag": "c5eng_q5",
+			"patterns": ["What is the ice-cream cart compared to in the poem?"],
+			"response": ["A flower bed has been compared with an ice cream cart in the poem."]
+		},
+
+		{"tag": "c5eng_q6",
+			"patterns": ["What were the preparations in the palace for?"],
+			"response": ["In the palace, there were preparations for a grand feast."]
+		},
+
+		{"tag": "c5eng_q7",
+			"patterns": ["Why did the Maharaja go into the kitchen in the afternoon?"],
+			"response": ["The Maharaja went into the kitchen in the afternoon to survey the dishes that had been prepared for the feast."]
+		},
+
+		{"tag": "c5eng_q8",
+			"patterns": ["What had the cook planned to do with the vegetable scraps?"],
+			"response": ["The cook planned to throw away the vegetable scraps considering it as waste."]
+		},
+
+		{"tag": "c5eng_q9",
+			"patterns": ["How did the shoe get lost?"],
+			"response": ["The shoe was lost because of the nail."]
+		},
+
+		{"tag": "c5eng_q10",
+			"patterns": ["How did the kingdom get lost?"],
+			"response": ["The kingdom was lost because the battle could not be fought."]
+		},
+
+		{"tag": "c5eng_q11",
+			"patterns": ["How did the battle get lost?"],
+			"response": ["The battle was lost because there was no rider."]
+		},
+
+		{"tag": "c5eng_q12",
+			"patterns": ["How can we make our dream work?"],
+			"response": ["By working together, we can make our dream work."]
+		},
+
+		{"tag": "c5eng_q13",
+			"patterns": ["What can we share in teamwork?"],
+			"response": ["A joy can be shared in teamwork."]
+		},
+
+		{"tag": "c5eng_q14",
+			"patterns": ["How can we achieve a common goal?"],
+			"response": ["By working together, we can achieve a common goal."]
+		},
+
+		{"tag": "c5eng_q15",
+			"patterns": ["Where did the geese live?"],
+			"response": ["The geese lived in leafy branches on top of a tall tree."]
+		},
+
+		{"tag": "c5eng_q16",
+			"patterns": ["Why did the old bird advise the other birds to destroy the creeper?"],
+			"response": ["The old bird advised the other birds to destroy the creeper because it would become thick and strong and help the hunter to climb up the tree easily and kill all of them."]
+		},
+
+		{"tag": "c5eng_q17",
+			"patterns": ["Why did the geese cry, “Help Help”?"],
+			"response": ["The geese cried ‘’Help Help’’ because they were caught in the hunters net."]
+		},
+
+		{"tag": "c5eng_q18",
+			"patterns": ["What did the hunter do when he thought that the geese were dead? "],
+			"response": ["The hunter started to threw the geese out of the net one by one."]
+		},
+
+		{"tag": "c5eng_q19",
+			"patterns": ["Why did the geese pretend to be dead?"],
+			"response": ["The geese pretended to be dead because they knew that the hunter would not want the dead birds and set them free. "]
+		},
+
+		{"tag": "c5eng_q20",
+			"patterns": ["Proverbs are short, wise sayings. For example – Look before you leap. This means that we should think carefully before we take any action. Here are some popular English proverbs. Read them aloud together and discuss what each could mean. \nOld is gold\nAs you sow so shall you reap\nUnity is strength\nUnited we stand divided we fall\nA friend in need is a friend indeed"],
+			"response": ["1. Old is gold\nThe person who is in contact for a long time, is more precious than ours.\n2. As you sow so shall you reap\nThe action of a person whether good or bad will repay him in the same manner.\n3. Unity is strength\nPeople working in unity will solve all problems easily.\n4. United we stand divided we fall\nIf we are together we win otherwise we lose.\n5. A friend in need is a friend indeed\nA friend who helps you in trouble or in need is a true friend."]
+		},
+
+		{"tag": "c5eng_q21",
+			"patterns": ["The clap word game\nLet’s play the clap word game.\nWhere the word produces one sound, clap once, as in ‘creep’. Clap twice if the word can be broken up into two syllables as in cree-per, and thrice as in to-mo-rrow.\ncreeper struggled tomorrow geese\nthrow foolish possible noticed\ncarefully flapped returned evening\ntrapped surprise"],
+			"response": ["creeper (clap twice)\nstruggled (clap once)\ntomorrow (clap twice)\ngeese (clap once)\nthrow (clap once)\nfoolish (clap twice)\npossible (clap twice)\nnoticed (clap twice)\ncarefully (clap twice)\nflapped (clap twice)\nreturned (clap twice)\nevening (clap twice)\ntrapped (clap once)\nsurprise (clap twice)"]
+		},
+
+		{"tag": "c5eng_q22",
+			"patterns": ["Who do you think your shadow looks like?"],
+			"response": ["My shadow looks similar to me."]
+		},
+
+		{"tag": "c5eng_q23",
+			"patterns": ["Why do you think your shadow jumps into bed before you can?"],
+			"response": ["A shadow is not a physical thing and it appears faster than light. Hence, my shadow jumps into bed before I can. "]
+		},
+
+		{"tag": "c5eng_q24",
+			"patterns": ["What time of the day do you think it is when your shadow is the tallest? Why?\n1. Morning\n2. Afternoon\n3. Night"],
+			"response": ["Shadow is the tallest in the morning because sun rays are slanting during sunrise. "]
+		},
+
+		{"tag": "c5eng_q25",
+			"patterns": ["Read the lines from the poem and answer the following.\nHe is very very like me.\nFrom the heels up to the head!\n(i) Who does he refer to?\n(ii) Who does me refer to?\n(iii) Why are he and me alike?"],
+			"response": ["From the given lines,\n(i) He refers to the Shadow of the child in the poem.\n(ii) Me refers to the child in the poem.\n(iii) He and me are alike because they look similar to each other."]
+		},
+
+		{"tag": "c5eng_q26",
+			"patterns": ["Fun Time\n1. Shine a torch behind your hand and see its shadow on the wall.\n2. Move the torch a little away from your hand and see the shadow on the wall.\nDo you find a difference in the size of the hand on the wall?"],
+			"response": ["Yes, we find the size of the hand becomes smaller as the torch is moved a little away from it."]
+		},
+
+		{"tag": "c5eng_q27",
+			"patterns": ["Complete this description by answering the questions below.\n(i) What do you think is the name of the dog?\n(ii) Why is she called that?\n(iii) What colour is she?\n(iv) Do you think she is friendly?\n(v) What does she like to eat?\nWrite a few lines on Mithoo and his little dog named Shadow."],
+			"response": ["(i) I think ‘Shadow’ is the name of the dog.\n(ii) She is called Shadow because she follows Mithoo exactly like a shadow wherever he goes.\n(iii) She is of grey colour.\n(iv) Yes, she is very friendly.\n(v) She likes to eat bones and bread."]
+		},
+
+		{"tag": "c5eng_q28",
+			"patterns": ["What made Robinson Crusoe think that the print on the ground was a foot print?"],
+			"response": ["Robinson Crusoe thought so because there was exactly the print of a foot – toes, heel, every part of a foot."]
+		},
+
+		{"tag": "c5eng_q29",
+			"patterns": ["Why was Robinson afraid when he looked at the bushes and trees?"],
+			"response": ["Robinson was afraid when he looked at the bushes and trees because he mistook bushes and trees to be a man following him."]
+		},
+
+		{"tag": "c5eng_q30",
+			"patterns": ["Why did Robinson pray when he saw the footprint?"],
+			"response": ["Robinson thought that it could be the savages and knew someone lived on the island and would return with others to kill and eat him. Hence, he became afraid and prayed for his protection. "]
+		},
+
+		{"tag": "c5eng_q31",
+			"patterns": ["(i) I can sing well. I forgot to post it.\n(ii) She wore a raincoat. It was raining.\n(iii) We may go to Shimla. He was late to school.\n(iv) He wanted a book for his birthday. We may go to Darjeeling.\n(v) He missed the school bus. He wanted a football for his birthday.\n(vi) I wrote the letter. I can’t dance at all.\neg: I wrote the letter but I forgot to post it."],
+			"response": ["(i) I can sing well but I can’t dance at all.\n(ii) She wore a raincoat because it was raining.\n(iii) We may go to Shimla or we may go to Darjeeling.\n(iv) He wanted a book and a football for his birthday.\n(v) He missed the school bus so he was late to school.\n(vi) I wrote the letter but I forgot to post it."]
+		},
+
+		{"tag": "c5eng_q32",
+			"patterns": ["According to the poet, should you cry a little or should you cry a lot?"],
+			"response": ["You should cry a lot, according to the poet."]
+		},
+
+		{"tag": "c5eng_q33",
+			"patterns": ["What can you do after crying a lot?"],
+			"response": ["After crying a lot, you can laugh from the bottom of your heart."]
+		},
+
+		{"tag": "c5eng_q34",
+			"patterns": ["What are the things that Munna liked to do?"],
+			"response": ["Munna liked to play games such as football, volleyball, kabaddi and fly kites."]
+		},
+
+		{"tag": "c5eng_q35",
+			"patterns": ["What did Bhaiya do all day? "],
+			"response": ["Bhaiya was involved in studies all day. Sometimes he studied the same word and sentences several times in order to learn them better."]
+		},
+
+		{"tag": "c5eng_q36",
+			"patterns": ["Why was Munna not happy with the timetable that Bhaiya made for him?"],
+			"response": ["Munna loved to play. He was not happy with the timetable because there was no scope to play in it. "]
+		},
+
+		{"tag": "c5eng_q37",
+			"patterns": ["How do you think Munna felt when his brother was so strict with him? Why was Bhaiya so strict with him?"],
+			"response": ["Munna felt disappointed. Bhaiya was strict with him because Munna was playful by nature and wanted to play games like football, volleyball etc, all the time."]
+		},
+
+		{"tag": "c5eng_q38",
+			"patterns": ["Whose character do you like more — Munna’s or Bhaiya’s? Why?"],
+			"response": ["I liked Bhaiya’s character more than Munna because Bhaiya was dutiful and was aware of his responsibilities towards his younger brother.\nHe also gave importance to his father’s hard earned money. "]
+		},
+
+		{"tag": "c5eng_q39",
+			"patterns": ["Now, write a letter to your friend or relative in another city telling him/her about activities/events in your school. \nFollow the same pattern as the above letter."],
+			"response": ["Sapna Girl’s Hostel\nBharatiya Vidya Mandir\nChennai\n28th August 2015\nMy dear Sneha,\nHow are you? I hope everything is fine. Last week I was busy celebrating the 68th Independence Day in our school.\nOn this occasion, cultural programmes like dance, singing competitions were held. Students of lower classes participated to pay tribute to soldiers who struggled for the country’s freedom.\nI also participated in drawing posters on the freedom struggle. Freedom fighters are considered as heroes who helped the nation to get freedom.\nA salute to all the soldiers who lost their lives for the country. We had a great day. Convey my regards to your parents. Please do write back soon. \nYour loving friend\nShreya"]
+		},
+
+		{"tag": "c5eng_q40",
+			"patterns": ["Why did Oliver live in the orphanage?"],
+			"response": ["Oliver had no home to live. Hence, he lived in the orphanage."]
+		},
+
+		{"tag": "c5eng_q41",
+			"patterns": ["Who was Mr Bumble?"],
+			"response": ["Mr Bumble was the owner of the orphanage."]
+		},
+
+		{"tag": "c5eng_q42",
+			"patterns": ["What meals were the boys given?"],
+			"response": ["A bowl of watery soup was given to the boys as a meal."]
+		},
+
+		{"tag": "c5eng_q43",
+			"patterns": ["What did Oliver say to Mr Bumble?"],
+			"response": ["Oliver said “Please Sir, I want some more soup” to Mr Bumble."]
+		},
+
+		{"tag": "c5eng_q44",
+			"patterns": ["The boys were given three meals a day. Then why were they always hungry? \n(i) Because the soup they were given was never enough. \n(ii) Because they worked very hard all day long. \n(iii) Because the older boys drank up their soup."],
+			"response": ["They were always hungry because the soup they were given was never enough. "]
+		},
+
+		{"tag": "c5eng_q45",
+			"patterns": ["‘All the boys assembled in the cold stone hall.’ Here the word means \n(i) moved away (ii) collected (iii) worked together"],
+			"response": ["The word ‘assembled’ means collected."]
+		},
+
+		{"tag": "c5eng_q46",
+			"patterns": [" Give a suitable title to the passage. "],
+			"response": ["Struggle of Oliver in the Orphanage."]
+		},
+
+		{"tag": "c5eng_q47",
+			"patterns": ["What did the frog do all day?"],
+			"response": ["The frog slept all day."]
+		},
+
+		{"tag": "c5eng_q48",
+			"patterns": ["Did you like the frog’s behaviour?"],
+			"response": ["No."]
+		},
+
+		{"tag": "c5eng_q49",
+			"patterns": ["What activity was going on in the class?"],
+			"response": ["The activity which was going on in the class was discussion."]
+		},
+
+		{"tag": "c5eng_q50",
+			"patterns": ["Who was the quiet one in the class? "],
+			"response": ["The student named Jane was the quiet one in the class."]
+		},
+
+		{"tag": "c5eng_q51",
+			"patterns": ["Why was she quiet? \n(i) she was afraid to air her opinions. \n(ii) she hated the noise. \n(iii) she didn’t like the activity. \n(iv) she was quiet by nature."],
+			"response": ["(iv) Jane was quiet because she was quiet by nature."]
+		},
+
+		{"tag": "c5eng_q52",
+			"patterns": ["How do you interact in class during discussions? Do you participate or remain quiet?"],
+			"response": ["No. I don’t like to be quiet. I diligently participate in class discussions. "]
+		},
+
+		{"tag": "c5eng_q53",
+			"patterns": ["How many brothers did the Barber have? "],
+			"response": ["The barber had six brothers."]
+		},
+
+		{"tag": "c5eng_q54",
+			"patterns": ["Why was the Sultan in a hurry?"],
+			"response": ["Sultan invited some of his friends to a feast at noon. Hence, he was in a hurry to leave."]
+		},
+		{"tag": "c5eng_q55",
+			"patterns": ["Why did the barber take so long to shave the Sultan? "],
+			"response": ["The barber was busy talking all the time. Therefore, he took so long to shave the Sultan."]
+		},
+		{"tag": "c5eng_q56",
+			"patterns": ["Why did the Barber want a lot of food?"],
+			"response": ["The Barber had invited four or five friends for a meal at his house but had forgotten about the preparations to be made. Hence, he wanted a lot of food. "]
+		},
+
+		{"tag": "c5eng_q57",
+			"patterns": ["Did the Sultan enjoy the Barber’s talk? Why do you say so?"],
+			"response": ["No, the Sultan didn’t enjoy the Barber’s talk because he  was ready to give all the food prepared for him in order to get rid of the Barber."]
+		},
+
+		{"tag": "c5eng_q58",
+			"patterns": ["Which part of the story did you find the funniest?"],
+			"response": ["The funniest part of the story was when the Barber started to examine the dishes leaving behind the Sultan’s head half shaved. "]
+		},
+
+		{"tag": "c5eng_q59",
+			"patterns": ["What are the things the Sultan gave to the Barber? "],
+			"response": ["Three pieces of gold, all the food prepared for him and  the fruits are the things Sultan gave to the Barber."]
+		},
+
+		{"tag": "c5eng_q60",
+			"patterns": ["Do you think the Sultan was really very generous? Why do you say so?"],
+			"response": ["I am not sure whether the Sultan was really very generous because according to me he showed his generosity to get his head fully shaved."]
+		},
+
+		{"tag": "c5eng_q61",
+			"patterns": ["When do children go to school in Topsy-turvy Land?"],
+			"response": ["The children go to school at night in Topsy-turvy land."]
+		},
+
+		{"tag": "c5eng_q62",
+			"patterns": ["In the poem, if buses travel on the sea, then where do the boats travel? How should it rightly be?"],
+			"response": ["The boats travel to the streets of Topsy-turvy Land. They should travel on the sea."]
+		},
+
+		{"tag": "c5eng_q63",
+			"patterns": ["The words in the sentences are jumbled here. Rearrange them to make meaningful sentences. Words that begin with a capital letter are the first word of the sentence.\n(i) Renu naughty is a girl. \n(ii) untidy room Her always is. \n(iii) mother Her advises her clean to it. \n(iv) never listens She her mother to. \n(v) kind of What child a you are?"],
+			"response": ["(i) Renu is a naughty girl.\n(ii) Her room is always untidy.\n(iii) Her mother advises her to clean it.\n(iv) She never listens to her mother.\n(v) What kind of a child are you?"]
+		},
+
+		{"tag": "c5eng_q64",
+			"patterns": ["Why did the captain send the men to the land?"],
+			"response": ["The captain sent the men to the land with vessels to look for water."]
+		},
+
+		{"tag": "c5eng_q65",
+			"patterns": ["Why did the men rush back to the ship?"],
+			"response": ["The men were chased by a giant. Hence, they rushed back to the ship."]
+		},
+
+		{"tag": "c5eng_q66",
+			"patterns": ["Correct the use of the describing words in the following sentences. \n(i) This is the simpler problem of them all . \n(ii) Which is the lightest of the two parcels? \n(iii) He is cleverer than I am. \n(iv) I like this the best of the two. \n(v) The flood became badder as the rain increased."],
+			"response": ["(i) This is the simplest problem of them all.\n(ii) Which is the lighter of the two parcels?\n(iii) He is cleverer than me.\n(iv) I like this the better of the two.\n(v) The flood became worse as the rain increased."]
+		},
+
+		{"tag": "c5eng_q67",
+			"patterns": ["Punctuate the following sentences \n(i) next wednesday my sister mita is going to join the state bank of india \n(ii) the dog wags its tail when its pleased but a cat waves its tail when its angry \n(iii) when I went fishing I caught an old shoe a plastic bag and a bad cold \n(iv) she fed the baby washed the dishes put the lights off and went to sleep \n(v) wasn’t tim born on the 26th of january 1989 \n(vi) oh no the bus has gone"],
+			"response": ["(i) Next Wednesday my sister, Mita is going to join the State Bank of India.\n(ii) The dog wags its tail when it’s pleased but the cat waves its tail when it’s angry.\n(iii) When I went fishing I caught an old shoe, a plastic bag and a bad cold. \n(iv) She fed the baby, washed the dishes, put the lights off and went to sleep.\n(v) Wasn’t Tim born on the 26th of January 1989?\n(vi) Oh no! The bus has gone."]
+		},
+
+		{"tag": "c5eng_q68",
+			"patterns": ["What are the things the girl does not want to share?"],
+			"response": ["The things that the girl does not want to share are sweets, a book and her doll. "]
+		},
+
+		{"tag": "c5eng_q69",
+			"patterns": ["Did the boy share his toffee and tricycle with others?"],
+			"response": ["No, the boy did not share his toffee and tricycle with others."]
+		},
+
+		{"tag": "c5eng_q70",
+			"patterns": ["Why are the two children nobody’s friends?"],
+			"response": ["The two children do not share their things with anyone. Hence, the two children are nobody’s friends."]
+		},
+
+		{"tag": "c5eng_q71",
+			"patterns": ["What does the child in the last stanza want to share?"],
+			"response": ["The child in the last stanza wants to share her sweets, ball, books, games, apple and cake."]
+		},
+
+		{"tag": "c5eng_q72",
+			"patterns": ["Do you like to share your favourite food or toys with others? Why?"],
+			"response": ["Yes, I like to share my favourite food or toys with others because it makes me happy."]
+		},
+
+		{"tag": "c5eng_q73",
+			"patterns": ["Who is your best friend? Can you describe him/her?"],
+			"response": ["Shreya is my best friend. She is an intelligent girl. She loves to share things with me. She always helps me whenever I have a problem."]
+		},
+		{"tag": "c5eng_q74",
+			"patterns": ["Suppose you and your friends were very thirsty and there was only one glass of water. What would you do?"],
+			"response": ["I would share the glass of water."]
+		},
+
+		{"tag": "c5eng_q75",
+			"patterns": ["If you had a bat, could you play cricket by yourself?"],
+			"response": ["No, a game cannot be played alone. We need friends to play."]
+		},
+
+		{"tag": "c5eng_q76",
+			"patterns": ["Can you find more words ending with -less \nfriendless, homeless, _________________\n____________________________________"],
+			"response": ["friendless, homeless, hopeless, restless, helpless, useless, fearless."]
+		},
+
+		{"tag": "c5eng_q77",
+			"patterns": ["Read the given sentences and underline the no word in each. \n(i) Nobody is at home. \n(ii) Ram has no book. \n(iii) Can no one help him? \n(iv) Was Gopal nowhere around? \n(v) None of the two boys came. \n(vi) There is nothing to do. \n(vii) I have no coat. \n(viii) Radha is never late."],
+			"response": ["(i) Nobody is at home. \n(ii) Ram has no book. \n(iii) Can no one help him? \n(iv) Was Gopal nowhere around? \n(v) None of the two boys came. \n(vi) There is nothing to do. \n(vii) I have no coat. \n(viii) Radha is never late."]
+		},
+
+		{"tag": "c5eng_q78",
+			"patterns": ["Why did all the children hate Hari?\n(i) Because he would not talk to anyone. \n(ii) Because he always pinched them. \n(iii) Because he loved stealing their food."],
+			"response": ["(ii) Because he always pinched them."]
+		},
+
+		{"tag": "c5eng_q79",
+			"patterns": ["“Nobody took Hari’s hand. Nobody went near him. Nobody played with him.” This shows that Hari had \n(i) many friends. \n(ii) few friends. \n(iii) no friends."],
+			"response": ["(iii) no friends."]
+		},
+
+		{"tag": "c5eng_q80",
+			"patterns": ["Which of the following actions would make a friendly person? Write them down.\nRespecting other people.\nEating a small child’s tiffin.\nCalling people rude names.\nPushing a smaller boy and making him cry.\nBeing helpful to everyone.\nHelping your classmates in school.\nMocking at friends and hurting their feelings.\nProtecting a weaker person."],
+			"response": ["The actions which make a friendly person are \nRespecting other people.\nBeing helpful to everyone.\nHelping your classmates in school.\nProtecting a weaker person."]
+		},
+
+		{"tag": "c5eng_q81",
+			"patterns": ["Which modes of transport do the people use to move around in the city?"],
+			"response": ["To move around in the city, people use buses, taxis, cars, scooters, autos, cycles, etc."]
+		},
+
+		{"tag": "c5eng_q82",
+			"patterns": ["What are the things that the people carry with them, while moving around?"],
+			"response": ["The things that the people carry with them, while moving around are hats, umbrellas, briefcases, handbags, etc."]
+		},
+
+
+		{"tag": "c5eng_q83",
+			"patterns": ["Where all do you find these very busy people?"],
+			"response": ["I find these busy people on roads, on sidewalks, on subways, in lifts, in stores, at bus stops, etc."]
+		},
+
+		{"tag": "c5eng_q84",
+			"patterns": ["Where have you seen crowds of people? "],
+			"response": ["In and around temples, railway stations, bus stops, hospitals, cinema halls, shopping malls, fairs, parties, etc, are the places where I have seen crowds of people."]
+		},
+
+		{"tag": "c5eng_q85",
+			"patterns": ["Why do you think all these people are in a hurry?"],
+			"response": ["People have to do a lot of work in a limited time. Hence, they are in a hurry."]
+		},
+
+		{"tag": "c5eng_q86",
+			"patterns": ["The people who live in cities often wish they could live in quiet towns. Do you like the place you live in? \nTell your partner two things you like and don’t like about the place you live in."],
+			"response": ["Yes, I love the place where I live.\nTwo things that I like about the place where I live in are\n1. Pollution free surrounding\n2. Good natured neighbours\nTwo things that I don’t like about the place where I live in are\n1. Shops and bus stops are far away from the house.\n2. There are a number of dogs who make the roads dirty."]
+		},
+
+		{"tag": "c5eng_q87",
+			"patterns": ["Find out how many people are there in our country. Do we have enough land for all people on this earth? Is there enough food and water for all people?"],
+			"response": ["There are about 130 crore people in our country. No, we don’t have enough land for all people on this earth. We have neither food nor water for all people."]
+		},
+
+		{"tag": "c5eng_q88",
+			"patterns": ["Interview your teacher and get her responses for the following questions.\n(i) Why did you become a teacher? \n(ii) How do you come to school everyday? \n(iii) Do you have any pets? \n(iv) What kinds of books do you like to read? \n(v) What are your hobbies?"],
+			"response": ["(i) I became a teacher because I love to teach small kids.\n(ii) I come to school by my two wheeler everyday.\n(iii) No, I don’t have pets.\n(iv) I love to read novels and mythological stories.\n(v) My hobbies are singing, cooking and painting."]
+		},
+
+		{"tag": "c5eng_q89",
+			"patterns": ["Where did the polar bear live with her family?"],
+			"response": ["The polar bear lived with her family in an icy lair."]
+		},
+
+		{"tag": "c5eng_q90",
+			"patterns": ["What did Malu learn to do from her parents? "],
+			"response": ["She learnt fishing and swimming from her parents."]
+		},
+
+		{"tag": "c5eng_q91",
+			"patterns": ["Where did Malu want to travel? "],
+			"response": ["Malu wanted to travel beyond the big blue sky."]
+		},
+
+		{"tag": "c5eng_q92",
+			"patterns": ["What was it that Malu’s parents wanted her to learn?"],
+			"response": ["Malu’s parents wanted her to learn the art of swimming. "]
+		},
+
+		{"tag": "c5eng_q93",
+			"patterns": ["Was Malu scared to swim? Did she learn it easily?"],
+			"response": ["Yes, Malu was scared to swim. Yes, she learnt it easily."]
+		},
+
+		{"tag": "c5eng_q94",
+			"patterns": ["Read the last two stanzas of the poem. Whom does ‘she’ stand for in both?"],
+			"response": ["‘She’ stands for Malu Bhalu in the first stanza and in the second stanza ‘she’ stands for her mother."]
+		},
+
+		{"tag": "c5eng_q95",
+			"patterns": ["Name the place in Manipur where the Ningthou and Leima ruled."],
+			"response": ["Kangleipak is the place in Manipur where the Ningthou and Leima ruled."]
+		},
+
+		{"tag": "c5eng_q96",
+			"patterns": ["Why did the people of Kangleipak love their king and queen?"],
+			"response": ["The people of Kangleipak loved their king and queen because they always wanted them to be happy and live in peace."]
+		},
+
+		{"tag": "c5eng_q97",
+			"patterns": ["Why did the Ningthou want to choose a future king?"],
+			"response": ["Ningthou grew old. Hence, he wanted to choose a future king."]
+		},
+
+		{"tag": "c5eng_q98",
+			"patterns": ["How did the king want to select their future king? "],
+			"response": ["The king wanted to select their future king by conducting a contest to know who is most worthy of becoming a good ruler."]
+		},
+
+		{"tag": "c5eng_q99",
+			"patterns": ["What kind of child was Sanatombi? "],
+			"response": ["Sanatombi, the daughter of Ningthou and Leima, was lovely, soft and beautiful inside."]
+		},
+
+		{"tag": "c5eng_q100",
+			"patterns": ["Have you ever seen an animal or a bird in pain? What did you do?"],
+			"response": ["Once I saw a cat coming under a running car. The car driver was in a hurry and injured a cat. He did not even pay attention to it. I was very upset to see the cat in misery.\nI went to the injured cat, brought it to my home and gave first aid. He stopped crying only after it got treated with first aid. "]
+		},
+
+		{"tag": "c5eng_q101",
+			"patterns": ["Where is Manipur on the map of India? "],
+			"response": ["Manipur is situated in the north eastern part of India."]
+		},
+
+		{"tag": "c5eng_q102",
+			"patterns": ["Who do you think should have been made the future king?\nSanajaoba, the one who jumped through the tree. \nSanayaima, the one who jumped over the tree. \nSanatomba, the one who uprooted the tree.\nWhy do you think so? \nWho was made the future queen and why?"],
+			"response": ["A future king should be judicious and considerate. But the sons of Ningthou believed only in showing their strength which was not important.\nSanatombi was declared as a future queen because she had all the qualities of a good ruler. She could feel the pain of not only people but also animals, birds and trees."]
+		}
+]

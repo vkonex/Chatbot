@@ -1,0 +1,68 @@
+[
+        {
+            "tag": "class_1_poems",
+            "patterns": [
+                "A Happy Child"
+            ],
+            "response": [
+                "My house is red - a little house;\nA happy child am I.\nI laugh and play the whole day long,\nI hardly ever cry.\nI have a tree, a green, green tree,\nTo shade me from the sun;\nAnd under it I often sit,\nWhen all my play is done."
+            ]
+        },
+        {
+            "tag": "class_1_poems1",
+            "patterns": [
+                "After a Bath",
+                "After a Bath Poem",
+                "what is After a Bath poem",
+                "Hey teach me After a Bath poem",
+                "teach me After a Bath poem"
+            ],
+            "response": [
+                "After my bath\nI try, try, try\nto wipe myself\ntill I\u2019m dry, dry, dry.\nHands to wipe\nand fingers and toes\nand two wet legs\nand a shiny nose.\nJust think how much\nless time I\u2019d take\nif I were a dog\nand could shake, shake, shake.\n"
+            ]
+        },
+        {
+            "tag": "class_1_poems2",
+            "patterns": [
+                "One little kitten",
+                "One little kitten Poem",
+                "One little kitten Rythm"
+            ],
+            "response": [
+                "Two big cats\nThree baby butterflies\nFour big rats\nFive fat fishes\nSix sad seals\nSeven silly seagulls\nEight happy eels;\nNine nervous lizards\nTen brave bees\nEleven smelly elephants\nTwelve fat fleas\nThirteen alligators\nFourteen whales\nFifteen donkeys\nWith fifteen tails."
+            ]
+        },
+        {
+            "tag": "class_1_poems3",
+            "patterns": [
+                "Once I saw a Little Bird",
+                "Once I saw a Little Bird Poem",
+                "Once I saw a Little Bird Rythm"
+            ],
+            "response": [
+                "Once I saw a little bird\nCome hop, hop, hop,\nI cried, \u201cLittle bird,\nWill you stop, stop, stop?\u201d\nI was going to the window\nTo say, \u201cHow do you do?\u201d\nBut he shook his little tail\nAnd away he flew."
+            ]
+        },
+        {
+            "tag": "class_1_poems4",
+            "patterns": [
+                "Merry Go Round",
+                "Merry Go Round Poem",
+                "Merry Go Round Rythm"
+            ],
+            "response": [
+                "I climbed up on the merry-go-round,\nAnd it went round and round.\nI climbed up on a big brown horse,\nAnd it went up and down.Around and round\nAnd up and down,\nAround and round\nAnd up and down.\nI sat high up\nOn a big brown horse\nAnd rode around\nOn the merry-go-round\nAnd rode around\nOn the merry-go-round\nI rode around\nOn the merry-go-round\nAround\nAnd round\nAnd"
+            ]
+        },
+        {
+            "tag": "class_1_poems5",
+            "patterns": [
+                "If I Were an Apple",
+                "If I Were an Apple Poem",
+                "If I Were an Apple Rythm"
+            ],
+            "response": [
+                "If I were an apple\nAnd grew on a tree,\nI think I\u2019d drop down\nOn a nice boy like me.\nI wouldn\u2019t stay there\nGiving nobody joy,\nI\u2019d fall down at once\nAnd say, \u201cEat me, my boy!"
+            ]
+        }
+]

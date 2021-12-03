@@ -1,0 +1,303 @@
+,Role,context
+0,software engineer,"<b>Our tutorial will guide you to learn different types of data structures and algorithms and their implementations in Python, C, C++, and Java.</b><br><br>
+                        
+                        <b><i>DSA Introduction</i> : </b><br>
+                            &nbsp.What is an algorithm?<br>
+                            &nbsp.Data Structure and Types<br>
+                            &nbsp.Why learn algorithms?<br>
+                            &nbsp.Asymptotic Notations<br>
+                            &nbsp.Master Theorem<br>
+                            &nbsp.Divide and Conquer Algorithm<br><br>
+                            
+                        <b><i>Data Structures (I) </i>: </b><br>
+                            &nbsp.Stack<br>
+                            &nbsp.Queue<br>
+                            &nbsp.Types of Queue<br>
+                            &nbsp.Circular Queue<br>
+                            &nbsp.Priority Queue<br>
+                            &nbsp.Deque<br><br>
+                            
+                        <b><i>Data Structures (II) </i>: </b><br>
+                            &nbsp.Linked List<br>
+                            &nbsp.Linked List Operations<br>
+                            &nbsp.Types of Linked List<br>
+                            &nbsp.Hash Table<br>
+                            &nbsp.Heap Data Structure<br>
+                            &nbsp.Fibonacci Heap<br>
+                            &nbsp.Decrease Key and Delete node from Fibonacci Heap<br><br>
+
+                        <b><i>Tree based DSA (I) </i>:</b><br>
+                            &nbsp.Tree Data Structure<br>
+                            &nbsp.Tree Traversal<br>
+                            &nbsp.Binary Tree<br>
+                            &nbsp.Full Binary Tree<br>
+                            &nbsp.Perfect Binary Tree<br>
+                            &nbsp.Complete Binary Tree<br>
+                            &nbsp.Balanced Binary Tree<br>
+                            &nbsp.Binary Search Tree<br>
+                            &nbsp.AVL Tree<br><br>
+
+                        <b><i>Tree based DSA (II) </i>: </b><br>
+                            &nbsp.B Tree<br>
+                            &nbsp.Insertion into B-tree<br>
+                            &nbsp.Deletion from B-tree<br>
+                            &nbsp.B+ Tree<br>
+                            &nbsp.Insertion on a B+ Tree<br>
+                            &nbsp.Deletion from a B+ Tree<br>
+                            &nbsp.Red Black Tree<br>
+                            &nbsp.Insertion in Red Black Tree<br>
+                            &nbsp.Deletion from Red Black Tree<br><br>
+                            
+                        <b><i>Graph based DSA </i>: </b><br>
+                            &nbsp.Graph Data Structure<br>
+                            &nbsp.Spanning Tree<br>
+                            &nbsp.Strongly Connected Components<br>
+                            &nbsp.Adjacency Matrix<br>
+                            &nbsp.Adjacency List<br>
+                            &nbsp.DFS Algorithm<br>
+                            &nbsp.Breadth-first Search<br>
+                            &nbsp.Bellman Ford's Algorithm<br><br>
+                            
+                        <b><i>Sorting and Searching Algorithms </i>: </b><br>
+                            &nbsp.Bubble Sort<br>
+                            &nbsp.Selection Sort<br>
+                            &nbsp.Insertion Sort<br>
+                            &nbsp.Merge Sort<br>
+                            &nbsp.Quick Sort<br>
+                            &nbsp.Counting Sort<br>
+                            &nbsp.Radix Sort<br>
+                            &nbsp.Bucket Sort<br>
+                            &nbsp.Heap Sort<br>
+                            &nbsp.Shell Sort<br>
+                            &nbsp.Linear Search<br>
+                            &nbsp.Binary Search<br><br>
+                        
+                        <b><i>Greedy Algorithms</i> : </b><br>
+                            &nbsp.Greedy Algorithm<br>
+                            &nbsp.Ford-Fulkerson Algorithm<br>
+                            &nbsp.Dijkstra's Algorithm<br>
+                            &nbsp.Kruskal's Algorithm<br>
+                            &nbsp.Prim's Algorithm<br>
+                            &nbsp.Huffman Code<br>
+                            &nbsp.Dynamic Programming<br>
+                            &nbsp.Dynamic Programming<br>
+                            &nbsp.Floyd Warshall Algorithm<br>
+                            &nbsp.Longest Common Subsequence<br>
+                            &nbsp.Other Algorithms<br>
+                            &nbsp.Backtracking Algorithm<br>
+                            &nbsp.Rabin-Karp Algorithm<br><br>"
+1,Data Science,"<b>Python for Data Science :</b><br><br>  
+                             
+                             <b><i>curriculum </i>:</b><br><br> 
+                             
+                                &nbsp. Python Basics<br>
+                                &nbsp. Python Data Structures<br>
+                                &nbsp. Python Programming Fundamentals<br>
+                                &nbsp. Working with Data in Python<br>
+                                &nbsp. Working with NumPy Arrays<br><br> 
+                                
+                            <b><i>Data Science with Python : </b><br><br> 
+                            
+                            <b><i>curriculum </i>:</b><br><br> 
+                                  
+                                 - Statistical Analysis and Business Applications<br>
+                                 - Python Environment Setup and Essentials<br>
+                                 - Mathematical Computing with Python (NumPy)<br>
+                                 - Scientific Computing with Python (Scipy)<br>
+                                 - Data Manipulation with Pandas<br>
+                                 - Machine Learning with Scikit–Learn<br>
+                                 - Natural Language Processing with Scikit Learn<br>
+                                 - Data Visualization in Python using Matplotlib<br>
+                                 - Web Scraping with BeautifulSoup<br>
+                                 - Python Integration with Hadoop MapReduce and Spark<br><br> 
+                                 
+                            <b>Machine Learning : Machine Learning concepts and techniques, 
+                            including supervised and unsupervised learning,</b><br><br> 
+                           
+                            <b>Key Learning Objectives:</b><br><br> 
+                            
+                               .Master the concepts of supervised and unsupervised learning,
+                                    recommendation engine, and time series modeling.<br><br> 
+                               .Gain practical mastery over principles, algorithms, and applications of
+                                    Machine Learning through a hands-on approach that includes working<br><br> 
+
+                               .Implement models such as support vector machines, kernel SVM,
+                                    naive Bayes, decision tree classifier, random forest classifier, logistic
+                                    regression, K-means clustering and more in Python<br><br> 
+                               .Validate Machine Learning models and decode various accuracy
+                                    metrics. Improve the final models using another set of optimization
+                                    algorithms, which include Boosting & Bagging techniques.<br><br> 
+
+                                <b><i>curriculum</i> :</b><br><br> 
+                                
+                                    - Introduction to Artificial Intelligence and Machine Learning<br>
+                                    - Data Wrangling and Manipulation<br>
+                                    - Supervised Learning<br>
+                                    - Feature Engineering<br>
+                                    - Supervised Learning Classification<br>
+                                    - Unsupervised Learning<br>
+                                    - Time Series Modeling<br>
+                                    - Ensemble Learning<br>
+                                    - Recommender Systems<br>
+                                    - Text Mining<br><br> "
+2,Data Analyst,"<b>Introduction to Data Analytics :</b><br><br>  
+                  
+                                    <b>Key Learning Objectives :</b><br><br> 
+                                
+                                        - Understand how to solve analytical problems in real-world scenarios
+                                        - Define effective objectives for analytics projects.<br> 
+                                        - Understand the importance of data visualization to help make more
+                                            effective business decisions.<br> 
+                                        - Understand charts, graphs, and tools used for analytics and
+                                            visualization and use them to derive meaningful insights.<br> 
+                                        - Create an analytics adoption framework and identify upcoming trends
+                                            in the data analytics field.<br><br> 
+
+                                    <b>Curriculum :</b><br><br> 
+
+                                        1 - Course Introduction<br> 
+                                        2 - Data Analytics Overview<br> 
+                                        3 - Dealing with Different Types of Data<br> 
+                                        4 - Data Visualization for Decision Making<br> 
+                                        5 - Data Science,Data Analytics, and Machine Learning<br> 
+                                        6 - Data Analytics in Different Sectors<br> 
+                                        7 - Analytics Framework and Latest Trends<br><br> 
+                                    
+                                    
+                                    <b> Statistics Essential for Data Analytics : </b><br><br>  
+
+                                
+                                        <b> Key Learning Objectives : </b><br><br>  
+                                    
+                                            - Understand the fundamentals of statistics Work with different types of data <br> 
+                                            - Learn how to plot different types of data<br> 
+                                            - Calculate the measures of central tendency, asymmetry, and variability<br> 
+                                            - Calculate correlation and covariance<br> 
+                                            - Distinguish and work with different types of distribution <br> 
+                                            - Estimate confidence intervals<br> 
+                                            - Perform hypothesis testing<br> 
+                                            - Make data-driven decisions<br> 
+                                            - Understand the mechanics of regression analysis<br> 
+                                            - Carry out regression analysis<br> 
+                                            - Use and understand dummy variables<br> 
+                                            - Understand the concepts needed for data science even with Python and R<br><br> 
+
+                                    <b>Curriculum : </b><br><br> 
+
+                                        1 - Introduction<br> 
+                                        2 - Sample or Population Data?<br> 
+                                        3 - The Fundamentals of Descriptive Statistics<br> 
+                                        4 - Measures of Central Tendency, Asymmetry, and Variability<br> 
+                                        5 - Practical Example: Descriptive Statistics<br> 
+                                        6 - Distributions<br> 
+                                        7 - Estimators and Estimates<br> 
+                                        8 - Confidence Intervals: Advanced Topics<br> 
+                                        9 - Practical Example: Inferential Statistics<br> 
+                                        10 - Hypothesis Testing: Introduction<br> 
+                                        11 - Hypothesis Testing: Let’s Start Testing!<br> 
+                                        12 - Practical Example: Hypothesis Testing<br> 
+                                        13 - The Fundamentals of Regression Analysis<br> 
+                                        14 - Subtleties of Regression Analysis<br> 
+                                        15 - Assumptions for Linear Regression Analysis<br> 
+                                        16 - Dealing with Categorical Data<br> 
+                                        17 - Practical Example: Regression Analysis<br><br> 
+                                        
+                                        
+                                    <b>SQL Training :</b><br><br>  
+
+                                    <b>Key Learning Objectives : </b><br><br> 
+                                        
+                                        - Understand databases and relationships<br> 
+                                        - Use common query tools and work with SQL commands<br> 
+                                        - Understand transactions, creating tables and views<br> 
+                                        - Comprehend and execute stored procedures<br><br>
+                                    
+                                    <b>Curriculum :</b><br><br>   
+                                    
+                                        1- Fundamental SQL Statements<br> 
+                                        2-Restore and Back-up<br> 
+                                        3-Selection Commands: Filtering<br> 
+                                        4-Selection Commands: Ordering<br> 
+                                        5-Alias<br> 
+                                        6-Aggregate Commands<br> 
+                                        7-Group By Commands<br> 
+                                        8-Conditional Statement<br> 
+                                        9-Joins<br> 
+                                        10-Subqueries<br> 
+                                        11-Views and Index<br> 
+                                        12-String Functions<br> 
+                                        13-Mathematical Functions<br> 
+                                        14-Date - Time Functions<br> 
+                                        15-Pattern (String) Matching<br> 
+                                        16-User Access Control Functions<br><br>   
+                                            
+                                    <b>Analytics Foundation :</b><br><br>  
+
+                                    <b>Key Learning Objectives :</b><br><br>  
+
+                                        - Understand the meaning of business analytics and its importance in
+                                            the industry.<br>  
+                                        - Grasp the fundamentals of Excel analytics functions and conditional
+                                            formatting.<br>  
+                                        - Learn how to analyze with complex datasets using pivot tables and
+                                            slicers.<br>  
+                                        - Apply statistical tools and concepts such as moving average,
+                                            hypothesis testing, ANOVA, and regression to data sets using Excel
+                                            Represent your findings using charts and dashboards.<br><br>    
+
+                                    <b>Curriculum :</b><br><br> 
+
+                                        1- Introduction to Business Analytics<br>
+                                        2- Conditional Formatting and Important Functions<br>
+                                        3- Analyzing Data with Pivot Tables<br>
+                                        4- Dashboarding<br>
+                                        5- Business Analytics with Excel<br>
+                                        6- Data Analysis Using Statistics<br>
+                                        7- Power BI<br><br><br>
+                                                
+                                    <b>Analytics with Python : </b><br><br>
+
+                                        <b>Key Learning Objectives : </b><br><br>
+                                        
+                                            . Gain knowledge in the basics of programming, Python fundamentals,Jypter and Python environment setups, and OOPs concepts<br>
+                                            . Have a fair understanding of different programming languages, algorithms, and pseudo codes<br>
+                                            . Import data sets<br>
+                                            . Clean and prepare data for analysis<br>
+                                            . Manipulate Pandas DataFrame<br>
+                                            . Summarize data<br>
+                                            . Build machine learning models using scikit-learn<br><br>
+                                    
+                                        <b>Curriculum :<b><br><br>
+
+                                        <b>Module 1:<b><br><br>
+
+                                        <b>Course Introduction :<b><br><br>
+
+                                            1 - Introduction to Programming<br>
+                                            2 - Programming Environment Setup<br>
+                                            3- OOPs Concepts<br>
+                                            4- Programming Fundamentals of Python<br>
+                                            5- File Handling, Exception Handling, and Package Handling<br><br>
+
+                                        <b>Module 2:<b><br><br>
+
+                                            1 Data Analytics Overview<br>
+                                            2 Statistical Computing<br>
+                                            3 Mathematical Computing Using NumPy<br>
+                                            4 Data Manipulation with Pandas<br>
+                                            5 Data visualization with Python<br>
+                                            6 Intro to Model Building<br><br>                        
+                                        
+                                    <b>Tableau : <b><br><br>
+
+                                        <b>Curriculum :<b><br><br>
+
+                                            1 - Getting Started with Tableau<br>
+                                            2 - Core Tableau in Topics<br>
+                                            3 - Creating Charts in Tableau<br>
+                                            4 - Working with Metadata<br>
+                                            5 - Filters in Tableau<br>
+                                            6 - Applying Analytics to the worksheet<br>
+                                            7 - Dashboard in Tableau<br>
+                                            8 - Modifications to Data Connections<br>
+                                            9 - Introduction to Level of Details in Tableau (LODS)"

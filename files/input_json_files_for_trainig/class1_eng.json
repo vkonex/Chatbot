@@ -1,0 +1,781 @@
+[
+        {
+            "tag": "class_1_1",
+            "patterns": [
+                "How many pigs were ?",
+                "How many pigs were there?"
+            ],
+            "response": [
+                "There were three pigs."
+            ]
+        },
+        {
+            "tag": "class_1_2",
+            "patterns": [
+                "What did the big wolf say to the pigs?",
+                "What did the big wolf say to the "
+            ],
+            "response": [
+                "The big wolf said to the pigs that; \n he would will huff and puff and; \n blow their houses down"
+            ]
+        },
+        {
+            "tag": "class_1_3",
+            "patterns": [
+                "Was the wolf good or ?",
+                "Was the wolf good or bad?"
+            ],
+            "response": [
+                "The wolf was bad."
+            ]
+        },
+        {
+            "tag": "class_1_4",
+            "patterns": [
+                "What is your house made of?",
+                "What is your house ?"
+            ],
+            "response": [
+                "My house is made of; \n bricks and cement."
+            ]
+        },
+        {
+            "tag": "class_1_5",
+            "patterns": [
+                "Who is good?",
+                "is that good"
+            ],
+            "response": [
+                "The pig is good"
+            ]
+        },
+        {
+            "tag": "class_1_6",
+            "patterns": [
+                "Who is bad?",
+                "is bad"
+            ],
+            "response": [
+                "The wolf is bad."
+            ]
+        },
+        {
+            "tag": "class_1_7",
+            "patterns": [
+                "Imagine you are at home when the wolf huffs and puffs.",
+                "Imagine you are at home when the wolf huffs"
+            ],
+            "response": [
+                "Activity to be;\n done by yourself."
+            ]
+        },
+        {
+            "tag": "class_1_8",
+            "patterns": [
+                "Act out the story of the wolf and three pigs.",
+                "Act out the story of the wolf "
+            ],
+            "response": [
+                "Activity to be; \n done by yourself."
+            ]
+        },
+        {
+            "tag": "class_1_9",
+            "patterns": [
+                "Do you like to have a bath? Say why.",
+                "Do you like to have a bath? "
+            ],
+            "response": [
+                "Yes, I like to have a bath every;\n day to keep myself healthy, neat and tidy."
+            ]
+        },
+        {
+            "tag": "class_2_0",
+            "patterns": [
+                "Can you bathe yourself?",
+                "Can you bathe "
+            ],
+            "response": [
+                "Yes, I can bathe myself."
+            ]
+        },
+        {
+            "tag": "class_2_1",
+            "patterns": [
+                "How do you dry yourself?",
+                "How do you dry"
+            ],
+            "response": [
+                "I dry myself after a bath; \n by using a fresh towel."
+            ]
+        },
+        {
+            "tag": "class_2_2",
+            "patterns": [
+                "Have you seen an animal drying itself?",
+                "Have you seen an animal drying ?"
+            ],
+            "response": [
+                "Yes, I have seen my pet dog drying; \n itself by shaking off the excess water; \n from its body whenever I bathe it."
+            ]
+        },
+        {
+            "tag": "class_2_3",
+            "patterns": [
+                "Name the three friends.",
+                "Name the three "
+            ],
+            "response": [
+                "The three friends are the Bubble,; \n the Straw and the Shoe."
+            ]
+        },
+        {
+            "tag": "class_2_4",
+            "patterns": [
+                "Where did they go one day?",
+                "Where did they go ?"
+            ],
+            "response": [
+                "All the three friends went; \n to a forest one day."
+            ]
+        },
+        {
+            "tag": "class_2_5",
+            "patterns": [
+                "What did they want to do?",
+                "What did they want ?"
+            ],
+            "response": [
+                "They came to a river.; \n They wanted to cross it, but; \n did not know how to do it."
+            ]
+        },
+        {
+            "tag": "class_2_6",
+            "patterns": [
+                "How do you make bubbles?",
+                "How you make bubbles?"
+            ],
+            "response": [
+                "We can make bubbles by; \n taking some liquid soap in a container and mix it in water.; \n We can create a lather from; \n the mixture and use a straw to blow the; \n bubbles in the air."
+            ]
+        },
+        {
+            "tag": "class_2_7",
+            "patterns": [
+                "What do you wear on your feet?",
+                "do you wear on your feet?"
+            ],
+            "response": [
+                "I wear shoes, sandals, ; \n socks, etc. on my feet."
+            ]
+        },
+        {
+            "tag": "class_2_8",
+            "patterns": [
+                "How would you cross a river?",
+                "would you cross a river?"
+            ],
+            "response": [
+                "I would cross a river in a boat."
+            ]
+        },
+        {
+            "tag": "class_2_9",
+            "patterns": [
+                "How many kinds of creatures are there in the poem?",
+                "many kinds of creatures are there in the poem?"
+            ],
+            "response": [
+                "There are fifteen creatures; \n mentioned in the poem."
+            ]
+        },
+        {
+            "tag": "class_3_0",
+            "patterns": [
+                "are the seals happy?",
+                "the seals happy?"
+            ],
+            "response": [
+                "No, the seals are sad."
+            ]
+        },
+        {
+            "tag": "class_3_1",
+            "patterns": [
+                "Where do the fish live?",
+                "do the fish live?"
+            ],
+            "response": [
+                "The fish live in the water; \n (river, sea or ocean)."
+            ]
+        },
+        {
+            "tag": "class_3_2",
+            "patterns": [
+                "What are the other things found in water?",
+                "the other things found in water?"
+            ],
+            "response": [
+                "The other things found in; \n water are other sea creatures, plants, oysters,; \n shells, herbs, etc."
+            ]
+        },
+        {
+            "tag": "class_3_3",
+            "patterns": [
+                "There are many creatures in the poem. Which ones have you seen?",
+                "many creatures in the poem. Which ones have you seen?"
+            ],
+            "response": [
+                "I have seen kitten, cats,; \n butterflies, rats, fishes, lizards,; \n bees, elephants, donkeys, etc"
+            ]
+        },
+        {
+            "tag": "class_3_4",
+            "patterns": [
+                "Name the chicks in the story.",
+                "the chicks in the story."
+            ],
+            "response": [
+                "Lalu and Peelu are the names; \n of the chicks in the story."
+            ]
+        },
+        {
+            "tag": "class_3_5",
+            "patterns": [
+                "Who liked yellow things?",
+                "liked yellow things?"
+            ],
+            "response": [
+                "Peelu liked yellow things."
+            ]
+        },
+        {
+            "tag": "class_3_6",
+            "patterns": [
+                "What did Lalu eat one day?",
+                "did Lalu eat one day?"
+            ],
+            "response": [
+                "Lalu ate a red chilli ; \n from a plant one day."
+            ]
+        },
+        {
+            "tag": "class_3_7",
+            "patterns": [
+                "What did the child see?",
+                "did the child see?"
+            ],
+            "response": [
+                "The child saw a little bird."
+            ]
+        },
+        {
+            "tag": "class_3_8",
+            "patterns": [
+                "What was the little bird doing?",
+                "the little bird doing?"
+            ],
+            "response": [
+                "The little bird sat upon a window."
+            ]
+        },
+        {
+            "tag": "class_3_9",
+            "patterns": [
+                "Do you see any birds around your school or your house?",
+                "see any birds around your school or your house?"
+            ],
+            "response": [
+                "Yes, I often see birds around; \n my school or my house"
+            ]
+        },
+        {
+            "tag": "class_4_0",
+            "patterns": [
+                "Have you tried talking to them?",
+                "you tried talking to them?"
+            ],
+            "response": [
+                "Yes, I\u2019ve tried talking to birds ; \n whenever they come and sit on my window"
+            ]
+        },
+        {
+            "tag": "class_4_1",
+            "patterns": [
+                "What did Mittu see on the tree?",
+                "did Mittu see on the tree?"
+            ],
+            "response": [
+                "Mittu saw a big yellow; \n  mango on the tree."
+            ]
+        },
+        {
+            "tag": "class_4_2",
+            "patterns": [
+                "What did the big black crow say?",
+                "did the big black crow say?"
+            ],
+            "response": [
+                "The big black crow; \n told Mittu to go away."
+            ]
+        },
+        {
+            "tag": "class_4_3",
+            "patterns": [
+                "What did Mittu see under the tree?",
+                "did Mittu see under the tree?"
+            ],
+            "response": [
+                "Mittu saw a red balloon under the tree."
+            ]
+        },
+        {
+            "tag": "class_4_4",
+            "patterns": [
+                "Do you like eating mangoes?",
+                "you like eating mangoes?"
+            ],
+            "response": [
+                "Yes, I like eating ripe mangoes."
+            ]
+        },
+        {
+            "tag": "class_4_5",
+            "patterns": [
+                "Do you like green mangoes? Why?",
+                "you like green mangoes? Why?"
+            ],
+            "response": [
+                "Yes, I like green mangoes as they taste sour and; \n have a unique flavour. My grandmother prepares; \n pickles with them."
+            ]
+        },
+        {
+            "tag": "class_4_6",
+            "patterns": [
+                "Do you like yellow mangoes? Why?",
+                "you like yellow mangoes? Why?"
+            ],
+            "response": [
+                "Yes, I like yellow mangoes as ; \n they have a sweet flavour."
+            ]
+        },
+        {
+            "tag": "class_4_7",
+            "patterns": [
+                "How did the merry-go-round go?",
+                "did the merry-go-round go?"
+            ],
+            "response": [
+                "The merry-go-round went round and round"
+            ]
+        },
+        {
+            "tag": "class_4_8",
+            "patterns": [
+                "How did the big brown horse go?",
+                "did the big brown horse go?"
+            ],
+            "response": [
+                "The big brown horse went up and down."
+            ]
+        },
+        {
+            "tag": "class_4_9",
+            "patterns": [
+                "Have you seen a merry-go-round?",
+                "you seen a merry-go-round?"
+            ],
+            "response": [
+                "Yes, I have seen a merry-go-round."
+            ]
+        },
+        {
+            "tag": "class_5_0",
+            "patterns": [
+                "Where have you seen it?",
+                "have you seen it?"
+            ],
+            "response": [
+                "I have seen a merry-go-round; \n in a fair and a park."
+            ]
+        },
+        {
+            "tag": "class_5_1",
+            "patterns": [
+                "Would you like to go to a fair?",
+                "you like to go to a fair?"
+            ],
+            "response": [
+                "Yes, I like to visit; \n a fair often."
+            ]
+        },
+        {
+            "tag": "class_5_2",
+            "patterns": [
+                "What did Grandmother and Mohini draw first?",
+                "did Grandmother and Mohini draw first?"
+            ],
+            "response": [
+                "Grandmother and Mohini; \n drew a circle at first."
+            ]
+        },
+        {
+            "tag": "class_5_3",
+            "patterns": [
+                "What were the colours of the balloons that Mohini drew?",
+                "were the colours of the balloons that Mohini drew?"
+            ],
+            "response": [
+                "Mohini drew balloons of different; \n colours such as red, blue,; \n green and yellow."
+            ]
+        },
+        {
+            "tag": "class_5_4",
+            "patterns": [
+                "Where is the apple?",
+                "is the apple?"
+            ],
+            "response": [
+                "The apple is on the tree."
+            ]
+        },
+        {
+            "tag": "class_5_5",
+            "patterns": [
+                "Where is the boy?",
+                "is the boy?"
+            ],
+            "response": [
+                "The boy is under the tree."
+            ]
+        },
+        {
+            "tag": "class_5_6",
+            "patterns": [
+                "How can the boy get the apple?",
+                "the boy get the apple?"
+            ],
+            "response": [
+                "The boy can get the apple by ; \n climbing the tree and plucking it from the tree."
+            ]
+        },
+        {
+            "tag": "class_5_7",
+            "patterns": [
+                "Do you like apples?",
+                "you like apples?"
+            ],
+            "response": [
+                "Yes, I like apples."
+            ]
+        },
+        {
+            "tag": "class_5_8",
+            "patterns": [
+                "Have you ever climbed a fruit tree?",
+                "you ever climbed a fruit tree?"
+            ],
+            "response": [
+                "No, I have never climbed a fruit tree"
+            ]
+        },
+        {
+            "tag": "class_5_9",
+            "patterns": [
+                "Describe the picture using all the words given above.",
+                "the picture using all the words given above."
+            ],
+            "response": [
+                "The tree is full of lush green leaves and; \n numerous branches.There are two birds in the picture.; \n There is also a small nest with two eggs in it.; \n A swing is tied to one of the branches."
+            ]
+        },
+        {
+            "tag": "class_6_0",
+            "patterns": [
+                "Should trees be cut?",
+                "the trees be cut?"
+            ],
+            "response": [
+                "No, Trees should not be cut."
+            ]
+        },
+        {
+            "tag": "class_6_1",
+            "patterns": [
+                "Name some trees which you have seen",
+                "some trees which you have seen"
+            ],
+            "response": [
+                "I have seen neem tree, mango tree, guava tree,; \n pomegranate tree, ashok tree, etc."
+            ]
+        },
+        {
+            "tag": "class_6_2",
+            "patterns": [
+                "What does the child wish to be?",
+                "does the child wish to be?"
+            ],
+            "response": [
+                "The child wishes to be a kite."
+            ]
+        },
+        {
+            "tag": "class_6_3",
+            "patterns": [
+                "What does the child wish to do with the breeze?",
+                "does the child wish to do with the breeze?"
+            ],
+            "response": [
+                "The child wishes that to ride upon the breeze ; \n and go wherever he got a chance to."
+            ]
+        },
+        {
+            "tag": "class_6_4",
+            "patterns": [
+                "What would you like to be?",
+                "would you like to be?"
+            ],
+            "response": [
+                "I would like to be a bird ; \n  and fly high in the sky."
+            ]
+        },
+        {
+            "tag": "class_6_5",
+            "patterns": [
+                "Imagine you are a bird in the sky. Describe what will you feel when you see a kite flying near you.",
+                "you are a bird in the sky. Describe what will you feel when you see a kite flying near you."
+            ],
+            "response": [
+                "I will look at it and then fly a little ; \n farther so that it doesn\u2019t harm me."
+            ]
+        },
+        {
+            "tag": "class_6_6",
+            "patterns": [
+                "What are the different things that fly in the sky?",
+                "are the different things that fly in the sky?"
+            ],
+            "response": [
+                "Things that fly in the sky are birds, ; \n kites, aeroplanes, helicopters, etc."
+            ]
+        },
+        {
+            "tag": "class_6_7",
+            "patterns": [
+                "If you had wings, where would you fly?",
+                "you had wings, where would you fly?"
+            ],
+            "response": [
+                "I would fly over mountains, rivers, etc."
+            ]
+        },
+        {
+            "tag": "class_6_8",
+            "patterns": [
+                "Who made Sundari?",
+                "made Sundari?"
+            ],
+            "response": [
+                "Bobby made Sundari."
+            ]
+        },
+        {
+            "tag": "class_6_9",
+            "patterns": [
+                "Why did Bobby call his kite \u2018Sundari\u2019?",
+                "did Bobby call his kite \u2018Sundari\u2019?"
+            ],
+            "response": [
+                "Bobby called his kite \u2018Sundari\u2019; \n  because it was beautiful."
+            ]
+        },
+        {
+            "tag": "class_7_0",
+            "patterns": [
+                "Did Sundari fly very high at first?",
+                "Sundari fly very high at first?"
+            ],
+            "response": [
+                "No, Sundari did not fly very high at first."
+            ]
+        },
+        {
+            "tag": "class_7_1",
+            "patterns": [
+                "What made Sundari really happy?",
+                "made Sundari really happy?"
+            ],
+            "response": [
+                "Sundari became really happy when ; \n Bobby let her go and fly high in the sky."
+            ]
+        },
+        {
+            "tag": "class_7_2",
+            "patterns": [
+                "Do you like to fly kites?",
+                "you like to fly kites?"
+            ],
+            "response": [
+                "Yes, I like to fly kites."
+            ]
+        },
+        {
+            "tag": "class_7_3",
+            "patterns": [
+                "Who helps you to fly kites",
+                "helps you to fly kites"
+            ],
+            "response": [
+                "My brother helps me to fly kites"
+            ]
+        },
+        {
+            "tag": "class_7_4",
+            "patterns": [
+                "Name the objects in your own language.",
+                "the objects in your own language."
+            ],
+            "response": [
+                "The student has to do as directed."
+            ]
+        },
+        {
+            "tag": "class_7_5",
+            "patterns": [
+                "Now say the story in English using the words rain, wind, crow, nest, is, has, blows, flies.",
+                "the story in English using the words rain, wind, crow, nest, is, has, blows, flies."
+            ],
+            "response": [
+                "The student has to do as directed."
+            ]
+        },
+        {
+            "tag": "class_7_6",
+            "patterns": [
+                "How does a turtle walk?",
+                "does a turtle walk?"
+            ],
+            "response": [
+                "The turtle walks very slowly."
+            ]
+        },
+        {
+            "tag": "class_7_7",
+            "patterns": [
+                "What does the turtle carry on its back?",
+                "does the turtle carry on its back?"
+            ],
+            "response": [
+                "The turtle carries its home on its back."
+            ]
+        },
+        {
+            "tag": "class_7_8",
+            "patterns": [
+                "Where does the turtle go when it is tired?",
+                "does the turtle go when it is tired?"
+            ],
+            "response": [
+                "The turtle goes back to its shell when it is tired."
+            ]
+        },
+        {
+            "tag": "class_7_9",
+            "patterns": [
+                "What is the turtle\u2019s house called?",
+                "is the turtle\u2019s house called?"
+            ],
+            "response": [
+                "The turtle\u2019s house is called a shell."
+            ]
+        },
+        {
+            "tag": "class_8_0",
+            "patterns": [
+                "What other reasons can you give for a turtle going into its house?",
+                "can you give for a turtle going into its house?"
+            ],
+            "response": [
+                "There can be multiple reasons for a turtle ; \n going into its house- to save itself from strong winds or storms, ; \n to hide from enemies or other dangers, etc."
+            ]
+        },
+        {
+            "tag": "class_8_1",
+            "patterns": [
+                "Imagine you are a turtle. Crawl like a turtle.",
+                "you are a turtle. Crawl like a turtle."
+            ],
+            "response": [
+                "The student has to do as directed in the question."
+            ]
+        },
+        {
+            "tag": "class_8_2",
+            "patterns": [
+                "Now you are tired so get into your shell and go to sleep.",
+                "you are tired so get into your shell and go to sleep."
+            ],
+            "response": [
+                "The student has to do as directed in the question."
+            ]
+        },
+        {
+            "tag": "class_8_3",
+            "patterns": [
+                "Wake up and start to crawl again.",
+                "when Wake up and start to crawl again."
+            ],
+            "response": [
+                "The student has to do as directed in the question."
+            ]
+        },
+        {
+            "tag": "class_8_4",
+            "patterns": [
+                "Now hide in your shell because some naughty children are near you",
+                "your shell because some naughty children are near you"
+            ],
+            "response": [
+                "The student has to do as directed in the question."
+            ]
+        },
+        {
+            "tag": "class_8_5",
+            "patterns": [
+                "What was the tiger doing when the mosquito came buzzing by?",
+                "the tiger doing when the mosquito came buzzing by?"
+            ],
+            "response": [
+                "The tiger was dozing under a tree when the mosquito came buzzing by."
+            ]
+        },
+        {
+            "tag": "class_8_6",
+            "patterns": [
+                "Why did the tiger\u2019s cheek start to bleed?",
+                "the tiger\u2019s cheek start to bleed?"
+            ],
+            "response": [
+                "The tiger\u2019s cheek started to bleed because ; \n while trying to hit the mosquito,; \n the tiger hit himself with his paw."
+            ]
+        },
+        {
+            "tag": "class_8_7",
+            "patterns": [
+                "Why did the tiger walk away?",
+                "the tiger walk away?"
+            ],
+            "response": [
+                "The tiger walked away because he was helpless ; \n and could not make the mosquito fly away from him."
+            ]
+        },
+        {
+            "tag": "class_8_8",
+            "patterns": [
+                "Why did the mosquito say, \u201cI am not afraid of you!\u201d?"
+            ],
+            "response": [
+                "The mosquito said so because the tiger was ; \n behaving as if everyone should be afraid of him."
+            ]
+        }
+]

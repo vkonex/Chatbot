@@ -1,0 +1,269 @@
+[
+	{"tag": "c3_q1",
+		"patterns": ["Why did the flowers love the little children?"],
+		"response": ["The flowers loved the children because the little children used to take care of them. They used to water their thirsty roots and dig the ground well."]
+    },
+
+    {"tag": "c3_q2",
+		"patterns": ["Why did the birds love the children?"],
+		"response": ["The birds loved the children because the children used to bring bread for them."]
+    },
+
+    {"tag": "c3_q3",
+		"patterns": ["Name five flowers growing in the magic garden."],
+		"response": ["Sunflowers, Marigolds, Pansies, Poppies and Roses."]
+    },
+
+    {"tag": "c3_q4",
+		"patterns": ["What sounds could the children hear in the garden?"],
+		"response": ["The children could hear the fairies sing songs in the garden."]
+    },
+	
+	
+	
+	{"tag": "c3_q5",
+		"patterns": ["Why was there great joy in Nina’s house?"],
+		"response": ["There was great joy in Nina’s house because Nina’s aunt was getting married, and all of her family members were going to attend the wedding in Delhi."]
+    },
+	
+	{"tag": "c3_q6",
+		"patterns": ["Why was Nina worried?"],
+		"response": ["Nina was worried because there were two baby sparrows in the nest in her room. If all the family members left and\nlocked the house, the papa and mama sparrows would not be able to feed the baby sparrows."]
+    },
+	
+	{"tag": "c3_q7",
+		"patterns": ["What did mother suggest?"],
+		"response": ["Mother suggested that they will remove everything from Nina’s room and lock the room from the outside.\nThey will keep the window of Nina’s room open so that the papa and mama sparrows can come and feed the baby sparrows."]
+    },
+	
+	{"tag": "c3_q8",
+		"patterns": ["What did Nina find when she came back from the wedding?"],
+		"response": ["When Nina came back from the wedding, she saw two plump little sparrows flying all over the room."]
+    },
+	
+	{"tag": "c3_q9",
+		"patterns": ["How do baby sparrows eat?"],
+		"response": ["Baby sparrows are fed by their parents into their beaks."]
+    },
+	
+	{"tag": "c3_q10",
+		"patterns": ["What new things would you like to wear for a wedding? You can say “I would like to wear…”"],
+		"response": ["I would like to wear black shining wedges.\nI would also like to wear a beautiful white top and a green trouser."]
+    },
+	
+	
+	
+	{"tag": "c3_q11",
+		"patterns": ["Name the tree that the acorn grows into."],
+		"response": ["Acorn grows into the Oak tree."]
+    },
+	
+	{"tag": "c3_q12",
+		"patterns": ["What things does a seed need to grow?"],
+		"response": ["A seed needs water, sunlight, soil and moisture to grow."]
+    },
+	
+	{"tag": "c3_q13",
+		"patterns": ["How many describing words can you find in this poem?"],
+		"response": ["Following are the describing words in this poem:\nLittle\nMossy\nDeep\nThread-like\nTiny\nSlender\nWide\nMighty"]
+    },
+	
+	
+	
+	{"tag": "c3_q14",
+		"patterns": ["How many fish are there in the sea?"],
+		"response": ["There are a great many million fish in the seas."]
+    },
+	
+	{"tag": "c3_q15",
+		"patterns": ["Why was the little fish unhappy?"],
+		"response": ["The little fish was unhappy because he was so very small."]
+    },
+	
+	{"tag": "c3_q16",
+		"patterns": ["What happened to the fish one day?"],
+		"response": ["One day, the fish got trapped in a big net while he was swimming in the sea with his friends."]
+    },
+	
+	{"tag": "c3_q17",
+		"patterns": ["Why was the fish thankful to be a little fish?"],
+		"response": ["The fish was thankful to be a little fish because he could escape from that net just because he was small."]
+    },
+	
+	
+	
+	{"tag": "c3_q18",
+		"patterns": ["Where does the balloon man stand?"],
+		"response": ["The balloon man stands at the market square."]
+    },
+	
+	{"tag": "c3_q19",
+		"patterns": ["What happens to the balloons when there is a wind?"],
+		"response": ["When there is a wind, the balloons tug a lot of times."]
+    },
+	
+	{"tag": "c3_q20",
+		"patterns": ["What does the child like to see the balloon man do?"],
+		"response": ["The child likes to see that someday the balloon man will let go of all the balloons.\nThen the balloons will fly high in the sky and the child would see them from below."]
+    },
+	
+	{"tag": "c3_q21",
+		"patterns": ["How high can balloons fly?"],
+		"response": ["The balloons can fly very high, depending upon the wind."]
+    },
+	
+	{"tag": "c3_q22",
+		"patterns": ["What do you like about this poem?"],
+		"response": ["I love watching colourful balloons fly. The child in the poem also likes the same.\nThat’s what I like about the poem."]
+    },
+	
+	
+	
+	{"tag": "c3_q23",
+		"patterns": ["What sounds do you hear on the road in the morning?"],
+		"response": ["In the morning, I hear the sound of birds, newspaper boy, vegetable man, school children,\namong other sounds on the road."]
+    },
+	
+	{"tag": "c3_q24",
+		"patterns": ["What is the vegetable man selling?"],
+		"response": ["The vegetable man is selling peas, cauliflowers, cabbage, potatoes, cucumbers, radishes and carrots."]
+    },
+	
+	{"tag": "c3_q25",
+		"patterns": ["Why is the road annoyed with the crow?"],
+		"response": ["The road is annoyed with the crow because the crow is cawing continuously to wake up the road, but the road is already wide awake!"]
+    },
+	
+	{"tag": "c3_q26",
+		"patterns": ["Can you make the sounds which you hear when you walk on the road? Talk about them."],
+		"response": ["When I walk on the road, I can hear the sound of vehicles running on the road,\npeople who are talking loudly while walking on the road, birds chirping, traffic police whistling, etc."]
+    },
+	
+	
+	
+	{"tag": "c3_q27",
+		"patterns": ["Who is the ‘I’ in the poem?"],
+		"response": ["I in the poem is a child."]
+    },
+	
+	{"tag": "c3_q28",
+		"patterns": ["Where was the Man going?"],
+		"response": ["The Man was going down to the village to get some bread."]
+    },
+	
+	{"tag": "c3_q29",
+		"patterns": ["Why didn’t the child go with the Horse?"],
+		"response": ["The child didn’t go with the Horse because the horse seemed to be busy in his work.\nHe was going to get hay from the village."]
+    },
+	
+	{"tag": "c3_q30",
+		"patterns": ["Why did the child go with the Puppy?"],
+		"response": ["The child went with the puppy because the puppy was going up the hills\nto roll and play and the kid too wanted to play."]
+    },
+	
+	{"tag": "c3_q31",
+		"patterns": ["Do you have a pet?"],
+		"response": ["Yes, I do have a pet"]
+    },
+	
+	{"tag": "c3_q32",
+		"patterns": ["Talk about three things that you and your pet do together."],
+		"response": ["Every morning and evening, we go for walks.\nWe have breakfast together.\nWe sit and watch TV together."]
+    },
+	
+	{"tag": "c3_q33",
+		"patterns": ["How do you look after your pet? Tell the class first in your own language, and then in English."],
+		"response": ["I take him for walks in the morning and evening. I bathe him.\nI feed him good food whenever he is hungry. I keep his bed clean."]
+    },
+	
+	
+	
+	{"tag": "c3_q34",
+		"patterns": ["What does the baby do with the pebbles?"],
+		"response": ["The baby thinks that the pebbles are real food and she even tries to put them into her mouth."]
+    },
+	
+	{"tag": "c3_q35",
+		"patterns": ["What does the baby do with the book?"],
+		"response": ["The baby tears the pages of the book with her hands and roars with joy at nothing."]
+    },
+	
+	{"tag": "c3_q36",
+		"patterns": ["When does the baby laugh?"],
+		"response": ["The baby laughs and thinks it great fun when her brother scolds her."]
+    },
+	
+	{"tag": "c3_q37",
+		"patterns": ["Why does the washerman bring donkeys?"],
+		"response": ["The washerman brings donkeys to carry away the dirty clothes on their backs."]
+    },
+	
+	{"tag": "c3_q38",
+		"patterns": ["What is the funniest thing the baby does?"],
+		"response": ["When her brother shakes his head at her in anger and scolds or calls her naughty, the baby simply laughs and\nfinds it very funny. This is the funniest thing the baby does."]
+    },
+	
+	{"tag": "c3_q39",
+		"patterns": ["Do you think the baby sister is really silly? Why?"],
+		"response": ["The baby is not silly in reality.\nShe is very small and too young to judge between right and wrong things."]
+    },
+	
+	
+	
+	{"tag": "c3_q40",
+		"patterns": ["Where were the people going?"],
+		"response": ["The people were climbing a small hill to visit a holy place nearby."]
+    },
+	
+	{"tag": "c3_q41",
+		"patterns": ["What did the man say to Meena?"],
+		"response": ["The man inquired to Meena why she was carrying the load of a small boy on her back."]
+    },
+	
+	{"tag": "c3_q42",
+		"patterns": ["Why do you think Meena was carrying her brother?"],
+		"response": ["Meena was carrying her brother on her back because he was unable to walk and she loved him very much."]
+    },
+	
+	{"tag": "c3_q43",
+		"patterns": ["What are the difficulties that a child who can’t see will face?"],
+		"response": ["Some of the difficulties that a child who can’t see is likely to face the following:\n1.He will not be able to cross the road on his own.\n2.He will be able to play games with other children of his age group.\n3.He will not be able to watch television or movies.\n4.He will not be able to play computer games or study with the help of a computer."]
+    },
+	
+	{"tag": "c3_q44",
+		"patterns": ["Would you help a child who can’t walk to school?"],
+		"response": ["Yes, of course. I would always help a child who’s facing difficulty in walking to school."]
+    },
+	
+	{"tag": "c3_q45",
+		"patterns": ["How can you help such a child and make the child feel one of you?"],
+		"response": ["I would talk to him like a friend and support him as much as I can to make him feel as one of us.\nI would crack jokes with him so that we can enjoy laughing together.\nI would introduce him to all my friends as well."]
+    },
+	
+	
+
+	{"tag": "c3_q46",
+		"patterns": ["Underline all the action words in the poem."],
+		"response": ["The action words have been highlighted in the poem given below:\nThe lion walks on padded paws,\nThe squirrel leaps from limb to limb,\nWhile flies can crawl straight up a wall,\nAnd seals can dive and swim.\nThe worm he wiggles all around,\nThe monkey swings by his tail,\nAnd birds may hop upon the ground\nOr spread their wings and sail.\nBut boys and girls\nHave much more fun:\nThey leap and danceAnd walk and run."]
+    },
+	
+	{"tag": "c3_q47",
+		"patterns": ["Why do boys and girls have the most fun?"],
+		"response": ["Boys and girls have more fun because they can leap, dance, walk and run around."]
+    },
+	
+	{"tag": "c3_q48",
+		"patterns": ["Arrange these movement words from slow to fast.\nrun , walk, hop , crawl"],
+		"response": ["crawl , walk , hop , run"]
+    },
+	
+	{"tag": "c3_q49",
+		"patterns": ["Underline the letters which are silent in the following words:\nwalk , straight , more, caught , calm, talk"],
+		"response": ["walk , straight , more, caught ,calm , talk"]
+    },
+	
+	{"tag": "c3_q50",
+		"patterns": ["What do you do when you are bored?"],
+		"response": ["I love listening to music and watching television when I get bored."]
+    }
+]

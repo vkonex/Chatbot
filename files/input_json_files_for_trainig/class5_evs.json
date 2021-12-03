@@ -1,0 +1,2550 @@
+[
+    {"tag": "c5_q1",
+        "patterns": ["How did the ant know that the other ants were not from this group?"],
+        "response": ["Animals also have different senses. They can see, hear, taste, smell and feel.\nBy using these senses the ants could identify that \nthe other ants were not from this group."]
+    },
+
+    {"tag": "c5_q2",
+        "patterns": ["How did the guard ant recognize this ant?"],
+        "response": ["By using its smelling sense the guard ant could recognize this ant.\nTry this and write.\nDrop some sugar, jaggery or anything sweet on the ground.\nWait until the ants come there."]
+    },
+    
+    {"tag": "c5_q3",
+        "patterns": ["How long did it take for the ants to come?"],
+        "response": ["Within minutes the ants surrounded the dropped sweets."]
+    },
+
+    {"tag": "c5_q4",
+        "patterns": ["What did the ants do with the food?"],
+        "response": ["The ants carried away the food to its hole."]
+    },
+
+    {"tag": "c5_q5",
+        "patterns": ["Where do they go from there?"],
+        "response": ["The ants went back to its hole from there."]
+    },
+
+    {"tag": "c5_q6",
+        "patterns": ["Do they move in a line?"],
+        "response": ["Yes, one ant follows the other and hence goes in a line.\nNow carefully, without harming the ants, block their path for a while with a pencil."]
+    },
+
+    {"tag": "c5_q7",
+        "patterns": ["Now observe, how do the ants move?"],
+        "response": ["Even after blocking their path, the ants climb up the pencil and move in a straight line."]
+    },
+
+    {"tag": "c5_q8",
+        "patterns": ["Now can you guess why the ants behaved like that when you blocked their path?"],
+        "response": ["As the ants move, they leave a smell on the ground.\nThe other ants follow the smell to find the way. So when their path was blocked the ants\ntried to keep their path by following the smell."]
+    },
+    
+    {"tag": "c5_q9",
+        "patterns": ["Have you ever been troubled by mosquitoes? Just think, how do they know where you are?"],
+        "response": ["Mosquitoes can sense the smell of a human body. They also find us by the smell of the sole of our feet and the heat of our body."]
+    },
+
+    {"tag": "c5_q10",
+        "patterns": ["Have you seen a dog sniffing here and there? What do you think it is trying to smell?"],
+        "response": ["Yes, we have seen a dog sniffing here and there.\nThe dog is trying to find out if any other dog is nearby by using its smelling senses."]
+    },
+
+    {"tag": "c5_q11",
+        "patterns": ["In what ways do human beings make use of this special sense of smell of dogs?"],
+        "response": ["Human beings make use of this special sense of smell of dogs to catch criminals,\nin search of explosives, recovery of stolen goods, etc."]
+    },
+
+    {"tag": "c5_q12",
+        "patterns": ["When do you find your sense of smell helpful to you? List some examples.\nLike – to know by its smell that food has gone bad or that something is burning."],
+        "response": ["Other than smelling bad or burnt object, we can also sense the smell of perfume,\nfragrance of a flower, smell of sweat, soaps and detergents, etc."]
+    },
+
+    {"tag": "c5_q13",
+        "patterns": ["Name the animals that you would be able to recognize only by their smell, without seeing them?"],
+		"response": ["We can recognize animals like sheep, goat, cow, dog, cat, etc by their smell."]
+    },
+	
+	{"tag": "c5_q14",
+	    "patterns": ["Is a smell ‘good’ or ‘bad’ for everyone in the same way? Or does it depend on how each one feels about it?"],
+		"response": ["No, it depends how a person reacts to the smell.\nBut in some cases bad smell is bad for most of the people."]
+	},
+	
+	{"tag": "c5_q15",
+		"patterns": ["Write the name of a bird which has eyes in front of its head (like in humans)."],
+		"response": ["The bird which has eyes in front of its head is an owl."]
+	},
+	
+	{"tag": "c5_q16",
+		"patterns": ["Write the names of some birds which have eyes on either side of the head.\nWhat is the size of their eyes as compared to the size of their head?"],
+		"response": ["Birds which have eyes on either side of the head are crow, pigeon, eagle,\nparrot, etc. The size of their eyes is small compared to the size of their head."]
+	},
+	
+	{"tag": "c5_q17",
+		"patterns": ["Could you see your friend’s action, without moving your neck?"],
+		"response": ["I could not see my friend’s action without moving my neck."]
+	},
+	
+	{"tag": "c5_q18",
+		"patterns": ["The names of ten animals whose ears can be seen."],
+		"response": ["Animals whose ears can be seen are elephant, deer, dog,\ngoat, zebra, lion, cow, cat, buffalo, and sheep."]
+	},
+	
+	{"tag": "c5_q19",
+		"patterns": ["Is there some link between the size of animals’ ears and their hearing?"],
+		"response": ["Yes, there might be a possibility that animals with bigger ears may have better hearing than a smaller animal’s ears."]
+	},
+	
+	
+	{"tag": "c5_q20",
+		"patterns": ["Have you ever seen anyone playing a been? Where?"],
+		"response": ["Yes, I have seen snake-charmers playing a been. They can be seen at rural areas during festivals."]
+	},
+	
+	{"tag": "c5_q21",
+		"patterns": ["Have you ever seen a snake? Where?"],
+		"response": ["Yes, I have seen a snake on a paddy field, at farms etc."]
+	},
+	
+	{"tag": "c5_q22",
+		"patterns": ["Were you scared by it? Why?"],
+		"response": ["Yes, I was very much scared of it since it is poisonous and it would bite."]
+	},
+	
+	{"tag": "c5_q23",
+		"patterns": ["Do you think all snakes are poisonous?"],
+		"response": ["Not all snakes are poisonous."]
+	},
+	
+	{"tag": "c5_q24",
+		"patterns": ["In chapter 1 you read that snakes do not have ears which you can see.\nCan the snake hear the been or does it dance when the been moves?\nWhat do you think?"],
+		"response": ["No, the snakes cannot hear the been but they dance to been movements"]
+	},
+	
+	{"tag": "c5_q25",
+		"patterns": ["Have you ever seen animals being used for entertainment of people?\n–When and where did you see this?"],
+		"response": ["Yes, many animals are being used for entertainment of people.\nI saw them at circus, parks and on road sides."]
+	},
+	
+	{"tag": "c5_q26",
+		"patterns": ["Which animal show did you see?"],
+		"response": ["I saw snake dancing to the snake-charmer been on a roadside."]
+	},
+	
+	{"tag": "c5_q27",
+		"patterns": ["How did people behave with the animals in the show?"],
+		"response": ["People behaved warmly with animals at the show."]
+	},
+	
+	{"tag": "c5_q28",
+		"patterns": ["Was anyone teasing the animals? How?"],
+		"response": ["Yes, some of them were calling out the animals towards them at the zoo."]
+	},
+	
+	{"tag": "c5_q29",
+		"patterns": ["What kind of questions came to your mind after seeing that animal show?"],
+		"response": ["Few questions araised in my mind after seeing the animal show such as:\na. Is the animal trained well enough?\nb. How carefully are they handled?\nc. How did they capture the animals from the forest?\nd. Is it so necessary to give stress for the animals to entertain people?"]
+	},
+	
+	
+    
+
+	{"tag": "c5_q30",
+		"patterns": ["Do you like only one kind of taste or different ones? Why?"],
+		"response": ["Tasting only one taste makes me bored so I like tasting different tastes."]
+	},
+	
+	{"tag": "c5_q31",
+		"patterns": ["Jhoolan put a few drops of lemon juice in Jhumpa’s mouth.\nDo you think we can make out the taste with just a few drops?"],
+		"response": ["Yes, with just few drops of sour lemon juice we can make out the taste."]
+	},
+	
+	{"tag": "c5_q32",
+		"patterns": ["If someone were to put a few seeds of saunf (aniseed) on your tongue,\nwould you be able to tell with your eyes closed? How?"],
+		"response": ["Yes, even though we don’t taste we can tell by its smell also."]
+	},
+	
+	{"tag": "c5_q33",
+		"patterns": ["How did Jhumpa make out the fried fish? Can you guess the names of certain things only by their smell,\nwithout seeing or tasting them? What are these things?"],
+		"response": ["Jhumpa could guess the fried fish only by its smell.\nYes, I can guess many things by its smell without even seeing like, egg omelette, fish fry, samosas, etc."]
+	},
+	
+	{"tag": "c5_q34",
+		"patterns": ["Has anyone ever told you to hold your nose before taking a medicine?\nWhy do you think they tell you to do this?"],
+		"response": ["Yes, I have been told to close the nose and take the medicines since if we don’t like the smell of the medicine we may not take it in."]
+	},
+	
+	{"tag": "c5_q35",
+		"patterns": ["Imagine you are eating something hard like a green guava.\nWhat kinds of changes take place in it–from the time you bite a piece and put it in your mouth to when you swallow it?"],
+		"response": ["When I bite a guava it feels a bit hard and a little bitter but later when chewing, it becomes soft and sweet"]
+	},
+	
+	{"tag": "c5_q36",
+		"patterns": ["Think what does the saliva in our mouth do?"],
+		"response": ["Saliva mixes with food and makes the food soft and digestible."]
+	},
+	
+	{"tag": "c5_q37",
+		"patterns": ["How do you come to know that you are hungry?"],
+		"response": ["When there is a strong urge to eat something I will get to know that I am hungry."]
+	},
+	
+	{"tag": "c5_q38",
+		"patterns": ["Think what would happen if you do not eat anything for two days?"],
+		"response": ["If I don’t eat for two days I may feel tired and fall sick."]
+	},
+	
+	{"tag": "c5_q39",
+		"patterns": ["Would you be able to manage without drinking water for two days? Where do you think the water that we drink goes?"],
+		"response": ["No, I won’t be able to manage without drinking water for two days. The water we drink goes to all the parts of the body where all\nthe metabolic activities take place. Some water comes out of our body in the form of sweat and urine."]
+	},
+	
+	
+	{"tag": "c5_q40",
+		"patterns": [" How did Aman know that the potato sabzi had got spoilt?"],
+		"response": [" Aman got to know that the potato sabzi got spoilt by the bad smell coming from it."]
+	},
+
+	{"tag": "c5_q41",
+		"patterns": ["Have you ever seen some food that has got spoilt? How did you know that it was spoiled?"],
+		"response": [" Yes, I have seen some food spoilt. I got know by the bad smell coming from it."]
+	},
+
+	{"tag": "c5_q42",
+		"patterns": ["Preeti told Nitu not to eat the potato sabzi. What would have happened if she had eaten it?"],
+		"response": [" If Nitu had eaten the potato sabzi she would have fallen sick."]
+	},
+
+	{"tag": "c5_q43",
+		"patterns": ["Q1. Look in your kitchen and write down names of food items that\n(a) can get spoilt in 2-3 days"],
+		"response": [" Food items that gets spoilt in 2-3 days are milk, boiled rice, curries, bread etc."]
+	},
+
+	{"tag": "c5_q44",
+		"patterns": ["(b) can be kept for a week"],
+		"response": ["Food items that can be kept for a week are onion, potato, carrots etc."]
+	},
+
+	{"tag": "c5_q45",
+		"patterns": ["would not spoil till one month."],
+		"response": ["Food items that wont get spoiled for a month are ghee, raw rice, pickle, grains etc"]
+	},
+
+	{"tag": "c5_q46",
+		"patterns": ["Look at your friend’s list and discuss in the class."],
+		"response": ["My friend’s list also has same items as mine. The cooked food items gets spoiled in 2-3 days,\nvegetables last for a week and dry grains may last for a month or more than a month when preserved carefully."]
+	},
+
+	{"tag": "c5_q47",
+		"patterns": ["Will your list be the same in all seasons? What would change?"],
+		"response": ["No, based on the different season the list changes. During summers, green leafy vegetables may get spoilt for a day due to the dryness, usually in winters leafy vegetables may last for 3 days or so due to the coolness.\nIn rainy season it may not last longer due to the moisture."]
+	},
+
+	{"tag": "c5_q48",
+		"patterns": ["When food gets spoilt in your house, what do you do with it?"],
+		"response": ["When the food gets spoilt in our house we put into the trash."]
+	},
+
+	{"tag": "c5_q49",
+		"patterns": ["Aman’s Biji went to the market to buy bread. The shop was very crowded.\nThe shopkeeper picked up a packet of bread and gave it to Biji. She looked at it and returned it immediately.\nLook at the picture of the bread packet here and guess why Biji returned it?"],
+		"response": ["Biji returned the packet because he saw the fungus created inside the packet may be it had expired."]
+	},
+
+	{"tag": "c5_q50",
+		"patterns": ["How did she find that the bread had got spoilt?"],
+		"response": ["She found out that the bread had got spoilt by seeing the black spots in it.Find out"]
+	},
+
+	{"tag": "c5_q51",
+		"patterns": ["Look carefully at two-three packets of food items:\nQ1. What can we know from what is written on the packet?"],
+		"response": [" When we see the packet we get to the expiry date, manufacture date, the ingredients used to prepare the food, price, net weight."]
+	},
+
+	{"tag": "c5_q52",
+		"patterns": ["When you buy anything from the market, what do you look for on the packet?"],
+		"response": ["When I buy anything from the market I firstly look for the manufacture date and expiry date."]
+	},
+
+	{"tag": "c5_q53",
+		"patterns": ["Why was sugar and jaggery mixed into the mango pulp and dried in the sun?"],
+		"response": ["To make mamidi tandra, sugar and jaggery was mixed into the mango pulp and dried in the sun."]
+	},
+
+	{"tag": "c5_q54",
+		"patterns": ["Why did Appa first choose the most ripe mangoes to be used for making the mamidi tandra?"],
+		"response": ["Appa first chose the most ripe mangoes to be used for making the mamidi tandra because the riped one’s contain more juice with less fiber."]
+	},
+
+	{"tag": "c5_q55",
+		"patterns": ["How did the brothers make the mamidi tandra? Write down step-by-step what they did for this."],
+		"response": ["Firstly brothers bought these items from the market i.e mat made of palm leaves, string made of coconut husk, sugar, jaggery, casuarinas poles.\nBy using mat and casuarinas poles they made a platform.\nNext they took out the mango juice from the ripped mangoes and filtered through a fine cloth to remove all the fibres.\nLater they poured the thin layer of juice on the mat by spreading it all over and left it to dry.\nIt was later covered with a sari to prevent it from dust.\nSo every day they kept on adding layers to it.\nAfter four weeks a thick layer of golden cake of mamidi tandra is prepared."]
+	},
+
+	{"tag": "c5_q56",
+		"patterns": ["What things are made in your house from ripe and unripe mangoes?"],
+		"response": ["At my house, with ripped mangoes they prepare mamidi tandra, milkshakes. With unripped mangoes they prepare pickles, chutneys."]
+	},
+
+	{"tag": "c5_q57",
+		"patterns": ["Make a list of all the different types of pickles that you know about, and share with your friends."],
+		"response": [" Different types of pickles that I know are mango pickle, lemon pickle, mixed vegetable pickle, amla pickle."]
+	},
+
+	{"tag": "c5_q58",
+		"patterns": ["Is there any kind of pickle made in your house? What kind of pickle is it? Who makes it? From whom did they learn to make the pickle?"],
+		"response": ["There are many pickles that are made at my home like mango pickle, lemon pickle, amla pickle etc. My mother makes these pickles, she learnt it from my grandmother."]
+	},
+
+	{"tag": "c5_q59",
+		"patterns": ["How are these things made in your house. • Papad • Chutney"],
+		"response": [" Papad is made up of urad, saboodnana, potato etc. To make saboodnana papad we have to rinse it in water and grind it up. By adding salt and all the spices required mix it up. Then by putting on a moist cloth with required sizes and leaving it to dry in the sun. Hence by deep frying these papad is ready.\nChutney, let us take groundnuts and with all the required spices and salt, by grinding it up according to one’s required taste chutney can be prepared. "]
+	},
+
+	{"tag": "c5_q60",
+		"patterns": ["It is a two-day journey by train from Pune to Kolkata. If you were to go on this trip, what food items would you carry with you? How would you pack them? Make a list on the blackboard of all the packed food. What food would you eat first?"],
+		"response": [" If I were to go on this trip I would pack food items which would last for long like biscuits, dry fruits, snack items etc. in a dry container. I would also take items such as chapatti, roti, subji along with me but would finish it at the earliest since these get spoiled very soon."]
+	},
+
+	{"tag": "c5_q61",
+		"patterns": ["Glass jars and bottles are dried well in the sun before filling them with pickles. Why is this done? Do you remember what happened to the bread in the experiment?"],
+		"response": ["Yes, I remember the bread had got spoilt. Glass jars and bottles are dried well in the sun before filling them with pickles because if any moist is left in the jars fungus can be formed very easily and the pickles gets spoiled."]
+	},
+
+	{"tag": "c5_q62",
+		"patterns": ["To eat mangoes round the year we make different items like pickle, aam papad, chutney, chikky, etc. List some other food with which we make different things, so that we can enjoy it throughout the year."],
+		"response": ["Here are a few other foods with which we make different things, so that we can enjoy it throughout the year.\nMurabba is prepared from white gourd and amla.\nPeda in made from milk.\nBanana chips are made so that it lasts longer.\nVegetables are dried in the sun for later use."]
+	},
+
+	{"tag": "c5_q63",
+		"patterns": ["What things are soaked before cooking in your house? Why?"],
+		"response": ["Here are few items which we soak before cooking- soya bean, pulses, chana, rajma etc. These are soaked because it softens and makes it easier for grinding."]
+	},
+
+	{"tag": "c5_q64",
+		"patterns": ["What things do you eat after sprouting? How are they sprouted? How much time does it take?"],
+		"response": ["After sprouting we can eat items like chana, moong etc. We can sprout them by soaking it in water and then by wrapping it in wet cloth so that they get proper water and air.\nChana takes around 36-48 hours in sprouting and moong takes around 24-36 hours."]
+	},
+
+	{"tag": "c5_q65",
+		"patterns": ["Has the doctor or someone you know ever told you to eat sprouts? Why?"],
+		"response": ["Yes, doctor has advised me to eat sprouts as it is good for health."]
+	},
+
+	{"tag": "c5_q66",
+		"patterns": ["In which bowl did the seeds sprout? What difference did you see between this bowl and the other bowls?"],
+		"response": ["Seeds sprouted only in bowl 2. We noticed that in bowl 2 it seeds got sufficient air and water so it sprouted.\nIn the other two bowls, bowl 1 got only water and bowl 3 got no air nor water so it did not sprout."]
+	},
+
+	{"tag": "c5_q67",
+		"patterns": ["Why did Gopal’s mother tie the chana in a damp cloth?"],
+		"response": ["Gopal’s mother tied the chana in a damp cloth so that seeds could get proper air and water to sprout."]
+	},
+
+	{"tag": "c5_q68",
+		"patterns": ["How long did it take for the plant to come out from the soil?"],
+		"response": [" The Plant took almost a week to come out of the soil."]
+	},
+
+	{"tag": "c5_q69",
+		"patterns": ["What was the difference in the height of the plant on the first and second day?"],
+		"response": ["The height of the plant on the first day to the second day has increased by half a centimetre."]
+	},
+
+	{"tag": "c5_q70",
+		"patterns": ["On which day did the height of the plant increase the most?"],
+		"response": ["The height of the plant increased the most on the third day."]
+	},
+
+	{"tag": "c5_q71",
+		"patterns": ["Did new leaves come out of the plant every day?"],
+		"response": ["Yes, new leaves came out of the plant every day."]
+	},
+
+	{"tag": "c5_q72",
+		"patterns": ["Was there any change in the stem of the plant?"],
+		"response": ["Yes, the stem became thicker and stronger each day passed by."]
+	},
+
+	{"tag": "c5_q73",
+		"patterns": ["Which seeds took the most number of days for the stem to come out of the soil?"],
+		"response": [" Seeds of sesame took the most number of days for the stem to come out of the soil."]
+	},
+
+	{"tag": "c5_q74",
+		"patterns": ["Which seeds took the least days to come out of the soil?"],
+		"response": ["Seeds of mustard took the least days to come out of the soil."]
+	},
+
+	{"tag": "c5_q75",
+		"patterns": [" Which seeds did not grow at all? Why?"],
+		"response": ["Seeds require both water and air. If both are not present then no seed will develop."]
+	},
+
+	{"tag": "c5_q76",
+		"patterns": ["Did anyone’s plant dry up or turn yellow? Why did this happen?"],
+		"response": ["Yes, few students’ plant dried up or turned yellow since there was no proper water or air."]
+	},
+
+	{"tag": "c5_q77",
+		"patterns": [" What would happen if the plants do not get water?"],
+		"response": ["If the plants did not get water then it will get dried up."]
+	},
+
+	{"tag": "c5_q78",
+		"patterns": ["What is inside the seed?"],
+		"response": ["Inside the seeds there exists a cotyledons and embryo."]
+	},
+
+	{"tag": "c5_q79",
+		"patterns": ["How does a big plant grow from a tiny seed?"],
+		"response": [" The seeds by absorbing water and nutrients from the soil, grows to be a big plant."]
+	},
+
+	{"tag": "c5_q80",
+		"patterns": ["Do some plants grow without seeds?"],
+		"response": ["Yes, there are few plants which grow without seeds."]
+	},
+
+	{"tag": "c5_q81",
+		"patterns": ["Did you keep aniseed (saunf ) and cumin (jeera) in your list?"],
+		"response": ["Yes, I have taken aniseed and cumin seed in the list."]
+	},
+
+	{"tag": "c5_q82",
+		"patterns": ["Which was the smallest seed and which was the biggest seed in your collection?"],
+		"response": ["The biggest seed which I took was mango seed and the smallest seed among those were the cumin seeds."]
+	},
+
+	{"tag": "c5_q83",
+		"patterns": ["Seeds that are used as spices in your home."],
+		"response": ["Seeds that are used as spices at home are mustard, cumin, aniseed etc."]
+	},
+
+	{"tag": "c5_q84",
+		"patterns": [" Seeds of vegetables."],
+		"response": ["Seeds of vegetables are tomato, lady’s finger, brinjal etc."]
+	},
+
+	{"tag": "c5_q85",
+		"patterns": ["Seeds of fruits."],
+		"response": ["Seeds of fruits are orange, apple, grapes etc."]
+	},
+
+	{"tag": "c5_q86",
+		"patterns": [" Light seeds (check by blowing them)."],
+		"response": [" Light seeds are cumin, aniseed etc."]
+	},
+
+	{"tag": "c5_q87",
+		"patterns": ["Seeds which are flat."],
+		"response": ["Seeds which are flat are cumin, aniseed, sesame, rajma etc."]
+	},
+
+	{"tag": "c5_q88",
+		"patterns": [" Make more groups. How many groups of seeds did you make?"],
+		"response": ["More groups of seeds are edible seeds, small seeds, big seeds, seeds used as spices,\nheavy seeds, light weight seeds, seeds which produce oil. I could make 7 groups."]
+	},
+
+	{"tag": "c5_q89",
+		"patterns": ["Do you know any games that you can play with seeds? Discuss with your friends."],
+		"response": [" Yes, using seeds we play games. Tamarind seed cut into halves, children play games, using mango seed children make flute etc."]
+	},
+
+	{"tag": "c5_q90",
+		"patterns": ["Have you ever seen any seed that can fly?"],
+		"response": ["Yes, I have seen seeds which fly."]
+	},
+
+	{"tag": "c5_q91",
+		"patterns": ["What is it called in your area?"],
+		"response": ["It is called as budhiya ke baal (old woman’s hair)."]
+	},
+
+	{"tag": "c5_q92",
+		"patterns": [" Look at your seed collection. Guess how many of those could have travelled by flying"],
+		"response": [" Some of them could have travelled by flying like aniseed and cumin seed."]
+	},
+
+	{"tag": "c5_q93",
+		"patterns": ["Some of them could have travelled by flying like aniseed and cumin seed."],
+		"response": ["No, I have not anything as such."]
+	},
+
+	{"tag": "c5_q94",
+		"patterns": ["Think what would happen, if seeds did not spread and remained at one place only."],
+		"response": ["If seeds did not spread and remained at one place only then they would fall under its parent tree\nitself so that it would not get enough sunlight, water and hence the plant will not grow properly and they might die."]
+	},
+
+	{"tag": "c5_q95",
+		"patterns": ["Make a list of the different ways by which seeds are spread."],
+		"response": ["Seeds spread by water, wind, animals, birds, humans etc."]
+	},
+
+	{"tag": "c5_q96",
+		"patterns": ["What all was grown in India long ago? Were mangoes and bananas grown here? What came from other countries?\nImagine food without potatoes or tomatoes!"],
+		"response": ["Long ago in India, spinach, radish, mango, orange etc. were grown. Yes, mangoes and bananas are grown here. From other countries we got items like tomato, potato, coffee bean, cabbage etc.\nIt would be difficult to cook food without potatoes and tomatoes and it would be tasteless."]
+	},
+
+	{"tag": "c5_q97",
+		"patterns": ["How do seeds spread to far off places? Write in your own words."],
+		"response": ["There are means for the seeds to travel. The seeds would go to farther places while carried by the birds, water, animals, air. Birds, after eating they throw, lighter seeds get carried away by air and hence spread out."]
+	},
+
+	{"tag": "c5_q98",
+		"patterns": ["Look at the area around your school. Are there any fields, farms, pucca roads, drains, etc. Is the area sloping, rocky or flat? Think, what will happen here when it rains? Where will the rain water go – into the drains, pipes or pits? Is some water also getting soaked into the soil?"],
+		"response": ["Yes, there are fields, farms, pucca roads, drains, etc. in the area around my school. And also the area is flat around my school. Usually when it rains the rain water goes into the drains and also some water gets observed by the soil."]
+	},
+
+	{"tag": "c5_q99",
+		"patterns": ["Have you ever faced a shortage of water in your area? If yes, then what was the reason for it? Talk to your grandmother or any elderly person. Find out, when they were of your age:"],
+		"response": ["Yes, we do face shortage of water in our area. My grandmother says usually during summer there is water shortage since it is too hot."]
+	},
+
+	{"tag": "c5_q23",
+		"patterns": ["From where did they get water for the house? Has there been a change now?"],
+		"response": ["They usually get water from rivers, ponds, wells, hand pumps. Yes, now it has changed, they get water from some suppliers."]
+	},
+
+	{"tag": "c5_q101",
+		"patterns": ["What kind of water arrangements were made for travellers – for example piau, mashak (leather bag) or any other? Now what do people do about water when they travel?"],
+		"response": ["Now people who travel they carry their own water bottles or purchase the water bottles which is neatly packed from the nearby shops."]
+	},
+
+	{"tag": "c5_q102",
+		"patterns": ["Can we even imagine life without water?"],
+		"response": ["There is no life without water."]
+	},
+
+	{"tag": "c5_q103",
+		"patterns": ["Is there a lake, well or step well near your house or school? Visit it and find out more about it.\nHow old is it? Who got it built?"],
+		"response": ["Yes, there is a lake near my house. My grandmother says it is more than hundred years old which was built up the king of Raj."]
+	},
+
+	{"tag": "c5_q104",
+		"patterns": ["What kinds of buildings are around it?"],
+		"response": ["Newly built buildings and there are some old wells around it."]
+	},
+
+	{"tag": "c5_q105",
+		"patterns": ["Is the water clean? Is it cleaned regularly?"],
+		"response": ["No, the water is not clean in the lake. I have never seen a lake being cleaned regularly."]
+	},
+
+	{"tag": "c5_q106",
+		"patterns": ["Who all use the water?"],
+		"response": ["People in the village use the water for cleaning purposes."]
+	},
+
+	{"tag": "c5_q107",
+		"patterns": ["Is there any festival celebrated at this place?"],
+		"response": ["Yes boating festival is celebrated, which is celebrated every year at this place."]
+	},
+
+	{"tag": "c5_q108",
+		"patterns": ["Is there any water today, or is it dry?"],
+		"response": ["Yes, there is little water in the lake."]
+	},
+
+	{"tag": "c5_q109",
+		"patterns": ["There are two old wells in the area where Punita lives. Her grandmother says that about fifteen – twenty years ago there was water in these wells. The wells could have dried up because:\nWater is being pumped up from under the ground, with the help of electric motors.\nThe lakes in which rain water used to collect are no longer there.\nThe soil around trees and parks is now covered with cement.\nQ1. Is there some other reason for this? Explain."],
+		"response": ["Yes the causes mentioned above are true. However there are few other reasons for the cause, might be destruction of more trees, no proper maintenance of the wells, not cleaned regularly."]
+	},
+
+	{"tag": "c5_q110",
+		"patterns": ["From which office has this bill come?"],
+		"response": ["This bill has come from Jal Board, Delhi."]
+	},
+
+	{"tag": "c5_q111",
+		"patterns": [" Do you get a water bill at home? Find out from where it is sent?"],
+		"response": ["Yes, we do get water bill at home. The bill comes from the Department of Delhi water supply board."]
+	},
+
+	{"tag": "c5_q112",
+		"patterns": ["Why do you think Dilli Sarkar (Government of Delhi) is written under Delhi Jal Board?"],
+		"response": ["Dilli Sarkar (Government of Delhi) is written under Delhi Jal Board because Delhi Jal Board is under the Government of Delhi."]
+	},
+
+	{"tag": "c5_q113",
+		"patterns": ["In whose name is the bill? How much money do they have to pay for each month?"],
+		"response": ["The bill is under the name of Shri Mohd. Umar and Dr. Mohd. Shoaib. They pay a monthly bill of Rs. 368."]
+	},
+
+	{"tag": "c5_q114",
+		"patterns": ["Do you have to pay for water? How much? Is the rate of water different in different colonies? Ask your elders"],
+		"response": ["Yes, we have to pay around Rs 500 per month for drinking water. The rate remains the same in different colonies."]
+	},
+
+	{"tag": "c5_q115",
+		"patterns": ["Q2. Bring a water bill, look at it and tell –\nThis bill is from – date to – date."],
+		"response": ["The billing is from 15th January 2020 to 2nd February 2020."]
+	},
+
+	{"tag": "c5_q116",
+		"patterns": ["How much money is to be paid for this bill?"],
+		"response": ["The bill amounts to Rs. 500 per month."]
+	},
+
+	{"tag": "c5_q117",
+		"patterns": ["What else can you see in the bill, like the money spent on repair, maintenance etc.?"],
+		"response": ["We can see other amounts billed for repair, maintenance arrears etc."]
+	},
+
+	{"tag": "c5_q118",
+		"patterns": ["Ayesha put a puffed puri in a bowl of water. Would it sink or float?"],
+		"response": ["When puffed puri is put in a bowl of water then it would float."]
+	},
+
+	{"tag": "c5_q119",
+		"patterns": ["You put a steel plate on water. Would it sink or float? What would happen to a spoon?"],
+		"response": ["If you place a steel plate on the water carefully then it would float. When you put the spoon in the water it would sink."]
+	},
+
+	{"tag": "c5_q200",
+		"patterns": ["Would the cap of a plastic bottle sink or float on water?"],
+		"response": ["The cap of plastic bottle floats when put in the water since it is plastic."]
+	},
+
+	{"tag": "c5_q201",
+		"patterns": ["Have you seen that something float on water while others sink? Think how this happens!"],
+		"response": ["It is observed that few things float and few sink in the water. If the item put in the water is lighter then it floats. If its heavier then it sinks. It depends upon the volume of the item."]
+	},
+
+	{"tag": "c5_q202",
+		"patterns": ["Take some water in a glass. Put a lemon in it. Now keep putting salt in the water, half-a-spoon at a time. Were you able to float your lemon in water?"],
+		"response": ["Yes the lemon started to float on water."]
+	},
+
+	{"tag": "c5_q203",
+		"patterns": ["What do you think, the lemon floated in salty water, because……"],
+		"response": ["When we keep adding salt to the water the lemon starts to float because the water becomes thicker, by reducing the water level and hence the lemon floats."]
+	},
+
+	{"tag": "c5_q204",
+		"patterns": ["Suggest some ways to Hamid for quickly dissolving sugar"],
+		"response": ["For dissolving sugar quickly, Hamid can follow these methods:\nContinuously stirring the mixture.\nOn low flame stirring the mixture."]
+	},
+
+	{"tag": "c5_q205",
+		"patterns": ["Could you see the salt after it dissolved in water? If no, why?"],
+		"response": ["Salt when dissolved in water it cannot be seen since it is soluble in nature."]
+	},
+
+	{"tag": "c5_q206",
+		"patterns": ["Does that mean that now the water does not have salt? If it has, then where is the salt?"],
+		"response": ["Salt being dissolved in water it doesn’t mean the water does not have salt."]
+	},
+
+	{"tag": "c5_q207",
+		"patterns": ["What difference did you see – in the water with salt, and the water with chalk powder – after keeping for some time?"],
+		"response": ["Salt when dissolved in water, it makes the water look transparent. While chalk powder doesn’t get dissolved in water instead it settles down at the bottom of water."]
+	},
+
+	{"tag": "c5_q208",
+		"patterns": ["Which of the two would you be able to separate from the water by straining with a cloth – salt or chalk powder?"],
+		"response": ["We can separate chalk powder by straining with a cloth since it doesn’t get dissolved. Salt gets dissolved in water hence we cannot strain it."]
+	},
+
+	{"tag": "c5_q209",
+		"patterns": ["Do you think the oil got dissolved in the water? Why do you think so?"],
+		"response": ["No the oil doesn’t get dissolved in water. It just floats on the water."]
+	},
+
+	{"tag": "c5_q210",
+		"patterns": ["Ayesha put two drops of oil on the lid of her tiffin box. Next to that she put two drops of water and two drops of sugar solution. She tilted the lid. She saw some drops slid down quickly, while some were left behind.\nQ1. You also try to do the same and then tell – which drop went ahead? Why did it slide faster?"],
+		"response": ["Drops of water slide faster than the oil drops or sugar solution since both oil and sugar solution are thicker than that of water and gets stuck to the box by making it difficult to slide."]
+	},
+
+	{"tag": "c5_q211",
+		"patterns": ["One day Ayesha’s mother put some water to boil on the stove for making tea. She got busy with something and forgot about it. When she remembered and came to check, she found very little water left in the pan.\nQ1. Think where did the water go?"],
+		"response": ["The water got evaporated hence remained less in the pan."]
+	},
+
+	{"tag": "c5_q212",
+		"patterns": ["Why did Chittibabu and Chinnababu keep their mango jelly in the sun?"],
+		"response": ["Chittibabu and Chinnababu keept their mango jelly in the sun so that the water in it gets evaporated."]
+	},
+
+	{"tag": "c5_q213",
+		"patterns": ["At your house, what things are made by drying in the sun?"],
+		"response": ["At my home they prepare papad, pickles, sabudana papad, mango jelly by drying in the sun."]
+	},
+
+	{"tag": "c5_q214",
+		"patterns": ["You have washed your handkerchief and you want to dry it quickly. What all can you do?"],
+		"response": ["To dry the washed handkerchief firstly we can squeeze and spread it out properly and leave it to dry in the sun. We can also use ironing to dry the kerchief."]
+	},
+
+	{"tag": "c5_q215",
+		"patterns": ["To dry the washed handkerchief firstly we can squeeze and spread it out properly and leave it to dry in the sun. We can also use ironing to dry the kerchief."],
+		"response": ["To prepare tea we need to add sugar, tea powder, milk to the water. Milk and sugar gets dissolved in water while the tea powder settles down at the bottom later by using strainer we can obtain tea."]
+	},
+
+	{"tag": "c5_q216",
+		"patterns": ["You have been given some mishri pieces (lumps of sugar). Suggest some ways to dissolve them quickly."],
+		"response": ["Lumps of sugar can be dissolved by adding little amount of water and putting it on low flame, lumps of sugar can be crushed into smaller pieces later by adding water to it could be heated over flame and continuous stirring results in dissolving."]
+	},
+
+	{"tag": "c5_q217",
+		"patterns": ["Do you know anyone who has had malaria?"],
+		"response": [" Yes, malaria had once attacked my friend."]
+	},
+
+	{"tag": "c5_q218",
+		"patterns": ["How did they find out that they had malaria?"],
+		"response": ["By undergoing blood tests they got to know it was malaria."]
+	},
+
+	{"tag": "c5_q219",
+		"patterns": ["What problems did they have on having malaria?"],
+		"response": ["My friend when she was suffering from malaria she got high fever and became too weak."]
+	},
+
+	{"tag": "c5_q220",
+		"patterns": ["What other diseases can be caused by mosquito bites?"],
+		"response": ["By the mosquito bite we also get other diseases like chikungunya, yellow fever, dengue etc."]
+	},
+
+	{"tag": "c5_q221",
+		"patterns": ["In which season is malaria more common? Why do you think this happens?"],
+		"response": ["Malaria is seen more commonly during rainy season because that is their breeding time for mosquitoes."]
+	},
+
+	{"tag": "c5_q222",
+		"patterns": ["What do you do in your house to protect yourself from mosquitoes? Also find out from your friends about what they do."],
+		"response": ["Best thing to protect ourselves from mosquitoes is to use mosquito repellent."]
+	},
+
+	{"tag": "c5_q223",
+		"patterns": ["Look at Aarti’s blood report and find out the minimum required haemoglobin?"],
+		"response": ["By seeing Aarti’s blood report the minimum required haemoglobin is 12gm/dl."]
+	},
+
+	{"tag": "c5_q224",
+		"patterns": [" How much did Aarti’s haemoglobin go up and how long did it take for that?"],
+		"response": ["By seeing Aarti’s blood report, haemoglobin increased by 2.5gm/dl. Which took almost 3 months to increase."]
+	},
+
+	{"tag": "c5_q225",
+		"patterns": ["What does the newspaper report say about the problems caused by anaemia?"],
+		"response": ["Newspaper report states that anaemia affects both mental and physical health of a child. It causes problems in children’s growth, reducing their energy levels which in turn affects their education."]
+	},
+
+	{"tag": "c5_q226",
+		"patterns": ["Have you or anyone in your family ever needed to get a blood test? When and why?"],
+		"response": ["Yes, last month when I was down with fever, I got a blood test done. It resulted in malaria."]
+	},
+
+	{"tag": "c5_q227",
+		"patterns": ["Yes, last month when I was down with fever, I got a blood test done. It resulted in malaria."],
+		"response": ["By doing the blood test we got to know that I was suffering from malaria."]
+	},
+
+	{"tag": "c5_q228",
+		"patterns": ["Have you had a health checkup in your school? What did the doctor tell you?"],
+		"response": ["Yes, we had a health check-up two months back at our school. The doctor told I was fit and fine."]
+	},
+
+	{"tag": "c5_q229",
+		"patterns": ["Ask a doctor or elders about the food items which contain iron."],
+		"response": ["When I asked the doctor about the food items which contain iron the doctor suggested that green leafy vegetables like spinach, cabbage etc. contain iron."]
+	},
+
+	{"tag": "c5_q230",
+		"patterns": ["Have you seen any poster like this put up anywhere?"],
+		"response": ["Yes, these posters are usually put on school notice boards."]
+	},
+
+	{"tag": "c5_q231",
+		"patterns": ["Who do you think puts up such posters, or gives ads in the newspapers?"],
+		"response": ["Government authority may put up such posters or give ads in the newspapers by doing so they are providing information."]
+	},
+
+	{"tag": "c5_q232",
+		"patterns": [" What are some of the important points given in the poster?"],
+		"response": ["The important points given in the poster are:\nWarning alerts regarding the diseases caused by the mosquito bites.\nFill up the pits and don’t let water to stagnate around your home.\nEvery corner should be kept clean and no moist should be there so that mosquito don’t get to breed.\nProtect yourself from mosquitoes by using mosquito repellents\nBy spraying kerosene on the water stagnant thereby it reduces the further growth of mosquitoes."]
+	},
+
+	{"tag": "c5_q233",
+		"patterns": ["Why do you think pictures of a tank, cooler and pits are shown in the poster?"],
+		"response": ["At these areas it is easy for mosquitoes to breed since water is stagnant at such places."]
+	},
+
+	{"tag": "c5_q234",
+		"patterns": ["Why do you think it talks about putting fish in the tank? What do you think the fish eats?"],
+		"response": ["By putting the fishes in the tank, it eats up the larva of mosquitoes so that there won’t be any breeding."]
+	},
+
+	{"tag": "c5_q235",
+		"patterns": ["What will happen when oil is spread on the water?"],
+		"response": ["When oil is poured on the water it stops the oxygen supply to the mosquitoes larva to grow hence it kills them."]
+	},
+
+
+	{"tag": "c5_q236",
+		"patterns": ["Which diseases are spread by flies and how?"],
+		"response": ["Flies transmit pathogens via touch or from bodily fluids, including from their saliva, feces, vomit, and urine. They can transmit parasites or bacteria that cause various infections.\nThe most common are amoebic dysentery, typhoid fever, cholera, Trachoma, tapeworm, roundworm, leprosy, and mycoses."]
+	},
+
+	{"tag": "c5_q237",
+		"patterns": ["Since how many days has water collected there?"],
+		"response": ["The water has been collected there for almost a week."]
+	},
+
+	{"tag": "c5_q238",
+		"patterns": ["Who is responsible for keeping these places clean?"],
+		"response": ["At home we are responsible to keep the house clean. At school, the school authorities are responsible\nto maintain the premises clean. Outside the premises its municipality’s responsible to keep it clean."]
+	},
+
+	{"tag": "c5_q239",
+		"patterns": ["Who is supposed to get the gutters and drains repaired?"],
+		"response": ["The government municipality authority is supposed to get the gutters and drains repaired."]
+	},
+
+	{"tag": "c5_q240",
+		"patterns": ["Can any larvae be seen in the collected water?"],
+		"response": ["Yes, in the collected water there could be larvae’s."]
+	},
+
+	{"tag": "c5_q241",
+		"patterns": ["Has it caused any problem in the area? Write."],
+		"response": ["Yes, the area being dirty it makes easy for the mosquitoes to breed. Hence these mosquitoes has created a mess in the area over all."]
+	},
+
+	{"tag": "c5_q243",
+		"patterns": ["Find out who is responsible for keeping the area around your school clean. Write a letter from your class, reporting your findings and suggestions. Find out to whom the letter should be written and to which office it should be sent."],
+		"response": ["The local municipality is responsible for keeping the area around the school clean. So let us write the letter addressing the mayor and sending the letter to local municipal corporation office.\nTo,\nThe Mayor\nMunicipal Corporation of Bangalore\nKarnataka\nSubject: Requesting for better cleanliness around the Vidyaniketan School premises.\nRespected Sir/Madam,\nWe the students of Vidyaniketan School, Bangalore bring in the notice regarding the dirt and garbage collected surrounding the school premises.\nThe whole area is facing a mess from the mosquitoes breeding and diseases caused by them. Due to heavy rains the water has been logged and caused this issue.\nSo, we kindly request you to look into the matter and requesting you to resolve the problem at the earliest.\nThanking you,\nYours sincerely,\nStudent of Class V\nVidyaniketan School\nBangalore\nTell"]
+	},
+
+	{"tag": "c5_q244",
+		"patterns": ["Is there a pond or river around your house or school? Go and look around and observe these things:\nQ1. Can you see algae in or around the water?"],
+		"response": ["Yes, we can see algae formed in or around the water."]
+	},
+
+	{"tag": "c5_q245",
+		"patterns": ["Where else have you seen algae?"],
+		"response": ["We can see algae on damp walls, damp floor etc."]
+	},
+
+	{"tag": "c5_q246",
+		"patterns": ["Are there plants growing on the side or in water? Find out their names. Draw some of these in your note book."],
+		"response": ["Yes there are plants which grow on the side or in the water like mosses, liver worts etc."]
+	},
+
+	{"tag": "c5_q247",
+		"patterns": ["Do you think these were planted by someone or did they grow on their own?"],
+		"response": ["No, these plants grow by themselves. There’s no need for someone to plant them."]
+	},
+
+	{"tag": "c5_q248",
+		"patterns": ["What else can you see in water? Make a list."],
+		"response": ["We can see fishes, crabs, tortoise, etc. in the water."]
+	},
+
+	{"tag": "c5_q249",
+		"patterns": ["What can you do so that mosquitoes do not breed in your house, school and neighborhood?"],
+		"response": ["We have to avoid water logging, keep the surroundings clean, spray any chemicals to avoid mosquitoes to breed,\nuse fishes in water so that it avoids mosquito larvae from growing further etc."]
+	},
+
+	{"tag": "c5_q250",
+		"patterns": ["How can you find out if someone has malaria?"],
+		"response": ["We can check if someone is having malaria if the blood reports show positive results of malaria."]
+	},
+
+	{"tag": "c5_q251",
+		"patterns": ["Have you ever seen the mountains? Have you also climbed a mountain? When and where?"],
+		"response": ["Yes I have seen the mountains and have climbed up the mountain during our vacation to Kashmir."]
+	},
+
+	{"tag": "c5_q252",
+		"patterns": ["How far have you walked at one time? How far can you walk?"],
+		"response": ["At one time I have walked for 3 kilometres. I can walk for a distance of 10 kilometre."]
+	},
+
+	{"tag": "c5_q253",
+		"patterns": ["What do you think about the paths on the mountains? Draw a picture"],
+		"response": ["Paths on the mountains usually have curves."]
+	},
+
+	{"tag": "c5_q254",
+		"patterns": ["What do you think about the responsibilities of a group leader?"],
+		"response": ["The responsibilities of a group leader may include:\nHelping other members of the group.\nLead the group members.\nManage all the needs of the members."]
+	},
+
+	{"tag": "c5_q255",
+		"patterns": ["How would you feel if you were made a leader in such a camp?"],
+		"response": ["If I were made a leader in such a camp it would make me feel more confident about myself and I would successfully manage my responsibilities."]
+	},
+
+	{"tag": "c5_q256",
+		"patterns": ["What does a monitor in your class have to do?"],
+		"response": ["Monitor in my class arranges all the required items the teacher needs like chalk, duster, etc. monitor also maintains the discipline in the class room when the teacher is absent,\nmonitor also checks upon any problems among students and convey it to the teacher."]
+	},
+
+	{"tag": "c5_q257",
+		"patterns": ["Would you like to be the class monitor? Why?"],
+		"response": ["Yes I would like to be the class monitor because it would be challenging to do all the tasks."]
+	},
+
+	{"tag": "c5_q258",
+		"patterns": ["What kinds of tools are needed for climbing mountains?"],
+		"response": ["The tools required to climb up the mountain are crampons, rope, belay device, harness, ice axe, protection guard, pulley, helmet, gloves, first aid kit, oxygen cylinder, food packets, water bottle, torch etc."]
+	},
+
+	{"tag": "c5_q259",
+		"patterns": ["Have you ever seen a hook and rope being used for anything else? Where?"],
+		"response": ["Yes I have seen. The hook and rope can be used for drawing water from the well, to pull heavy things up the building, in rescuing people in any accidents."]
+	},
+
+	{"tag": "c5_q260",
+		"patterns": ["What else can we use if we want to cross a river in the mountains?"],
+		"response": ["To cross a river in the mountains we require thick rope, sling and pitons."]
+	},
+
+	{"tag": "c5_q261",
+		"patterns": ["Why do we need extra energy on the mountains?"],
+		"response": ["We need extra energy especially on the mountains because we climb against the gravitational force which usually pulls us down and we also need to walk on the rough surface to balance all these we need that extra energy."]
+	},
+
+	{"tag": "c5_q262",
+		"patterns": ["Have you ever heard of anyone who has done something adventurous? What?"],
+		"response": ["Yes my friend once had gone for scuba diving which was very adventurous."]
+	},
+
+	{"tag": "c5_q263",
+		"patterns": ["Have you ever done anything adventurous? If yes, tell your class. Write about it in your own words"],
+		"response": ["Yes, I once did paragliding which was a thrilling experience. Being in the clouds was amazing, all the things down seemed so small, overall it was an adventurous experience."]
+	},
+
+	{"tag": "c5_q264",
+		"patterns": ["Have you ever climbed a tree? How did you feel? Were you scared? Did you ever fall?"],
+		"response": ["Yes I tried climbing up the tree which made me feel so scared that I would fall down but luckily I did not fall down. I felt really thrilled."]
+	},
+
+	{"tag": "c5_q267",
+		"patterns": ["Have you ever seen someone climb a small wall? What do you think is the difference between climbing a wall and climbing a high rock?"],
+		"response": ["Yes I have seen small children climbing the small wall. Climbing a small wall does not require rope or any accessories, but to climb a high rock we require rope, sling, pitons etc.\nand more over we may feel a little scared while climbing the high rock than a small wall."]
+	},
+
+	{"tag": "c5_q268",
+		"patterns": ["Is there anyone in your class whose language you do not understand, or who does not understand yours? What do you do in such a case?"],
+		"response": ["Yes there is a friend of mine in the class who does not understand my regional language neither I, understand her regional language. In that case, we convey in the common language which we both know or we will try to understand what the other person is trying to say."]
+	},
+
+	{"tag": "c5_q269",
+		"patterns": ["Have you ever lost your way? What did you do then?"],
+		"response": ["Yes a few times I lost my way to home, I called up my father and informed him about my whereabouts."]
+	},
+
+	{"tag": "c5_q270",
+		"patterns": ["Why do you think Khondonbi would have sung loudly?"],
+		"response": ["Khondonbi sung loudly so that it would help the other team to find them easily."]
+	},
+
+	{"tag": "c5_q271",
+		"patterns": ["Have you ever seen someone doing something special to get over their fear? What and when?"],
+		"response": ["Yes I have seen my cousin closing her eyes and shouting loudly out of fear when she was on a giant swing."]
+	},
+
+	{"tag": "c5_q272",
+		"patterns": ["Why do you think a drain was dug around the tent?"],
+		"response": ["The drain was dug up to keep off insects, snakes, pesticides etc."]
+	},
+
+	{"tag": "c5_q273",
+		"patterns": ["Besides mountaineering, what are other activities that can be called adventurous? Why?"],
+		"response": ["Besides mountaineering we can say that paragliding, hiking, rock climbing, bungee jumping, canyoneering etc. can be called adventurous."]
+	},
+
+	{"tag": "c5_q274",
+		"patterns": ["You are on a mountain. How do you feel there? What can you see? What do you feel like doing there?"],
+		"response": ["When I am on a mountain during winter I feel thrilled. I can see the snow fall, all the green trees covered up by snow looking like white tree, I feel like playing in the snow, sliding down the hill."]
+	},
+
+	{"tag": "c5_q275",
+		"patterns": ["Why did Bachhendri put up the Indian flag on the peak?"],
+		"response": [" In honour of our country, Bachhendri put up the Indian flag on the peak."]
+	},
+
+	{"tag": "c5_q276",
+		"patterns": ["When have you seen our national flag being hoisted? Collect information of our national flag."],
+		"response": ["National Flag is being hoisted during Republic day and Independence Day. And events are conducted at school, educational institutes to represent the national pride.\nThe National Flag is a horizontal tricolour of deep saffron at the top, white in the middle and dark green at the bottom in equal proportion. The ratio of width of the flag to its length is two to three.\nIn the centre of the white band is a navy-blue wheel which represents the chakra."]
+	},
+
+	{"tag": "c5_q277",
+		"patterns": ["Have you seen the flag of any other country? Where?"],
+		"response": ["Yes I have seen flags of many other countries on the internet, television, books etc."]
+	},
+
+	{"tag": "c5_q278",
+		"patterns": ["Explain why it can be adventurous and challenging to climb a mountain. How would you prepare if you were to climb a mountain? What would you take with you? Write in your own words."],
+		"response": ["Climbing a mountain involves many challenging activities which makes it difficult to climb the mountain. Keeping in mind all the difficulties we can say that it is adventurous and challenging to climb a mountain. Mentally and physically we have to be strong and be prepared to face the difficulties which come across our path.\nWith a lot of practice and will power we will be able to climb the mountain. I would carry all the mountaineering equipment’s, medicines, food, first aid kit, oxygen cylinder along with me if I were to climb the mountain."]
+	},
+
+	{"tag": "c5_q279",
+		"patterns": ["Why were bastions made in the fort wall?"],
+		"response": ["Bastions were made in the fort wall to ensure security of the fort."]
+	},
+
+	{"tag": "c5_q280",
+		"patterns": ["Why were big holes made in them?"],
+		"response": ["Big holes made in fort wall to increase the viewing area thus soldiers could look through these holes and could keep a better vigilance."]
+	},
+
+	{"tag": "c5_q281",
+		"patterns": [" What difference would be there if you were to look from a straight flat wall or a bastion at a height? How would the soldiers find peeping from the holes in the bastions useful while attacking?"],
+		"response": ["Bastions were made in the fort in such a way that soldiers can easily peep from the holes and it provided better vantage point where a large area could be seen. It would not have been possible from a flat wall."]
+	},
+
+	{"tag": "c5_q282",
+		"patterns": ["How would the fountains have worked?"],
+		"response": ["Fountains would have got water supply from a large tanks."]
+	},
+
+	{"tag": "c5_q283",
+		"patterns": ["What arrangements would have been made in the building for air and light?"],
+		"response": ["Large windows, doors and ventilators would have been made in the building for air and light."]
+	},
+
+	{"tag": "c5_q284",
+		"patterns": ["We still do not have any electricity at many places in our country. Even at places which do have electricity, imagine what would happen if there was no electricity for one week. What are the things that would be difficult to manage without it?"],
+		"response": ["If there is no electricity in our place we would not be able to use electrical appliances such as computer, mixer, television etc. In other words, life will come to a stand-still."]
+	},
+
+	{"tag": "c5_q285",
+		"patterns": ["Look carefully at the map of Golconda. On the map, arrows show all the four directions.\n(a): If you are peeping inside from Bodli Darwaza, in which direction from you is Katora Hauz?"],
+		"response": ["Katora Hauz is in north direction if we peep inside from Bodli Darwaza."]
+	},
+
+	{"tag": "c5_q286",
+		"patterns": ["If someone is entering from Banjara Darwaza, in which direction from her is Katora Hauz?"],
+		"response": ["In south direction."]
+	},
+
+	{"tag": "c5_q287",
+		"patterns": ["(c) In which direction will you walk from Bala Hisar to reach Moti Mahal?"],
+		"response": ["If we walk in east direction of Bala Hisar we will reach Moti Mahal."]
+	},
+
+	{"tag": "c5_q288",
+		"patterns": ["How many gates can you see on the outer walls of the fort?"],
+		"response": ["There are nine gates on outer walls of the fort."]
+	},
+
+	{"tag": "c5_q289",
+		"patterns": ["Count how many palaces are there in the fort?"],
+		"response": [" There are three palaces in the fort."]
+	},
+
+	{"tag": "c5_q290",
+		"patterns": ["What arrangements for water can you see inside the fort? For example, wells, tanks, step wells."],
+		"response": ["There were five baolis and three hauz for water."]
+	},
+
+	{"tag": "c5_q291",
+		"patterns": ["On the map, 1 cm distance is equal to a distance of 110 metres on the ground. Now tell\n(a) On the map the distance between Bala Hisar and Fateh Darwaja is ____ cm. On the ground, the distance between the two would be ____ metres."],
+		"response": ["On the map the distance between Bala Hisar and Fateh Darwaja is 8 cm. On the ground, the distance between the two would be 880 metres."]
+	},
+
+	{"tag": "c5_q292",
+		"patterns": ["(b) How far is Makai Darwaza from Fateh Darwaza?"],
+		"response": ["Distance from Makai Darwaza from Fateh Darwaza= 12 × 110 = 1320 m."]
+	},
+
+	{"tag": "c5_q293",
+		"patterns": ["Have you recently read or heard about any country attacking or going to war with another country?"],
+		"response": ["Yes, recently the USA had attacked Iraq."]
+	},
+
+	{"tag": "c5_q294",
+		"patterns": ["Find out what was the reason for this war."],
+		"response": [" Due to military issues and weapons."]
+	},
+
+	{"tag": "c5_q295",
+		"patterns": [" What kind of weapons were used in this war?"],
+		"response": ["USA launched airstrikes using harmful missiles."]
+	},
+
+	{"tag": "c5_q296",
+		"patterns": [" What kind of destruction was caused because of this?"],
+		"response": ["Commander of Iranian force was killed and many building were damaged."]
+	},
+
+	{"tag": "c5_q297",
+		"patterns": ["The big gun that Shreedhar saw was made of bronze.\nQ1: Have you seen anything made of bronze? What?"],
+		"response": ["Yes, I have seen statues, medals, utensils and lamps are made up of bronze."]
+	},
+
+	{"tag": "c5_q298",
+		"patterns": ["Find out from your elders about some of the things made from bronze that were, or are still used in your house. From its colour try to identify which one of them is made from copper, which from brass, and which from bronze."],
+		"response": ["With the help of my elders I could find following things:\nCopper are of reddish brown in colour and I found utensils and statues of god.\nBrass are of yellowish in colour and I found some utensils of brass.\nBronze are in shiny grey in colour and I found medals and lamps."]
+	},
+
+	{"tag": "c5_q299",
+		"patterns": ["Now imagine, how would this garland of pots lift water from the well?"],
+		"response": ["The garland of pots is connected with the toothed wheel and thus the garland of pots moves. Once a pot is in water, it gets filled with the water. Then the pots moves upward, carrying water along with it."]
+	},
+
+	{"tag": "c5_q400",
+		"patterns": ["Do you now get some idea about how the tankscould have been filled by lifting water from the wells? Even today we can see clay pipes in the walls of the fort. These pipes would have been used to carry water to different places in the palace."],
+		"response": [" Yes, bullocks have been used to move the garland of pots to lift the water up to the tank."]
+	},
+
+	{"tag": "c5_q301",
+		"patterns": ["Where else have you seen such wheels attached to each other. For example, in the gear of a cycle or somewhere else?"],
+		"response": [" Besides, cycles I have seen such attached wheels in pulley, toy cars, sewing machines, industrial machines and in some mechanical watches."]
+	},
+
+	{"tag": "c5_q302",
+		"patterns": ["Look around and find out how water is pumped up from the ground to higher places?"],
+		"response": ["These days electric water pumps, wind mills and boring machines are used for lifting the water but in villages bullocks are still is in use for lifting the water."]
+	},
+
+	{"tag": "c5_q303",
+		"patterns": [" How is water pumped up using electricity? How is water lifted without electricity?"],
+		"response": ["Using electricity the electric motor runs the water pump which suck water from the well or underground. In the absence of electricity, hand-pumps and pulleys are used for lifting water."]
+	},
+
+	{"tag": "c5_q304",
+		"patterns": ["Imagine that you are in those days when there was a busy town inside Golconda. Think about the questions given below and discuss in class. You could even put up a play.\nQ1: What is the Sultan doing in the palace? What kind of clothes is he wearing? What dishes are being offered to him? But why does he seem so worried? And in what language is he talking?"],
+		"response": ["The sultan is holding a meeting with his ministers. He is wearing traditional dress with crown and lots of jewellery. Many types of foods, drinks and sweets are being offered to him. He seems to be worried about the possible attack from the enemies. He is talking in Persian."]
+	},
+
+	{"tag": "c5_q305",
+		"patterns": ["Imagine the rooms in the palace—the beautiful carpets and curtains, the fountains on the terrace… and the sweet smell of roses and chameli—where is this coming from?"],
+		"response": ["The room is looking luxurious decorated by beautiful carpets and curtains. Fountains are running on the terrace. Beautiful fragrance of roses and chameli are coming from the garden."]
+	},
+
+	{"tag": "c5_q306",
+		"patterns": ["What are the different kinds of factories you can see? How many people are working there? What are they doing? What are they wearing? How long do you think they work?"],
+		"response": ["I can see several factories where clothes, utensils and idols are being made. About 30 people are working in a factory. They are working with their tools. They are wearing dhoti with shirt. I think they work for long hours, right from the early mornings to late evenings."]
+	},
+
+	{"tag": "c5_q307",
+		"patterns": ["Look there! See how finely those craftsmen are carving the stones using a chisel and hammer? Can you see the stone dust in the air. Do you think this stone dust would harm them in some way?"],
+		"response": [" No, this stone dust would not be causing any harm to them as they have wrapped a cloth around their nose and mouth."]
+	},
+
+	{"tag": "c5_q308",
+		"patterns": ["What kinds of pots have you seen around you?"],
+		"response": ["I have seen pots made up of muds, steel, iron, brass, bronze, glass, copper and paper."]
+	},
+
+	{"tag": "c5_q309",
+		"patterns": ["Try to find out from your grandparents about the other kinds of pots and pans they used in their time?"],
+		"response": ["During my grandparents time pots were made up of brass and clay and they were very nice and heavy. Sometimes copper was also used."]
+	},
+
+	{"tag": "c5_q310",
+		"patterns": ["Have you ever been to some museum or heard about it? What all things are there in a museum?"],
+		"response": ["Yes, I had visited the museum. There are many antiques, manuscripts and other things of historical importance are kept in a museum."]
+	},
+
+	{"tag": "c5_q311",
+		"patterns": ["If the earth is round like a globe, how is it that we do not fall off?"],
+		"response": ["Due to the gravitational pull from the earth towards itself that is why we won’t fall down."]
+	},
+
+	{"tag": "c5_q312",
+		"patterns": ["Do the people in Argentina stand upside down?"],
+		"response": ["No they don’t stand upside down. There is no concept like standing upwards or downwards, everything is relative."]
+	},
+
+	{"tag": "c5_q313",
+		"patterns": ["Can you think why Sunita’s hair was standing?"],
+		"response": ["Sunita’s hair was standing because she was in space and there is zero gravity which makes everything float."]
+	},
+
+	{"tag": "c5_q314",
+		"patterns": ["Close your eyes. Imagine that your class is a spaceship. Zooo…m – in 10 minutes you have entered in space. Your spaceship is now going around the earth. Now say:\n– Are you able to sit at one place?"],
+		"response": ["No I am not able to sit in one place, everyone seems floating inside the spacecraft."]
+	},
+
+	{"tag": "c5_q315",
+		"patterns": ["– What about your hair?"],
+		"response": ["My hair too seems standing up."]
+	},
+
+	{"tag": "c5_q316",
+		"patterns": ["– Oh, look … where are your bags and books going?"],
+		"response": ["My books and bags are floating inside the spacecraft."]
+	},
+
+	{"tag": "c5_q317",
+		"patterns": ["– And what is your teacher doing? Where is her chalk?"],
+		"response": ["My teacher too is floating inside the spacecraft and trying to catch the chalk which is also floating."]
+	},
+
+	{"tag": "c5_q318",
+		"patterns": ["– How did you eat your food during the break? How did you drink water? What happened to the ball that you threw up?"],
+		"response": ["To eat our food we had to grab the food items and have. The water was in the form of blobs we had to suck them in. The ball which we threw up was also floating."]
+	},
+
+	{"tag": "c5_q319",
+		"patterns": [" Can you now say why Sunita’s hair kept standing?"],
+		"response": ["Due to the zero gravity in the space Sunita’s hair kept standing."]
+	},
+
+	{"tag": "c5_q320",
+		"patterns": ["Think why water flows downwards on any slope. On mountains too water flows downwards, not upwards."],
+		"response": ["The earth has the gravitational force, due to the earth’s gravitational force the water flows down the mountain."]
+	},
+
+	{"tag": "c5_q321",
+		"patterns": ["Take a 5 rupee coin and a small piece of paper. The paper should be about one-fourth the size of the coin.\n– Hold the coin in one hand and the paper in the other. Drop them at the same time. What happened?\n– Now place the tiny paper on the coin and drop them. What happened this time? Surprised!"],
+		"response": ["When dropping the coin in one hand and the paper in the other, the coin reaches the ground faster than the paper.\nWhen placing the tiny paper on the coin and dropping them together, both reach the ground at the same time."]
+	},
+
+	{"tag": "c5_q322",
+		"patterns": ["To play this you will need a small stone, a bigger stone (lemon-sized), a thick roll of paper (which can be made with layers of papers), mouse and an elephant made of paper.\n– Take a string about 2 feet long.\n– At one end of the string tie the small stone. Stick or tie the mouse to the stone.\n– Put the string into the roll of paper.\n– At the other end of the string tie the bigger stone and stick the elephant.\n– Hold the roll of paper and move your hand to rotate the small stone.\n– Who is pulling whom? You will be surprised! The mouse lifts the elephant!\nHow did this magic happen?"],
+		"response": ["When the small stone i.e., the mouse rotates, it creates a force due to which the bigger stone i.e., the elephant is being pulled up."]
+	},
+
+	{"tag": "c5_q323",
+		"patterns": ["Can you see India?"],
+		"response": ["Yes I can see India on the globe."]
+	},
+
+	{"tag": "c5_q324",
+		"patterns": ["Can you recognize any other place?"],
+		"response": ["Yes I can recognize Sri Lanka on the globe"]
+	},
+
+	{"tag": "c5_q325",
+		"patterns": ["Where is the sea?"],
+		"response": ["Blue colour on the globe indicates water."]
+	},
+
+	{"tag": "c5_q326",
+		"patterns": ["Do you find anything similar between the globe and this picture of the earth? In what ways are they different?"],
+		"response": ["Similarities between the globe and the earth is that, we can identify which part is land and which part is sea. But it is difficult to identify a particular country or a city in the globe."]
+	},
+
+	{"tag": "c5_q327",
+		"patterns": ["Do you think Sunita could make out Pakistan, Nepal and Burma separately, when she saw the earth from space?"],
+		"response": ["No it is difficult to identify these countries, since no particular country can be visible from space."]
+	},
+
+	{"tag": "c5_q328",
+		"patterns": ["Can you find India?"],
+		"response": ["Yes we can easily find India."]
+	},
+
+	{"tag": "c5_q329",
+		"patterns": ["Where all do you find the sea?"],
+		"response": ["The blue coloured part is the sea."]
+	},
+
+	{"tag": "c5_q330",
+		"patterns": ["Which countries can you see?"],
+		"response": ["I can see all the countries like India, USA, Australia, South Africa, China, Germany, Europe etc."]
+	},
+
+	{"tag": "c5_q331",
+		"patterns": ["Can you see some of the countries with which India plays cricket matches? For example: England, Australia, Pakistan, Bangladesh and South Africa."],
+		"response": ["Yes I can see all these countries."]
+	},
+
+	{"tag": "c5_q332",
+		"patterns": ["What else can you see on the globe?"],
+		"response": ["Apart from sea and countries, I can see islands, mountains etc. on the globe."]
+	},
+
+	{"tag": "c5_q333",
+		"patterns": ["Can you find the state in which you live? Write its name on the map."],
+		"response": ["Yes I can find Karnataka the place I live in."]
+	},
+
+	{"tag": "c5_q334",
+		"patterns": ["Which are the states next to the state you live in?"],
+		"response": ["The states next to Karnataka are Maharashtra, Telangana, Andhra Pradesh, Tamil Nadu, Kerala and Goa."]
+	},
+
+	{"tag": "c5_q335",
+		"patterns": ["Have you been to any other state?"],
+		"response": ["Yes, I had been to Maharashtra, Telangana, Andhra Pradesh, Tamil Nadu states."]
+	},
+
+	{"tag": "c5_q336",
+		"patterns": ["Shahmir thinks that there are lines drawn on the ground between the states. What do you think?"],
+		"response": ["I think these lines are just on the map and not in real."]
+	},
+
+	{"tag": "c5_q337",
+		"patterns": ["Why don’t you try to do the same with a coin? How many centimeters away from the eye did you keep the coin to hide the moon?"],
+		"response": ["To hide the moon completely we have to keep the coin at a distance of 25 centimeters away from the eye."]
+	},
+
+	{"tag": "c5_q338",
+		"patterns": ["Do you think the moon is flat like the coin or round like a ball?"],
+		"response": ["I think the moon is round like a ball."]
+	},
+
+	{"tag": "c5_q339",
+		"patterns": ["What are the festivals related to the moon?"],
+		"response": ["Festivals related to full moon are, Karwa Chauth, Holi, Eid etc."]
+	},
+
+	{"tag": "c5_q340",
+		"patterns": ["At night look at the sky carefully for 5 minutes.\n– What could you see?"],
+		"response": ["At night I could see the moon and the stars."]
+	},
+
+	{"tag": "c5_q341",
+		"patterns": ["– Did you see anything moving in the sky? What do you think it could be? A star or a shooting star or a satellite (satellites are used for the TV, telephones and for weather reports). Find out more about this."],
+		"response": ["Yes I saw something moving in the sky, may be it could be a shooting star since it crosses of faster. In case if it would be satellite, it would move very slowly."]
+	},
+
+	{"tag": "c5_q342",
+		"patterns": ["If you saw the moon rising at 7 pm today, would you see it at the same time tomorrow?"],
+		"response": ["No the moon rises on different timings on different days."]
+	},
+
+	{"tag": "c5_q343",
+		"patterns": ["On 31 October the time of setting of the moon is given as 12:03. Have you ever seen the moon at 12 in the afternoon? Why don’t we easily see the moon or stars during the day?"],
+		"response": ["No I have not seen the moon at 12 in the afternoon. Due to the sunlight during the day dominates, hence we cannot see the moon or stars during the day."]
+	},
+
+	{"tag": "c5_q344",
+		"patterns": ["Why do children always slide down the slide and not slide up? If this slide were there in Sunita’s spacecraft, would children slide like this? Why?"],
+		"response": ["Due to the gravitational force by the earth usually children slide down and cannot slide up. If this slide was at Sunita’s spacecraft then children would not enjoy since there is zero gravity and children cannot slide instead they would float."]
+	},
+
+	{"tag": "c5_q345",
+		"patterns": ["Why do we see stars mostly at night?"],
+		"response": ["We see stars only at night because there is no sunlight at night."]
+	},
+
+	{"tag": "c5_q346",
+		"patterns": ["Looking at earth from the space, Sunita said, “Different countries cannot be seen as separate from here. These lines are on paper. They are made by us.” What do you understand by this?"],
+		"response": ["Humans have created the boundary lines indeed it’s not for the nature. So from the space we cannot identify a particular country or a city, just for human understanding they have drawn the lines and separated the countries."]
+	},
+
+	{"tag": "c5_q347",
+		"patterns": ["Which are the vehicles run without petrol and diesel?"],
+		"response": ["Cycle can run without petrol and diesel."]
+	},
+
+	{"tag": "c5_q348",
+		"patterns": ["What problems do we face from the speeding vehicles?"],
+		"response": ["It may cause accidents."]
+	},
+
+	{"tag": "c5_q349",
+		"patterns": ["Do you ride a bicycle? If yes, where all do you go on it?"],
+		"response": ["Yes, I ride bicycle. I use bicycle for going to the market and playground."]
+	},
+
+	{"tag": "c5_q350",
+		"patterns": ["How do you come to school?"],
+		"response": ["I come to school by bus."]
+	},
+
+	{"tag": "c5_q351",
+		"patterns": ["How do your family members go to work from home?"],
+		"response": ["My father goes by car and my mother goes by scooter."]
+	},
+
+	{"tag": "c5_q352",
+		"patterns": ["What problems can we have from smoke coming out of vehicles?"],
+		"response": ["Smoke coming from vehicles can cause nausea, cough, lung diseases, headache and skin allergy."]
+	},
+
+	{"tag": "c5_q353",
+		"patterns": ["What kind of problems can we face from noise of vehicles (honking)?"],
+		"response": ["Noise coming from vehicles cause headache and irritation."]
+	},
+
+	{"tag": "c5_q354",
+		"patterns": ["Which states of India have oil fields?"],
+		"response": ["Andhra Pradesh, Gujarat, Maharashtra and Assam have oil fields."]
+	},
+
+	{"tag": "c5_q355",
+		"patterns": ["Besides oil, what else is found deep inside the earth?"],
+		"response": ["Besides oil many minerals are found deep inside the earth such as coal, gold, iron, copper, diamond, potassium, magnesium and zinc."]
+	},
+
+	{"tag": "c5_q356",
+		"patterns": ["What all can vehicles run on?"],
+		"response": ["Vehicles can run on petrol, diesel, LPG, solar energy and battery."]
+	},
+
+	{"tag": "c5_q357",
+		"patterns": ["What kinds of problems will we face, if the number of vehicles keep on increasing? For example, more traffic on the road. Talk to your elders and write about it."],
+		"response": ["If the number of vehicles keep on increasing it would lead to many problems like, increased traffic on the road, air pollution, noise pollution and accidents."]
+	},
+
+	{"tag": "c5_q358",
+		"patterns": ["Manju said, “Why doesn’t everyone use a bus?” What do you think, why don’t people travel by buses?"],
+		"response": ["Buses are overcrowded and hence people want to avoid that."]
+	},
+
+	{"tag": "c5_q359",
+		"patterns": ["Suggest some ways to deal with the problems arising out of the growing number of vehicles."],
+		"response": ["People should prefer public transport like bus, trains etc. and people should use car pool to avoid problems arising out of the growing number of vehicles."]
+	},
+
+	{"tag": "c5_q360",
+		"patterns": ["What are the benefits, if we switch off the engine of the vehicles at the red light on the road?"],
+		"response": ["It will save the fuels if we switch off the engine of the vehicles at the red light on the road."]
+	},
+
+	{"tag": "c5_q361",
+		"patterns": ["In 2014, as compared to 2007 the rate of petrol went up by ———rupees. The rate of diesel increased by ————rupees."],
+		"response": ["In 2014, as compared to 2007 the rate of petrol went up by 23.34 rupees. The rate of diesel increased by 28.49 rupees."]
+	},
+
+	{"tag": "c5_q362",
+		"patterns": ["What was the difference in the rates of petrol and diesel from 2002 to 2007 and 2007 to 2014?"],
+		"response": ["The difference in the rates of petrol from 2002 to 2007 is 13.61 rupees and diesel is 11.57 rupees.\nThe difference in the rates of petrol from 2007 to 2014 is 23.34 rupees and diesel is 28.49 rupees."]
+	},
+
+	{"tag": "c5_q363",
+		"patterns": ["What is the price of petrol and diesel in your area?"],
+		"response": ["The price of petrol in my area is ₹ 74.46 per liter and price of diesel is ₹ 66.84"]
+	},
+
+	{"tag": "c5_q364",
+		"patterns": ["Why are the prices of petrol and diesel going up?"],
+		"response": ["The prices of petrol and diesel is going up because of its production is limited while consumption is increasing day by day."]
+	},
+
+	{"tag": "c5_q365",
+		"patterns": ["In one month how much petrol and diesel is used in your home? What is it used for?"],
+		"response": ["Depends upon the distance we travel. It is used for vehicles."]
+	},
+
+	{"tag": "c5_q366",
+		"patterns": ["Where all is oil used?"],
+		"response": [" Oil used for dry cleaning, for lighting, as fuel for automobiles and airplanes, for making plastic and paints, to run machines and as kerosene and LPG."]
+	},
+
+	{"tag": "c5_q367",
+		"patterns": ["Where is diesel used? Find out"],
+		"response": ["Diesel is used for to run machines and as fuel for automobiles."]
+	},
+
+	{"tag": "c5_q368",
+		"patterns": ["What would happen if you don’t get petrol or diesel for a week in your village or town?"],
+		"response": ["If petrol and diesel will not be available for a week the life will become difficult for everyone to travel, to do work in industries."]
+	},
+
+	{"tag": "c5_q369",
+		"patterns": ["Suggest some ways to save oil."],
+		"response": ["Some of the measures are listed below to save oil.\n1. Switch off the engines at the red light on the road.\n2. Use more public transport than private.\n3. Usage of alternative energies like solar and bio gas.\n4. Prefer walking or cycle for shorter distance."]
+	},
+
+	{"tag": "c5_q370",
+		"patterns": ["Have you ever collected dry wood or made cow dung cakes? How are they made?"],
+		"response": ["Yes I have collected dry wood to make bonfire during winters. I have never made cow dung cakes but have seen in villages. Hay is mixed with cow dung and the mixture is given a shape of circle and it is sun dried to make cow dung cakes."]
+	},
+
+	{"tag": "c5_q371",
+		"patterns": ["Do you know anyone who collects dry wood or leaves to be used for lighting a chulha?"],
+		"response": ["Yes, I have seen some people in villages collecting dry wood leaves for lighting a chulha."]
+	},
+
+	{"tag": "c5_q372",
+		"patterns": ["Who cooks food in your family? What about other families in your area?"],
+		"response": ["My mother cooks food in my family. In other families usually ladies will cook. In some areas servants also cook."]
+	},
+
+	{"tag": "c5_q373",
+		"patterns": ["If they cook food using wood or upla (cow dung cakes), what difficulties do they face due to smoke?"],
+		"response": ["The smoke from wood or cow dung creates many difficulties like lung diseases, headache, eye burning, nausea and problems related to respiration."]
+	},
+
+	{"tag": "c5_q374",
+		"patterns": ["Can Durga use anything else instead of wood? Why not?"],
+		"response": ["Yes, Durga can use cow dungs instead of wood."]
+	},
+
+	{"tag": "c5_q375",
+		"patterns": ["In year 1976, out of 100 how many houses used upla and wood?"],
+		"response": ["84 houses."]
+	},
+
+	{"tag": "c5_q376",
+		"patterns": ["Which was the fuel used the least in 1976?"],
+		"response": ["Electricity."]
+	},
+
+	{"tag": "c5_q377",
+		"patterns": ["In 1976, LPG and kerosene were used in______houses and in 1996 this increased to______. This means that in twenty years their use increased by______%."],
+		"response": ["In 1976, LPG and kerosene were used in 10 houses and in 1996 this increased to 18. This means that in twenty years their use increased by 80 %"]
+	},
+
+	{"tag": "c5_q378",
+		"patterns": ["Out of 100, how many houses were using electricity in 1996?"],
+		"response": ["5 houses."]
+	},
+
+	{"tag": "c5_q379",
+		"patterns": ["Which fuel was used the least in 1996? What percentage of houses used it in the year 1976?"],
+		"response": ["Coal was used the least in 1996. In 1976 it was used in 5% of houses."]
+	},
+
+	{"tag": "c5_q380",
+		"patterns": ["When they were young what was then used to cook food at home?"],
+		"response": ["When they were young coal, wood and cow dung were used to cook food at home."]
+	},
+	{"tag": "c5_q381",
+		"patterns": ["In the past 10 years use of which cooking fuel has increased in your area? Use of which fuel has decreased?"],
+		"response": ["In past 10 years use of LPG and electricity has increased. Use of cow dung and wood has decreased."]
+	},
+	{"tag": "c5_q382",
+		"patterns": ["Guess the use of which fuel would increase and which would decrease in the next 10 years."],
+		"response": ["In next 10 years use of LPG and electricity will increase. Use of cow dung and wood will decrease."]
+	},
+
+	{"tag": "c5_q383",
+		"patterns": ["Check in your map. Which states would one pass through while travelling from Mumbai to Kashmir?"],
+		"response": ["We pass through places like Maharashtra, Gujarat, Rajasthan, Madhya Pradesh, Haryana, Punjab, Himachal Pradesh and Jammu and Kashmir when travelling from Mumbai to Kashmir."]
+	},
+
+	{"tag": "c5_q384",
+		"patterns": ["Gaurav Jani passed through several states while going from Mumbai to Delhi. Find the capital cities of these states. Was there any other big town on his way?"],
+		"response": ["Gaurav Jani when going from Mumbai to Delhi he would have passed through Maharashtra: Mumbai, Gujarat: Gandhinagar, Rajasthan: Jaipur, Haryana: Chandigarh.\nSo some of the big cities on his way would be Ahmedabad, Jaipur, Chandigarh etc."]
+	},
+
+	{"tag": "c5_q385",
+		"patterns": ["Is Manali a plain or a hilly area? In which state is it?"],
+		"response": ["Manali is a hilly area, it is situated in Himachal Pradesh."]
+	},
+
+	{"tag": "c5_q386",
+		"patterns": ["Have you ever stayed in a tent? Where? What was it like?"],
+		"response": ["Yes I have stayed in a tent when I had been on a vacation to Manali. It was a thrilling experience for me."]
+	},
+
+	{"tag": "c5_q387",
+		"patterns": ["Imagine that you were to stay alone in a small tent for two days and could take with you only ten things. Make a list of those ten things."],
+		"response": ["If I were to stay alone in the tent for 2 days then I would carry things like blankets, clothes, food, repellents, water, protection guard, first aid kit, camera, torch, woollen clothes, shoes etc."]
+	},
+
+	{"tag": "c5_q388",
+		"patterns": ["What are the different types of houses that you have seen? Tell your friends about it. Make drawings too."],
+		"response": ["I have seen different types of houses like cave houses, castle, apartment, single-family detached house, carriage etc."]
+	},
+
+	{"tag": "c5_q389",
+		"patterns": ["During winters, Tashi and his family live on the ground floor. Why would they be doing so?"],
+		"response": ["During winters, Tashi and his family would live on the ground floor because their ground floor has no windows in turn which would keep them warm from the outside weather."]
+	},
+
+	{"tag": "c5_q390",
+		"patterns": ["What is the roof of your house like? What all is the roof used for?"],
+		"response": ["My roof top is flat in shape. We use the roof top for drying clothes, drying food items etc. during summers we sleep on the roof top since it would be hot inside the house."]
+	},
+
+	{"tag": "c5_q391",
+		"patterns": ["At what height is the place where you live?"],
+		"response": ["I live in a place where it is situated at a height of 350meters above sea level."]
+	},
+
+	{"tag": "c5_q392",
+		"patterns": ["Why did Gaurav Jani say – “This place is so high that it is difficult to breathe normally?”"],
+		"response": ["The air usually becomes thinner to breathe when going to high altitudes. Hence the oxygen levels would have gone down so Gaurav Jani said so."]
+	},
+
+	{"tag": "c5_q393",
+		"patterns": ["Have you ever been to a hilly place? Where?"],
+		"response": ["Yes I had been to a hilly place located at Himachal Pradesh."]
+	},
+
+	{"tag": "c5_q394",
+		"patterns": ["At what height was it? Did you have any difficulty in breathing there?"],
+		"response": ["Yes breathing became difficult when I reached a height of 1654meters."]
+	},
+
+	{"tag": "c5_q395",
+		"patterns": ["Which is the highest place you have been to?"],
+		"response": ["The highest place I had been to was keylong pass."]
+	},
+
+	{"tag": "c5_q396",
+		"patterns": ["For the Changpas their animals are a very important part of their life. Is any animal part of your life? For example, as a pet, or as helpers in farming."],
+		"response": ["Yes dog is an important part of my life."]
+	},
+
+	{"tag": "c5_q397",
+		"patterns": ["List five ways in which different animals are a part of your life."],
+		"response": ["Five ways in which different animals are a part of life are\nCow – it helps in producing milk.\nOx – it helps the farmers in farming.\nSheep – its fur is very useful.\nDog – it gives protection."]
+	},
+
+	{"tag": "c5_q398",
+		"patterns": ["You read that in Changthang the temperature drops below 0°C. Look at newspapers on the TV to find cities in India or abroad where the temperature drops below 0°C. In which months do you expect to see this?"],
+		"response": ["In India the cities which drop below 0o C is Leh, Ladak, Kashmir, manali, etc. in abroad cities like Switzerland, Ottawa, Siberia, Antarctica etc. this usually happens in the month of December and January."]
+	},
+
+	{"tag": "c5_q399",
+		"patterns": ["The houses in different parts of Jammu and Kashmir are made to suit the climate and the needs of the people there.\nQ1. Are there different types of houses in the place where you live? If yes, think about the reasons."],
+		"response": ["Yes there are different types of houses in the locality I live in. Depending on the budget, people have built up their buildings like:\nvery rich people have constructed bungalows, middle class people own an apartment, and poor people build up huts."]
+	},
+
+	{"tag": "c5_q400",
+		"patterns": ["Think of your own house. Is there something special in it – like a sloping roof as it rains a lot, or a courtyard where you can sleep when it is hot or where things are kept in the sun (for drying, etc.)? Make a drawing."],
+		"response": ["Yes my house has a sloping roof. When it rains heavily the water slops down the roof. We also have a courtyard at the back of the house for drying things."]
+	},
+
+	{"tag": "c5_q401",
+		"patterns": ["What are the materials used for making your house? Is it mud, brick, stone, wood or cement?"],
+		"response": ["Materials required to build my house is mud, brick, cement, glass, wood, stone etc."]
+	},
+
+	{"tag": "c5_q402",
+		"patterns": ["Can you guess the similarities and differences in the life of Bakarwal people and the life of the Changpas."],
+		"response": ["Here are a few similarities between the life of Bakarwal people and life of the Changpas.\nThey live in the mountains of Jammu and Kashmir.\nThey keep moving from one place to another.\nThey earn their livelihood by selling the fur obtained from these animals.\nThey eat meat of animals like sheep, yak, goat etc.\nThe difference between the life of Bakarwal people and life of the Changpas is that.\nThe Bakarwal people gaze any type of goat and sheep at any place. And stay at low altitudes only.\nBut Changpas gaze only special type of goat at high altitude because their wool would be very softly which is very costly. They live at high altitudes only."]
+	},
+
+	{"tag": "c5_q403",
+		"patterns": ["You read about different kinds of shelters in Jammu and Kashmir – some on high mountains, some on water, some with beautiful designs in wood and stone, and some mobile shelters that can even be packed and carried to another place.\nQ1. Describe how these shelters suit the needs of the people who live there."],
+		"response": ["The shelters are built as per the needs of the people who live there. The houses which are built using stone and wood provide good warmth during winter season. Houses on water ie.,\nthe boathouse provides all the comforts required by the occupants. Tents which are built at high altitudes by the Changpas are good for people who keep wandering a lot."]
+	},
+
+	{"tag": "c5_q404",
+		"patterns": ["How are these different from the house you live in?"],
+		"response": ["The houses which we live in, is built as per our requirements and depends on the weather conditions. We use cement, bricks, stone, wood etc. to construct a house. But in case of Changpas or Bakarwal people,\nthey build up tents and keep wandering. Hence our houses are different from them."]
+	},
+
+	{"tag": "c5_q405",
+		"patterns": ["Have you or anyone that you know ever faced such difficulty?"],
+		"response": ["No, but I heard in the television news."]
+	},
+
+	{"tag": "c5_q406",
+		"patterns": ["Who all helped at such a time? Make a list."],
+		"response": ["In such difficulty many people like neighbor states people, military force, doctors and political leaders helped them."]
+	},
+
+	{"tag": "c5_q407",
+		"patterns": ["A lot of people from other places came to Jasma’s village. Who were these people? In what ways would they have helped the villagers?"],
+		"response": ["Many people came from cities to Jasma’s village. Some of them from non – government organizations, some of them were scientists, some of them are doctors and medical personnel.\nThey would have helped by bringing in the much needed relief. They brought food, clothes, and medicines. The scientists wanted to identify areas which were more prone to getting earthquakes. Doctors and medical personnel provided first aid to them."]
+	},
+
+	{"tag": "c5_q408",
+		"patterns": ["People in Jasma’s village rebuilt their houses with suggestions from the engineers. Will these houses be safer than before in case there is an earthquake again? Why?"],
+		"response": ["The engineers gave suggestions to build houses so that there would be least damage in case of earthquake. So, these house would be safer in case there is an earthquake again."]
+	},
+
+	{"tag": "c5_q409",
+		"patterns": ["Think, if there were an earthquake where you live, would your house be in danger?"],
+		"response": ["In case of an earthquake in my area, my house would definitely be in danger. The worst is the possibility of the roof getting collapsed. It can also damage the household items and cause injuries to us."]
+	},
+
+	{"tag": "c5_q410",
+		"patterns": ["What will you do to save pet animals during natural disaster?"],
+		"response": ["I will prepare an emergency kit to my pet which consists of medical need, water, food etc. along with the shelter."]
+	},
+
+	{"tag": "c5_q411",
+		"patterns": ["Have you been told in your school or anywhere else about what to do in case of an earthquake?"],
+		"response": ["Yes, there was a seminar on what to do in case of earthquake. We were told to go to an open area. If someone is unable to\ngo to an open area then he or she can hide under a table and hold it firmly."]
+	},
+
+	{"tag": "c5_q412",
+		"patterns": ["Why do you think one should go under a table during an earthquake?"],
+		"response": ["In case of collapse of house during an earthquake, the table can save the person from injury. Hence one should go under a table during an earthquake."]
+	},
+
+	{"tag": "c5_q413",
+		"patterns": ["According to the TV report, thousands of people were injured and some died in Gujarat. If the buildings had been made in a way that they would not fall in the earthquake, would the damage have been different? How?"],
+		"response": ["People do not die because of earthquake but they get injured or die because of house collapse. So, if the buildings are made earthquake proof then there will be least damage in case of earthquake."]
+	},
+
+	{"tag": "c5_q414",
+		"patterns": ["At times like this, when people have lost their homes and all their belongings, what kind of help would they need?"],
+		"response": ["At such times people will need tents to prepare huts and basic needs like cloth, food, water and medicines."]
+	},
+
+	{"tag": "c5_q415",
+		"patterns": ["Have you ever seen people in your area helping each other? When?"],
+		"response": ["Yes, I have seen people helping each other during accidents."]
+	},
+
+	{"tag": "c5_q416",
+		"patterns": ["Why do people live together in a neighborhood?"],
+		"response": ["Because to share their happiness as well as to help each other in difficult times."]
+	},
+
+	{"tag": "c5_q417",
+		"patterns": ["Imagine living in a place where there were no other houses or people around. How would it be? For example, whom would you play with? With whom would you celebrate festivals and special days? Would you be scared?"],
+		"response": ["It would be definitely a difficult situation, my festivals and special days would be boring without anyone. Of course it would be very scary."]
+	},
+
+	{"tag": "c5_q418",
+		"patterns": ["Have you warmed your hands in winter by blowing on them when they are cold? How does it feel?"],
+		"response": ["Yes blowing on my hands made my hands warmer in winter. It feels warmer and comfortable."]
+	},
+
+	{"tag": "c5_q419",
+		"patterns": ["Blow hard from your mouth onto your hands. How did you find the air from your mouth as compared to the air around? Was it hotter, or cooler?"],
+		"response": ["Blowing hard from my mouth onto the hands, the air from the mouth was hotter than the outside air around me."]
+	},
+
+	{"tag": "c5_q420",
+		"patterns": ["Now put your hands at some distance from your mouth, and blow again. Does the air from your mouth feel warm? Why?"],
+		"response": ["When we put our hands at some distance from our mouth and blow the air from the mouth we feel that the air is not warmer. Since the hand is kept far at a\nplace the air blown from mouth by the time it reaches the hand it becomes cold by mixing with the air around."]
+	},
+
+	{"tag": "c5_q421",
+		"patterns": ["Can you think of any other way in which you use the warmth from your breath?"],
+		"response": ["We can use the warmth of the breath for the redness of the eye or any injury, by blowing it onto the handkerchief and keeping it on the redness of the eye it gives relief by doing so."]
+	},
+
+	{"tag": "c5_q422",
+		"patterns": ["Fold a piece of cloth 3-4 times. Now bring it close to your mouth and blow hard on it. Did the cloth become warm?"],
+		"response": ["Yes, even after folding the cloth 3-4 times and by blowing the air from the mouth the cloth results in warmth."]
+	},
+
+	{"tag": "c5_q423",
+		"patterns": ["Balishtiye saw that the woodcutter was trying to cool the hot potatoes by blowing on them. What would have happened if he had eaten the potatoes without cooling them?"],
+		"response": ["If Balishtiye had eaten the hot potatoes without cooling them, then it would have caused burns in his mouth."]
+	},
+
+	{"tag": "c5_q424",
+		"patterns": ["Have you ever burnt your tongue when you ate or drank something that was too hot? How do you cool some food when it is too hot?"],
+		"response": ["Yes while sipping hot tea I burnt my tongue. I sometimes use fan to cool my food or otherwise by blowing over it I cool it."]
+	},
+
+	{"tag": "c5_q425",
+		"patterns": ["If you were to cool these three hot things – dal, roti, rice – in which ways would you do so?"],
+		"response": ["To cool down these items, firstly we should keep them in a wider container and keep under a fan or if it is in less quantity we can blow over it and cool it."]
+	},
+
+	{"tag": "c5_q426",
+		"patterns": ["For what other things do you blow air from your mouth?"],
+		"response": ["We blow air from mouth to clean spectacles, to whistle, to clean any dust particles, to blow the flute etc."]
+	},
+
+	{"tag": "c5_q427",
+		"patterns": ["Mini tried to cool her tea by blowing on it. Which do you think will be hotter – Mini’s tea or the air she blew from her mouth?"],
+		"response": ["Mini’s tea will be hotter than the air which she blew from her mouth."]
+	},
+
+	{"tag": "c5_q428",
+		"patterns": ["Sonu was feeling very cold. He kept blowing on to his hands. Now think and write, which will be cooler – Sonu’s hands or his breath?"],
+		"response": ["Sonu’s hands will be cooler. Since his hands are open to the air outside which makes it colder."]
+	},
+
+	{"tag": "c5_q429",
+		"patterns": ["Make whistles of the things given below. Write in a sequence–from the loudest to the softest whistle.\n– Wrapper of a toffee\n– A leaf\n– A balloon\n– The cap of a pen\n– Any other thing"],
+		"response": ["The sequence from the loudest to the softest whistle is given below:\n– The cap of the pen\n– By putting fingers in the mouth\n– By wrapping of a toffee\n– By a balloon\n– By a leaf"]
+	},
+
+	{"tag": "c5_q430",
+		"patterns": ["Can you name some things which produce melodious or pleasing sounds when we blow into them."],
+		"response": ["Here are a few musical instruments which produce melodious or pleasing sounds when we blow air into them: flute, mouth organ, been, banjo etc."]
+	},
+
+	{"tag": "c5_q431",
+		"patterns": ["Have you seen someone blowing on their spectacles to wipe them clean? How does the air from the mouth help in cleaning the spectacles?"],
+		"response": ["Yes I have seen some of them blow air onto the spectacles to clean them. The moist from the air blown gets converted into droplets of water on the glass and hence can clean the spectacles."]
+	},
+
+	{"tag": "c5_q432",
+		"patterns": ["Take a glass. Bring it near your mouth and blow hard on it. Do this two or three times. Does the glass look hazy?"],
+		"response": ["Yes by blowing air into the glass, the moist formed by the air blown comes in contact with the glass which makes the glass look hazy. It’s not just the glass even the mirror also becomes hazy when air is blown onto it."]
+	},
+
+	{"tag": "c5_q433",
+		"patterns": ["Can you make a mirror hazy in the same way? Can you tell by touching the mirror what made it hazy? Is the air you blew from your mouth dry or wet?"],
+		"response": ["Yes I can make the mirror hazy as well. When we blow the air, the moist formed by the air blown comes in contact with the mirror which makes the mirror look hazy. The air blew from the mouth is wet."]
+	},
+
+	{"tag": "c5_q434",
+		"patterns": ["Put your hand on your chest. When you breathe in, does your chest come out or go in."],
+		"response": ["By putting hand on the chest when we breathe in, the chest comes out."]
+	},
+
+	{"tag": "c5_q435",
+		"patterns": ["Measure your chest\n– Take a deep breath in, Ask your friend to measure your chest with a thread. Measurement ….\n– Now breathe out. Again ask your friend to measure your chest. Measurement …\n– Was there any difference in the two measurements of your chest?"],
+		"response": ["Measurement of chest when I take a deep breathe in is 25cm.\nMeasurement of chest when I breathe out is 21cm.\nYes, there is a difference in two measurements, when we breathe in the chest comes out and measures more. While we breathe out, the chest goes in and measure less."]
+	},
+
+	{"tag": "c5_q436",
+		"patterns": ["Put your finger under your nose. Can you feel any air when you breathe out from your nose?"],
+		"response": ["When I put my figure under my nose yes I can feel the air which we breathe out."]
+	},
+
+	{"tag": "c5_q437",
+		"patterns": ["Count how many times in one minute do you breathe in and breathe out."],
+		"response": ["Around 16-18 times per minute I breathe in and breathe out."]
+	},
+
+	{"tag": "c5_q438",
+		"patterns": ["Jump 30 times. Did you feel breathless?"],
+		"response": ["Yes by jumping 30 times I felt breathless."]
+	},
+
+	{"tag": "c5_q439",
+		"patterns": ["Now again count how many times in one minute you breathed in and out."],
+		"response": ["So after jumping I breathed in and out around 25 times per minute."]
+	},
+
+	{"tag": "c5_q440",
+		"patterns": ["What was the difference in your count before and after jumping?"],
+		"response": ["The difference in count before and after jumping is 7 counts, since the rate of breathing increases due to jumping."]
+	},
+
+	{"tag": "c5_q441",
+		"patterns": ["You have all heard the ‘tick tick’ of the clock. Have you seen a doctor using a stethoscope to listen to our chest? What do you think she hears? Where is the sound coming from?\nIs there a clock inside your chest that keeps ticking away?"],
+		"response": ["Yes I have a seen a doctor using a stethoscope to listen to our chest. She hears the heartbeat. The sound of the heartbeat comes\nfrom the heart while it pumps blood to the other parts of the body. No its not a clock to keep ticking away, it’s the heart which is beating."]
+	},
+
+	{"tag": "c5_q442",
+		"patterns": ["Do you want to listen to your heartbeat?\nTake a rubber tube as long as the distance from your shoulder to your elbow. At one end of the tube fix a funnel. Place the funnel on the left side of your chest. Put the other end of the tube to your ear. Listen carefully. Did you hear a dhak dhak sound?"],
+		"response": ["Yes I heard the sound."]
+	},
+
+	{"tag": "c5_q443",
+		"patterns": ["Stand with this snake below a fan. Look in which direction it moves. Take this paper snake to different places and observe its movement."],
+		"response": ["When we take the paper snake under a fan it rotates in anticlockwise direction since the air is moving downwards."]
+	},
+
+	{"tag": "c5_q444",
+		"patterns": ["Can you understand from the movement of the snake – if the air is moving upwards or downwards?"],
+		"response": ["Yes we can understand from the movement of the snake whether the air is moving upwards or downwards. If the paper snake moves in clockwise direction then we can say that the air is moving upwards.\nIf the paper snake moves in anticlockwise direction then we can say that the air is moving downwards."]
+	},
+
+	{"tag": "c5_q445",
+		"patterns": ["While playing, Amit hit a wall. His forehead was swollen. Didi immediately folded a scarf (4-5 times), blew on it and kept it on Amit’s forehead. Why do you think didi did this?"],
+		"response": ["Didi by doing so she could reduce the swollen area. By pressing a kerchief blown with air on the injury it gives relief and reduces pain."]
+	},
+
+	{"tag": "c5_q446",
+		"patterns": ["We blow to cool hot things as well as to warm them. Give examples of each."],
+		"response": ["To cool hot things like hot cup of tea, bowl of hot food etc. we blow air to cool.\nThings which are colder like a piece of cloth, hands can be warmed up by blowing air."]
+	},
+
+	{"tag": "c5_q447",
+		"patterns": ["Have you ever thought of people who do this work? What is our responsibility to keep the place clean?"],
+		"response": ["Doing such works may be very difficult and feels very dirty."]
+	},
+
+	{"tag": "c5_q448",
+		"patterns": ["Why do you think people need to do this kind of work?"],
+		"response": [" People need to do this work because of poverty and to keep our surroundings clean."]
+	},
+
+	{"tag": "c5_q449",
+		"patterns": ["If you were asked to do any five jobs shown in this picture, which would you choose? Why?"],
+		"response": ["The five jobs I wished to do is teaching, doctor, scientist, shopkeeper and artist. Because these jobs are easier when comparing to the rest."]
+	},
+
+	{"tag": "c5_q450",
+		"patterns": ["Which five jobs would you not choose? Why?"],
+		"response": ["Five jobs which I would not choose are sweeper, gatekeeper, construction worker, driver and cook.\nI wanted to do a job which satisfies my parents, which gives more respect and I want to lead a happy life."]
+	},
+
+	{"tag": "c5_q451",
+		"patterns": ["What kinds of work or jobs do people not want to do? Why?"],
+		"response": ["People do not want to do such kind of works which does not require our mental ability such as sweeping, cleaning and more."]
+	},
+
+	{"tag": "c5_q452",
+		"patterns": ["So, who does this kind of work? Why do people do this kind of work that others do not want to do?"],
+		"response": ["Poor and illiterate people do this kind of work because of their poverty and lack of education."]
+	},
+
+	{"tag": "c5_q453",
+		"patterns": ["What would happen if nobody did this work? If nobody cleared the garbage lying outside your school or your house for one week, then what would happen?"],
+		"response": ["If nobody will do this work then it will create a lot of problems. The garbage will get collected outside near to school and houses, it will gives bad smell due to the process of rotting."]
+	},
+
+	{"tag": "c5_q454",
+		"patterns": ["Why did Gandhiji and his team start doing the job of cleaning. What do you think about this?"],
+		"response": ["Gandhiji and his team started doing the job of cleaning so that people come out of their mindset. He wanted to respect all kind of jobs too. He wanted to show that a particular job is not meant for particular people or caste."]
+	},
+
+	{"tag": "c5_q455",
+		"patterns": ["Do you know any such people in your area who try to help others in solving their problems? Find out and discuss in the class."],
+		"response": ["Yes, now a days also there is such people who try to help others in solving their problems."]
+	},
+
+	{"tag": "c5_q456",
+		"patterns": ["Guests at Gandhiji’s Ashram had to learn this work also. If you were one of these guests, what would you do?"],
+		"response": ["I would have learnt this work and would have happily done that."]
+	},
+
+	{"tag": "c5_q457",
+		"patterns": ["What are the toilet arrangements in your house? Where is the toilet? Inside the house, or outside? Who cleans the toilet?"],
+		"response": ["There are toilets in my house, one is attached to room and another one common for everyone. Toilet is inside the house. The toilet is modern with\ngood water facility. Usually mother cleans the toilet sometimes everyone will do."]
+	},
+
+	{"tag": "c5_q458",
+		"patterns": ["How did the man who was returning from the toilet behave with Mahadevbhai? Why did he behave like this?"],
+		"response": ["The man behaved with Mahadevbhai in insulting way. He behaved like this because his impression towards cleaning toilet is that it is a dirty job and people who do this are untouchables."]
+	},
+
+	{"tag": "c5_q459",
+		"patterns": ["How do people generally behave with those people who clean toilets and drains? Write."],
+		"response": ["People generally behave badly with those people who clean toilets and drains because the impression towards them is that they are untouchables."]
+	},
+
+	{"tag": "c5_q460",
+		"patterns": ["Narayan and Gandhiji discussed all this many years ago. Have things changed now?"],
+		"response": ["yes, these things have changed a lot and the concept of untouchability also vanished."]
+	},
+
+	{"tag": "c5_q461",
+		"patterns": ["Who does the cleaning in your school? What all has to be cleaned?"],
+		"response": ["There are sweepers who do cleaning in my school. They clean classroom, toilets and play ground."]
+	},
+
+	{"tag": "c5_q462",
+		"patterns": [" Do all children like you help in this? If yes, how?"],
+		"response": ["Yes, most of the students will help them by throwing the dusts in specified bins only."]
+	},
+
+	{"tag": "c5_q463",
+		"patterns": [" Do they sometimes have to miss classes to do this work?"],
+		"response": ["No, they won’t miss classes to do this work. Usually in free time we use to do this work."]
+	},
+
+	{"tag": "c5_q464",
+		"patterns": ["Do the girls and boys do the same kinds of work?"],
+		"response": ["Yes, both girls and boys do the same kind of work."]
+	},
+
+	{"tag": "c5_q465",
+		"patterns": ["What all work do you do at home?"],
+		"response": ["I use to help my mother in cooking, drying clothes and I use to bring vegetables from market along with my father."]
+	},
+
+	{"tag": "c5_q466",
+		"patterns": [" Is the work done by boys and girls, men and women the same?"],
+		"response": ["No, the work done by boys and girls, men and women are not same. But they can share their work and they can do it."]
+	},
+
+	{"tag": "c5_q467",
+		"patterns": ["Would you like to bring some change? What kind?"],
+		"response": ["Yes, both men and women, boys and girls should do all kinds of work."]
+	},
+
+	{"tag": "c5_q468",
+		"patterns": [" Is there any place to play near your house?"],
+		"response": ["Yes we have a playground, park near my house."]
+	},
+
+	{"tag": "c5_q469",
+		"patterns": ["What do people play there? Who plays there?"],
+		"response": ["People play cricket, throw ball etc. in the ground. Usually it’s the children who play in the ground."]
+	},
+
+	{"tag": "c5_q470",
+		"patterns": ["Do the children of your age also get a chance to play there?"],
+		"response": ["Yes children of my age get turns to play there."]
+	},
+
+	{"tag": "c5_q471",
+		"patterns": ["What other things happen at this place?"],
+		"response": ["Old age people go for a walk, people jog etc. are the other things which happen there."]
+	},
+
+	{"tag": "c5_q472",
+		"patterns": ["Has anyone ever stopped you from playing some games? Which games?"],
+		"response": ["Yes I was stopped from playing throw ball."]
+	},
+
+	{"tag": "c5_q473",
+		"patterns": ["Who stopped you and why? What did you do then?"],
+		"response": ["Some elderly person stopped me from playing throw ball, he feared it may fall on my head. I stopped playing it."]
+	},
+
+	{"tag": "c5_q474",
+		"patterns": ["Did anyone help you and encourage you to play?"],
+		"response": ["Yes little older people helped me and encouraged me to play throw ball."]
+	},
+
+	{"tag": "c5_q475",
+		"patterns": ["Do girls and boys play different types of games in your school or neighborhood? If yes, then which games do the boys play and which do the girls play?"],
+		"response": ["Almost all the games are played by both girls and boys. But few games are played by boys such as cricket, football, hockey, baseball etc. and girls play games such as table tennis, shuttle cock, basketball etc."]
+	},
+
+	{"tag": "c5_q476",
+		"patterns": ["Do you think that there is any difference between the games and the way they are played by boys and girls?"],
+		"response": ["Yes there is a difference between the way boys and girls play the game. Boys usually play very harshly whereas girls prefer playing smoothly."]
+	},
+
+	{"tag": "c5_q477",
+		"patterns": ["Should the games for boys and the girls be different? What do you think?"],
+		"response": ["I think there should not be any differentiation between girls and boys. Since both are treated equally, anyone can play the game they like."]
+	},
+
+	{"tag": "c5_q478",
+		"patterns": ["Have you ever played as part of a team of your class, school or neighborhood? Whom did you play with? What game did you play?"],
+		"response": ["Yes I have played for my school team. I played along with my classmates as well as seniors. We played throw ball."]
+	},
+
+	{"tag": "c5_q479",
+		"patterns": ["What is the difference between playing for yourself and for the team?"],
+		"response": ["There’s a huge difference between playing for myself and for the team. When we play for oneself there is no competition nor there is any fun. But when we play with a team of members we enjoy a lot, we learn how to play and there would be a healthy competition."]
+	},
+
+	{"tag": "c5_q480",
+		"patterns": ["While playing in a team would you like to play for yourself or for the team? Why?"],
+		"response": ["While playing in a team I would like to play for the team rather than for myself. When we play in a team there would be a better understanding between the team members and it would teach us unity is strength."]
+	},
+
+	{"tag": "c5_q481",
+		"patterns": ["Is your team like the team Afsana played with at Sholapur or like the Nagpada team? How?"],
+		"response": [" Our team is more like Nagpada team. There is good understanding among our team members, good cooperative, good energy, encouraged each other while playing. Since there is good unity among team members similarly we would also try being perfect and successful.\nHence we can say that our team is also same as Nagpada team."]
+	},
+
+	{"tag": "c5_q482",
+		"patterns": ["Have you ever taken part in some game or competition from your school or area? How did you feel?"],
+		"response": ["Yes I have taken part in the game, I felt great when I took part in my school’s competition."]
+	},
+
+	{"tag": "c5_q483",
+		"patterns": ["Did you go to some other place to play? What was that place like? How did you like going to that place?"],
+		"response": ["Yes we went to other school to play the game. The school looked nice and I liked the school environment when I was there."]
+	},
+
+	{"tag": "c5_q484",
+		"patterns": ["Have you seen matches being played between India and other countries? Which ones?"],
+		"response": ["Yes I have seen matches being played between India and other countries. I liked India and Australia cricket match."]
+	},
+
+	{"tag": "c5_q485",
+		"patterns": ["We all know about the cricketers of India, and we all like them. Do people also know and like the Indian players who play some other games? (Yes or No). What do you feel about it? Do you know the players of the Indian football or kabaddi team?"],
+		"response": ["Yes, few of the Indian players of other games are liked by the people. I feel happy that other games are becoming popular. No I have no idea about Indian football or kabaddi team."]
+	},
+
+	{"tag": "c5_q486",
+		"patterns": ["What would happen if girls are not allowed to play games, to study or do some other work of their choice?"],
+		"response": ["If girls were not allowed to play games or study or do any other work of their choice then it would badly affect her mentally and physically. If freedom is not given they cannot showcase their talent either."]
+	},
+
+	{"tag": "c5_q487",
+		"patterns": ["How would you feel if you were not allowed to take part in some game or drama?"],
+		"response": ["It would make me feel bad if I were not allowed to take part in some game or drama."]
+	},
+
+	{"tag": "c5_q488",
+		"patterns": ["Have you heard of any women players? Name them and the games they play."],
+		"response": ["Yes I have heard women players,\nPT Usha (Athletics)\nSania Mirza (Tennis)\nMary Kom (Boxing)\nSaina Nehwal (Badmiton)\nPV Sindhu (Badminton)\nJwala Gutta (Badminton)"]
+	},
+
+	{"tag": "c5_q489",
+		"patterns": ["In which areas other than sports have you heard of women getting recognition?"],
+		"response": ["There are areas where women get recognition other than sports like:\nKalpana Chawla (Astronaut)\nPratibha Patil (First Lady President of India)\nKiran Bedi (Police Officer)\nIndira Gandhi (First Lady Prime minister of India)\nBachandri Pal (First Indian Lady to climb the Mount Everest)"]
+	},
+
+	{"tag": "c5_q490",
+		"patterns": ["Are these women less known than men? Why?"],
+		"response": ["No these women are not less known than the men. These women have brought huge pride and respect to the country in their respective fields."]
+	},
+
+	{"tag": "c5_q491",
+		"patterns": ["How would you find the world to be, if girls never got a chance to take part in games, drama or dance? How would you feel if such a thing happened to boys?"],
+		"response": ["If girls never got a chance to take part in games, drama or dance then there would be no competitions or challenges among people and hence it would become uneven world. Similarly in case of boys when it is vice-versed."]
+	},
+
+	{"tag": "c5_q492",
+		"patterns": ["Do you know of any woman or girl who you would want to be like when you grow up? (Think of names other than a film actor or a model)"],
+		"response": ["Yes I would want to become like Sunita Williams (Astronaut) when I grow up."]
+	},
+
+	{"tag": "c5_q593",
+		"patterns": ["The newspaper report said, “Afsana has jumped over the wall. The gender wall that her mother had put up for her.” Think and write in your own words, what was this wall? What do you understand by ‘gender bias’?"],
+		"response": ["The word wall here refers to the gender bias. Usually in rural parts of India there still exists the differentiation between the genders. Girls are usually not allowed to study, work or do anything of her choice, boys are given more attention than girls. Here,\nAfsana’s mother is trying to tell Afsana to continue with the household work rather than to work outside. Firstly this gender bias has to be removed from people’s mind and equal rights has to be given to both girls and boys."]
+	},
+
+	{"tag": "c5_q494",
+		"patterns": ["Should games for boys and girls be different? Think and write what you feel."],
+		"response": ["I feel there should be no different games for boys or girls. Games give a relief for mind be it a boy or a girl. Physical activity is an important aspect in child’s life. Playing different games allows child’s mind to be active. So there should not be any differentiation between boys or girls."]
+	},
+
+	{"tag": "c5_q495",
+		"patterns": ["If you are made the leader of a team, how will you prepare your team?"],
+		"response": ["If I were made the leader of a team, I would just prepare them as the Nagpada team by keeping in mind few things such as:\nEncouraging them to play enthusiastically.\nRespect each other in a team.\nMaintaining cooperation among the team.\nNever discourage anyone and support each other in difficult times.\nHave a healthy competition."]
+	},
+
+	{"tag": "c5_q496",
+		"patterns": ["Jatrya felt alone, even in a crowd of people. Have you ever felt like this?"],
+		"response": ["Yes, there are times I felt alone even in a crowd of people. When I joined school even though many people surrounded me, I felt alone."]
+	},
+
+	{"tag": "c5_q497",
+		"patterns": ["Imagine how it feels to leave one’s own place and go far away to live in a new place?"],
+		"response": ["It is very difficult to leave one’s own place and go far away to live in a new place. The people, place everything looks strange."]
+	},
+
+	{"tag": "c5_q498",
+		"patterns": ["Why do you think families like that of Jatrya’s are coming to big cities?"],
+		"response": ["Because small cities and villages do not have much opportunities. Big cities have much opportunities for education as well as for jobs."]
+	},
+
+	{"tag": "c5_q499",
+		"patterns": ["Have you seen any children (in your school or neighborhood) who also go to work?"],
+		"response": ["Yes, I saw many children go to work."]
+	},
+
+	{"tag": "c5_q500",
+		"patterns": ["What kind of work do they do? Why do they have to work?"],
+		"response": ["They use to sell something, cleaning the vehicles and serving the food in hotels."]
+	},
+
+	{"tag": "c5_q501",
+		"patterns": ["In Khedi village what all did children learn?"],
+		"response": [" Children in Khedi village learnt dancing, playing flute and dhol, making vessels and other things from bamboo and clay and recognizing birds and imitating their sounds."]
+	},
+
+	{"tag": "c5_q502",
+		"patterns": ["What do you learn from your elders?"],
+		"response": ["I learnt maintaining love and affection towards people and animals, respecting the elders, helping others in their difficult times and many more."]
+	},
+
+	{"tag": "c5_q503",
+		"patterns": ["Jatrya learnt so many things in Khedi. How many of those would be useful for him in Mumbai?"],
+		"response": ["Jatrya learnt so many things in khedi which will be helpful in Mumbai. Some of them are playing flutes,\ndhol and selling the goods these will help in earning money in Mumbai."]
+	},
+
+	{"tag": "c5_q504",
+		"patterns": ["Do you hear the sounds of birds every day? Which ones?"],
+		"response": ["Yes, I hear the sounds of some birds like crow, pigeon and sparrow."]
+	},
+
+	{"tag": "c5_q505",
+		"patterns": ["What are some of the sounds that you hear every day, but the people of Khedi may not be hearing?"],
+		"response": ["I use to hear horn of vehicles, sound of ambulance and police vehicle siren."]
+	},
+
+	{"tag": "c5_q506",
+		"patterns": ["Have you experienced silence? When and where?"],
+		"response": ["Yes, I experienced silence in library and while sleeping."]
+	},
+
+	{"tag": "c5_q507",
+		"patterns": ["Many people in Jatrya’s village did not agree to move away\nfrom their land and forest. Why? They had to leave even though they didn’t want to. Why?"],
+		"response": ["The land and forest were associated with fond memories of many generations of people. Their forefathers had been living on the land since a long period.\nThey were forced to leave the place by government officials and the police. Moreover, they were also promised to be sent to a\nbetter place. They were promised that the new place would have better facilities in terms of electricity and water."]
+	},
+
+	{"tag": "c5_q508",
+		"patterns": ["In Khedi, how many people were there in Jatrya’s family? When he thought about his family who all came to his mind?"],
+		"response": ["There were three people in Jatrya’s family in Khedi. But for Jatrya the whole village like her family. When he thought about his family his future wife\nand his future children came to his mind."]
+	},
+
+	{"tag": "c5_q509",
+		"patterns": ["Who all come to your mind when you think about your family?"],
+		"response": ["When I think about my family, my parents, grandparents, cousins all come to my mind."]
+	},
+
+	{"tag": "c5_q510",
+		"patterns": ["Have you heard of people who don’t want to be moved from their old place? Talk about them."],
+		"response": [ "Yes, my grandparents don’t want to be moved from their old place because they won’t feel comfortable in cities and they love to enjoy fresh air and open space of village."]
+	},
+
+	{"tag": "c5_q511",
+		"patterns": ["Do you know some people who have never been to school? Do you also know of any place where there is no school?"],
+		"response": ["yes, my grandparents never been to school. I heard there is no school in some villages of Meghalaya."]
+	},
+
+	{"tag": "c5_q512",
+		"patterns": ["Think of the kinds of difficulties people have to face where a dam is being built."],
+		"response": ["People face many difficulties where a dam is being built. They are people are forced to leave their place\nalong with family, houses, farms and agricultural fields get destroyed, they have to relocate to new place and have to struggle for work, education and medical facilities."]
+	},
+
+	{"tag": "c5_q513",
+		"patterns": ["Was Sinduri like the village of Jatrya’s dreams?"],
+		"response": ["Sinduri village is not like the village of Jatrya’s dreams."]
+	},
+
+	{"tag": "c5_q514",
+		"patterns": ["What difference did he find between Sinduri and his dream village?"],
+		"response": ["The houses in Sinduri village is made up of tin sheets and were very weak, there was no electricity in Sinduri\nvillage, there was no open space, schools and hospitals were there in Sinduri along with bad smell coming from burning of tire. Thus Sinduri village is totally different from Jatrya’s dream village."]
+	},
+
+	{"tag": "c5_q515",
+		"patterns": ["Have you ever been to anyone’s house as an ‘unwanted guest’? How did you feel?"],
+		"response": ["No, I have never been to anyone’s house as an ‘unwanted guest’. Unwanted guests would not be treated properly and they will feel lonely."]
+	},
+
+	{"tag": "c5_q516",
+		"patterns": ["What all does your family do, when you have guests at home for a few days?"],
+		"response": ["When guests come to our home for few days we will treat them in special way by preparing nice dishes, we provide all facilities\nwhich are they need for their comfortable stay along with love and care."]
+	},
+
+	{"tag": "c5_q517",
+		"patterns": ["What had Jatryabhai thought while moving to Mumbai? Did he find Mumbai as he had imagined?"],
+		"response": ["The problems of Sinduri village made Jatrya think as if he was an unwanted guest in the village. He wanted to leave Sinduri. As he could not go back to Khedi so he thought of moving to Mumbai.\nHe did not find Mumbai as he had imagined, it was difficult to live in Mumbai."]
+	},
+
+	{"tag": "c5_q518",
+		"patterns": ["What kind of school do you think Jatrya’s children would be going to in Mumbai?"],
+		"response": ["Jatrya’s children would be studying in government school in Mumbai."]
+	},
+
+	{"tag": "c5_q519",
+		"patterns": ["Have you ever read or heard of a city slum being removed? How do you feel about this?"],
+		"response": ["Yes, I heard in the news the slum being removed from an area of Yamuna River which is located in Delhi.\nI felt very bad for these people who use to stay in slums without shelter and food."]
+	},
+
+	{"tag": "c5_q520",
+		"patterns": ["People also shift from one place to another when they get transferred in their jobs? How do they feel then?"],
+		"response": ["Transfer is an integral part of jobs so people should shift from one place to another. In this situation they feel very bad to leave their friends, colleagues and their house. In new place again\nthey have to search for schools, work place and have to adjust for new people and new environment."]
+	},
+
+	{"tag": "c5_q521",
+		"patterns": ["Are rotis made in your home? From which grains are they made?"],
+		"response": ["Yes, rotis are made in my home. They are made from wheat and sometimes from rice and ragi."]
+	},
+
+	{"tag": "c5_q522",
+		"patterns": ["Have you eaten roti made from bajra or jowar? Did you like these?"],
+		"response": ["Yes, I have eaten roti made from bajra and jowar. They were very tasty."]
+	},
+
+	{"tag": "c5_q523",
+		"patterns": ["In your house what is done to protect grains and pulses from insects?"],
+		"response": ["We use to keep pulses and grains in air tight container and some pulses are sun dried."]
+	},
+
+	{"tag": "c5_q524",
+		"patterns": ["Which are the different festivals related to farming, celebrated in different seasons? Find out more about any one such festival and write in your notebook –\nThe name of the festival, in which season is it celebrated,\nin which states of India, what special foods are made, is it celebrated only at home with the family, or together with many people."],
+		"response": ["There are many festivals related to farming. They are pongal, lohri, Baisaki, Makara Sankranthi, holi and more. Makara Sankranthi is celebrated in Karnataka during winter season. Yellu Bella is made in the main dish in this festival.\nIn Tamilnadu Makara Sankranthi is celebrated as Pongal. Likewise Lohri is celebrated in Punjab during winter season."]
+	},
+
+	{"tag": "c5_q525",
+		"patterns": ["Talk to the elders in your family and find out if there were some special foods cooked earlier that are not cooked anymore?"],
+		"response": ["Gruel is the food consisting of some type of cereal—oat, wheat, or rye flour or rice—boiled in water or milk were made in home."]
+	},
+
+	{"tag": "c5_q526",
+		"patterns": ["Find out about the crops – cereals, vegetables, pulses – that are grown in your area. Of those, is there anything that is famous across the country?"],
+		"response": ["Many crops like wheat, coffee, pepper, banana, and rice. Of these rice is famous across the country."]
+	},
+
+	{"tag": "c5_q527",
+		"patterns": ["The bajra seed saw differences in the way Damjibhai and Hasmukh did farming (for example, in irrigation, ploughing, etc.).\nWhat were these differences?"],
+		"response": ["Damjibhai did farming in a different way than how Hasmukh did. Damjibhai followed the traditional method of farming. He used bullocks to plough the field. He stored grains to be used as seeds.\nHasmukh on the other hand started modern or new methods of farming. He bought tractor to plough the field. Expensive fertilizers used to grow more crops."]
+	},
+
+	{"tag": "c5_q528",
+		"patterns": ["Hasmukh said, “With profits from our fields, we can progress.” What is your understanding of ‘progress’?"],
+		"response": ["Progress means a better lifestyle. People get better standard of living like education, medical and nutritious food."]
+	},
+
+	{"tag": "c5_q529",
+		"patterns": ["What kind of progress would you like to see in your area?"],
+		"response": ["I would like to see well equipped hospitals, better roads, good transport system and a good education systems in schools."]
+	},
+
+	{"tag": "c5_q530",
+		"patterns": ["What can happen to Hasmukh’s farm after some years?"],
+		"response": ["Hasmukh’s farm will lose fertility after some years because Hasmukh is using chemical fertilizers."]
+	},
+
+	{"tag": "c5_q531",
+		"patterns": ["Damjibhai’s son Hasmukh chose to become a farmer like his father. Hasmukh’s son Paresh is not a farmer, but a truck driver. Why would he have done so?"],
+		"response": ["Paresh could see that his father was running into losses. Farming had become a capital intensive activity with little profit. Hence, Paresh would have decided to switch to a new occupation."]
+	},
+
+	{"tag": "c5_q532",
+		"patterns": ["The seeds were not sure that what Hasmukh was talking about was really progress. What do you feel?"],
+		"response": ["I think the new method of agriculture tends to overexploit the soil and other resources.\nThis leads to the loss of fertility of soil which may result in land becoming barren.\nA machine can do the work of many people which leaves many people jobless. Too much irrigation depletes the ground water and thus leaves little water for future. Apparently it looks like progress, but it is not the real progress."]
+	},
+
+	{"tag": "c5_q533",
+		"patterns": ["Have there been any changes near your area, which may be difficult to call ‘progress’? What changes are these? What are the different opinions about them?"],
+		"response": ["Yes, there are many changes which may not be called progress in the real sense. Let us take example of growing number of vehicles on road.\nMore vehicles made traveling easier but it is also reason for air and noise pollution. Similarly, many machines have been invented\nwhich can do the job of thousands of people and thus thousands of people are jobless."]
+	},
+
+	{"tag": "c5_q534",
+		"patterns": ["What do you think is a forest?"],
+		"response": ["Forest is a large area covered with varities of trees. It provides shelter for animals, insects and birds."]
+	},
+
+	{"tag": "c5_q535",
+		"patterns": ["If someone grew lots of trees close to each other, would this become a forest?"],
+		"response": ["No, this would not become a forest because it won’t grow thicker like forest."]
+	},
+
+	{"tag": "c5_q536",
+		"patterns": ["Other than trees what all is there in a forest?"],
+		"response": [" Apart from trees, forest consists of animals, birds and insects."]
+	},
+
+	{"tag": "c5_q537",
+		"patterns": ["Do all forests have similar types of trees? How many trees can you identify?"],
+		"response": ["No, all forests does not have similar types of trees. I can identify the trees like banyan tree, neem tree, mango tree and sandal tree."]
+	},
+
+	{"tag": "c5_q538",
+		"patterns": ["Suryamani says, “If the forests are not there, we too will not remain.” Why so?"],
+		"response": ["Because they help to maintain the balance of environment. Green plants absorb carbon dioxide and\nrelease oxygen which is a basic need. Forest also provides\nShelter, food for many living beings."]
+	},
+
+	{"tag": "c5_q539",
+		"patterns": ["Do you know anyone who loves the forest?"],
+		"response": ["Yes, I and my parents love forest."]
+	},
+
+	{"tag": "c5_q540",
+		"patterns": ["The contractor did not allow Suryamani’s people to go into the forest. Why?"],
+		"response": ["The contractor may have been in the forest for cutting the trees to sell somewhere.\nHe may not want local people to use forest resources and hence did not allow Suryamani’s people to go in to the forest."]
+	},
+
+	{"tag": "c5_q541",
+		"patterns": ["Is there any place around your area which you feel should be open to everyone, but where people are not allowed to go?"],
+		"response": ["Yes, there is a pond in my place which should be open to everyone but for safety purpose they won’t allow to go there."]
+	},
+
+	{"tag": "c5_q542",
+		"patterns": ["Who do you think the forest belongs to?"],
+		"response": ["Forests belongs to everyone."]
+	},
+
+	{"tag": "c5_q543",
+		"patterns": ["Bhudhiyamai said –“Forest is our ‘collective bank’ – not yours or mine alone.” Are there other things which are our collective wealth?\nSo if someone uses more, everyone would suffer?"],
+		"response": ["Yes, there are some other things which are our collective wealth. They are ground water, minerals, and fossils."]
+	},
+
+	{"tag": "c5_q544",
+		"patterns": ["Do you have a friend with whom you can share everything?"],
+		"response": ["Yes, I have a friend with whom I can share everything."]
+	},
+
+	{"tag": "c5_q545",
+		"patterns": ["Some people have moved so far away from the forest, that they can’t understand the lives of forest people.\nSome even call them ‘jungli’. Why is it not correct to say this?"],
+		"response": ["The word jungli referred as uncivilized. These peoples have their own distinct culture. They are not civilized rather\nthey are living in a way which is different than our way of living. Hence it is wrong to call them jungli."]
+	},
+
+	{"tag": "c5_q546",
+		"patterns": ["Do you have an adivasi friend? What have you learnt about the forest from her."],
+		"response": ["No, I don’t have adivasi friend."]
+	},
+
+	{"tag": "c5_q547",
+		"patterns": ["Do you know of anyone who works to save forests?"],
+		"response": ["Yes, I know she is famous for planting trees and her name is Saalu Marada Thimmakka."]
+	},
+
+	{"tag": "c5_q548",
+		"patterns": ["What is your dream? What will you do to make your dream come true?"],
+		"response": ["I want to become doctor. I will read well to make my dream come true."]
+	},
+
+	{"tag": "c5_q549",
+		"patterns": ["Is there any factory or some construction work going on in and around your area? What type of work?"],
+		"response": ["Yes, construction work is going on my area. Metro construction is going on my area."]
+	},
+	{"tag": "c5_q550",
+		"patterns": ["Due to the factory is there any effect on the trees and land? Have the people in that area raised this issue?"],
+		"response": ["Yes, due to construction pollution trees are affected. Now, people of that particular area raised this issue."]
+	},
+
+	{"tag": "c5_q551",
+		"patterns": ["What all is shown in the map?"],
+		"response": ["The given map is map of India which shows states and forests located in India."]
+	},
+
+	{"tag": "c5_q552",
+		"patterns": ["Is there a sea close to Orissa? How did you find out?"],
+		"response": ["Yes, Bay of Bengal is closer to Orissa. I found by the help of map."]
+	},
+
+	{"tag": "c5_q553",
+		"patterns": ["Which are the states which have the sea on one side?"],
+		"response": ["The following states have sea on one side. They are Kerala, Karnataka, Goa, Maharashtra, Tamil Nadu,\nAndhra Pradesh, Telagana, Gujarat, Orissa and West Bengal."]
+	},
+
+	{"tag": "c5_q554",
+		"patterns": ["Where is Suryamani’s state Jharkhand on the map?"],
+		"response": ["Jharkhand is situated in south of Bihar."]
+	},
+
+	{"tag": "c5_q555",
+		"patterns": ["Where are forests on the map? How will you find these?"],
+		"response": ["Forests are in almost all states of India. Forests are marked in green colour."]
+	},
+
+	{"tag": "c5_q556",
+		"patterns": ["How can you find out which states have very thick forests and which have less thick forests?"],
+		"response": ["Thick forests are marked in dark green colour and less thick forests are marked in parrot or light green colour."]
+	},
+
+	{"tag": "c5_q557",
+		"patterns": ["For someone in Madhya Pradesh, in which direction would the country’s thickest forests be? Name those states."],
+		"response": ["For someone in Madhya Pradesh, the country’s thickest forests would be in north and in east.\nThe states with thick forests are Arunachal Pradesh, Uttharkhand, Jharkhand and Chhattisgarh."]
+	},
+
+	{"tag": "c5_q558",
+		"patterns": ["Which are the states around Mizoram?"],
+		"response": ["The States around Mizoram are Tripura, Assam and Manipur."]
+	},
+
+	{"tag": "c5_q559",
+		"patterns": ["Chamui said they measure land using tin. Which are the other ways of measuring land?"],
+		"response": ["Some of the other ways to measure land are in yards, square meters and in feet."]
+	},
+
+	{"tag": "c5_q560",
+		"patterns": ["Returning from school, children drank water in a bamboo cup. Who do you think would have made this cup and kept it in the forest? Why?"],
+		"response": ["The adivasis would have made this cups. They made those cups to help travelers."]
+	},
+
+	{"tag": "c5_q561",
+		"patterns": ["What could be done to save forests?"],
+		"response": ["Some of the measures to save forests are:\n1. By planting more trees.\n2. Control over forest fire.\n3. Regulated and planned cutting of trees.\n4. Reforestation."]
+	},
+
+	{"tag": "c5_q562",
+		"patterns": ["Does your face or anything else look similar to that of someone else in your family? What is it?"],
+		"response": ["Yes, some my facial features resembles my parents. My eyes and eye lashes are like my mother, teeth like my father."]
+	},
+
+	{"tag": "c5_q563",
+		"patterns": ["Did someone tell you this or did you find it out yourself?"],
+		"response": ["My relatives and neighbors told to me this."]
+	},
+
+	{"tag": "c5_q564",
+		"patterns": ["How do you feel when people compare you with someone else in your family? Why do you feel so?"],
+		"response": ["I feel happy because I am a part of great family."]
+	},
+
+	{"tag": "c5_q565",
+		"patterns": ["Who laughs the loudest in your family? Laugh like that person."],
+		"response": ["My uncle laughs loudest in my family."]
+	},
+
+	{"tag": "c5_q566",
+		"patterns": ["Make a list of all the family members from Nilima’s nani to little Samir. How they all are related to Nilima? Write."],
+		"response": ["List of Nilima’s family members:\nNani – Nilima’s grandmother\nEldest nani – Nilima’s nani’s sister\nElder son of nani – Nilima’s mama\nKiran – Nilima’s cousin\nSamir – Nilima’s nephew"]
+	},
+
+	{"tag": "c5_q567",
+		"patterns": ["In your family are there any such examples of uncle-nephews or brother-sisters, where there is a big difference in the age? Find out from your elders."],
+		"response": ["Yes, I do have uncle-nephews, brother and sisters are in my family where there is big age difference in the age."]
+	},
+
+	{"tag": "c5_q568",
+		"patterns": ["Have you seen a very young child in your (or any other) family? Whom does the child’s eyes, nose, hair or fingers look like in the family? Write their names."],
+		"response": [" Yes, I have seen my aunt’s child. Child’s eyes like mother, nose like father, hair like child’s brother and fingers like grandfather."]
+	},
+
+	{"tag": "c5_q569",
+		"patterns": ["Nilima’s hair is like her nani’s – thick and curly. Nilima’s mother has straight, brown and limp hair? What type of hair do you have – black or brown, oily or dry?"],
+		"response": ["I have black straight hair."]
+	},
+
+	{"tag": "c5_q570",
+		"patterns": ["What is the colour of your hair? Measure and write the length of your hair."],
+		"response": ["My hair colour is black it is nearly 35cm."]
+	},
+
+	{"tag": "c5_q571",
+		"patterns": ["Is your hair like that of anyone else in your family? If yes, then name the person."],
+		"response": ["Yes, it is like my father."]
+	},
+
+	{"tag": "c5_q572",
+		"patterns": ["Who has the longest hair in your family?"],
+		"response": ["My mother has the longest hair in my family."]
+	},
+
+	{"tag": "c5_q573",
+		"patterns": ["How many people do you know whose hair is longer than one metre? Does having long hair run in their family?"],
+		"response": ["My teacher has longer hair than one metre. Yes, I heard having long hair runs in her family."]
+	},
+
+	{"tag": "c5_q574",
+		"patterns": ["Do you know how to measure your height? Measure yourself from head to toe and write how tall you are."],
+		"response": ["Yes, I know how to measure height. I can do it using measuring tape or meter scale. My height is about 130cm."]
+	},
+
+	{"tag": "c5_q575",
+		"patterns": ["How tall do you think you will be when you grow up? Is anyone else in your family of the same height?"],
+		"response": ["I think I will be about 5.8 feet in height when I grow up because my father’s height is 5.8 feet."]
+	},
+
+	{"tag": "c5_q576",
+		"patterns": ["What is similar between Saroja and Suvasini? What is different?"],
+		"response": ["Both Saroja and Suvasini look like mirror images because they are twin sisters. Suvasini can speak both Marathi and Tamil, while Saroja can speak only Tamil. Suvasini is a good singer while Saroja is karate exponent."]
+	},
+
+	{"tag": "c5_q577",
+		"patterns": ["Do you know any twins? What is similar in them? How are they different?"],
+		"response": ["Yes, there are two twin sisters in my school. They look similar in almost every traits. One of them has a long nose."]
+	},
+
+	{"tag": "c5_q578",
+		"patterns": ["Have you read or heard anything about polio? Where?"],
+		"response": ["Yes, I heard about polio in newspaper."]
+	},
+
+	{"tag": "c5_q579",
+		"patterns": ["Have you read or heard any news about ‘pulse polio’? What?"],
+		"response": ["Yes, I heard about pulse polio. It is a program conducted by government\nto eradicate the polio from the country. Child below five years will give two drops of medicine and this is free of cost."]
+	},
+
+	{"tag": "c5_q580",
+		"patterns": ["Do you know of anyone who has polio?"],
+		"response": ["I saw many people who have polio."]
+	},
+
+	{"tag": "c5_q581",
+		"patterns": ["Did all the farmers in Dhanu’s village have their own land?"],
+		"response": ["No, some of the farmers in Dhanu’s village have their own land."]
+	},
+
+	{"tag": "c5_q582",
+		"patterns": ["During what time of the year did Dhanu’s family get work in the village? During what time did they not have work?"],
+		"response": ["Dhanu’s family gets work from before the rainy season till Dussehra. During the remaining six months, when there is no rain, they do not get work."]
+	},
+
+	{"tag": "c5_q583",
+		"patterns": ["Do you know of any families like Dhanu’s, who have to leave their villages for months in search of work?"],
+		"response": ["Yes, I know many of families who have left their village for months in search of work."]
+	},
+
+	{"tag": "c5_q584",
+		"patterns": ["If people in Dhanu’s village did not leave the village in search of work, what difficulties would they face in their own village?"],
+		"response": ["If people in Dhanu’s village did not leave the village in search of work, they would face many difficulties. They would not be able to earn\nenough money to fulfil their basic needs like food, clothes and shelter. They would not be able to provide education for their children."]
+	},
+
+	{"tag": "c5_q585",
+		"patterns": ["In Dhanu’s village, there can be no farming when there is no rain. Do you think farming can be done even without rain water? How?"],
+		"response": ["Yes, farming can also be done without rain water. Modern methods of irrigation technology can be used to provide required water for the crops.\nCanals, tanks and bores can be constructed to store water for irrigation."]
+	},
+
+	{"tag": "c5_q586",
+		"patterns": ["Dhanu’s family and many others from the village go far away for work but some people stay back in the village. Why does this happen?"],
+		"response": ["Some people need to stay in the village so that they can protect the house and cattle.\nThey also need to take care of elderly people who prefer to stay back in the village."]
+	},
+
+	{"tag": "c5_q587",
+		"patterns": ["When Dhanu and other children leave the village for six months, what happens in the village school?"],
+		"response": ["When Dhanu and other children leave the village for six months, the village school gets students from the families of big farmer’s only."]
+	},
+
+	{"tag": "c5_q588",
+		"patterns": ["What arrangements are made at your home for old and unwell family members when everyone goes for work?"],
+		"response": ["In my family everyone not goes for work and my mother takes care of for old and unwell family members."]
+	},
+
+	{"tag": "c5_q589",
+		"patterns": ["Why does Mami wish that Dhanu should go to school for the whole year and study?"],
+		"response": ["Mami wanted Dhanu to study well and get a good job so that he could work independently. Mami wished Dhanu to become a rich person and earn money and reputation from the society.\nMami did not want Dhanu to suffer like other family members. Thus, Mami wished Dhanu should go to school."]
+	},
+
+	{"tag": "c5_q590",
+		"patterns": ["What happens when you are not able to go to school for a long time?"],
+		"response": ["When I am unable to go to school for a long time, I am unable to grasp the concepts which were already taught."]
+	},
+
+	{"tag": "c5_q591",
+		"patterns": ["Dhanu has to go with his village people to other places. Can there be some arrangements during that time so that Dhanu continues his studies? What kind?"],
+		"response": ["Yes, Dhanu can get enrolled in a school in the new town. He can look for evening schools."]
+	},
+
+	{"tag": "c5_q592",
+		"patterns": ["Do you know of any jobs/work for which people have to stay away from their families for many months? Look for examples from this book and write."],
+		"response": ["Yes, due to job or work people have to stay away from their families for many months. They are jobs in military force,\nstudents who study in boarding schools, people who work in navy and people who do business."]
+	}
+
+]
